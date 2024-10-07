@@ -19,7 +19,8 @@ def run_WDC_singleField(topn=20):
     wiki_loader = WikiTables('./data')
     q_dict = wiki_loader.get_queries()
     queries = [es.analyze_query({'text': q_dict[q]}) for q in q_dict]
-    fields = ['content','textBefore','textAfter','pageTitle','title','header','catchall']
+    #fields = ['content','textBefore','textAfter','pageTitle','title','header','catchall']
+    fields = ['content']
     for field in fields:
         rs = es.bulk_search(queries,field)
         #generate result file
@@ -55,4 +56,4 @@ def collect_pooled_WDC_tables():
 
 if __name__  == '__main__':
    run_WDC_singleField()
-   collect_pooled_WDC_tables()
+   #collect_pooled_WDC_tables()

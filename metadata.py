@@ -13,7 +13,8 @@ path structure for extracting from wdc WebTable dumps:
 
 '''
 
-home_dir = os.getenv("HOME")
+#home_dir = os.getenv("HOME")
+home_dir = '/gpf1/suneja/Web-Table-Retrieval-Benchmark'
 # used for extracting dumps
 data_dir = os.path.join(home_dir,"data_dir")
 wdc_path = os.path.join(data_dir,'wdc') # root dir of WDC files
