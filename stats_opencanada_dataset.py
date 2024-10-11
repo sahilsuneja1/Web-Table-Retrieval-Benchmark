@@ -195,7 +195,7 @@ def read_file_csv(filepath, org_table_id=None):
     #print(content)
     #del content
     del df
-    yield table_id, content
+    return (table_id,content)
 
         
 def read_excel_sheet(filepath, engine, sheet_name):
@@ -216,7 +216,7 @@ def read_excel_file(filepath, org_table_id, engine):
         print(table_id)
         #print(content)
         #del content
-        yield table_id, content
+        return table_id,content
     else:    
         for sheet_name in df.sheet_names:
             table_id = table_id + '#' + sheet_name.replace(' ','_')
@@ -335,24 +335,25 @@ def read_file(filepath, org_table_id=None):
             set_global_ret_val_fail()
             return
 
-    inferred_extension = file_type.extension
-    if inferred_extension == 'zip':
-        return read_file_zip(filepath)
-
-    if 'xls' not in inferred_extension:
-        if org_table_id is None:
-            org_table_id = os.path.splitext(os.path.split(filepath)[-1])[0]
-        if org_table_id in global_tables_with_metadata: 
-            print(f"ERROR: Can't read file {filepath}; Unsupported filetype: {inferred_extension}")
-        else:
-            print(f"IGNORE: Can't read file {filepath}; Unsupported filetype: {inferred_extension}")
-        set_global_ret_val_fail()
-        return
-
-    if inferred_extension != suffix:
-        return rename_and_read_file(filepath, suffix, inferred_extension, org_table_id)
     else:
-        return _read_file(filepath, inferred_extension, org_table_id)
+        inferred_extension = file_type.extension
+        if inferred_extension == 'zip':
+            return read_file_zip(filepath)
+
+        elif 'xls' not in inferred_extension:
+            if org_table_id is None:
+                org_table_id = os.path.splitext(os.path.split(filepath)[-1])[0]
+            if org_table_id in global_tables_with_metadata: 
+                print(f"ERROR: Can't read file {filepath}; Unsupported filetype: {inferred_extension}")
+            else:
+                print(f"IGNORE: Can't read file {filepath}; Unsupported filetype: {inferred_extension}")
+            set_global_ret_val_fail()
+            return
+        else:
+            if inferred_extension != suffix:
+                return rename_and_read_file(filepath, suffix, inferred_extension, org_table_id)
+            else:
+                return _read_file(filepath, inferred_extension, org_table_id)
 
 
 def read_file_zip(filepath):

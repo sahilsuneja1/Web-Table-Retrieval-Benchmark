@@ -8,6 +8,7 @@ import pickle
 import json
 import gc
 import pdb
+import types
 from collections import Counter
 from extract import get_table_entities
 import stats_opencanada_dataset as ocd_utils
@@ -36,7 +37,7 @@ def update_status_lists(sample_filename, ret_val, proc_id):
         finished_list_file = 'es_finished_list.txt'
         failed_list_file = 'es_failed_list.txt'
     #if global_ret_val == 'FAIL':
-    if ret_val is True:
+    if ret_val is False:
         update_status_list(failed_list_file, sample_filename)
     #elif global_ret_val == 'SUCCESS':
     else:
@@ -81,7 +82,7 @@ def get_tables_metadata(metadata_file):
     return tables_metadata 
 
 
-def create_index(index_name = 'opencanada'):
+def create_index(index_name = 'opencanada',force=True):
     mappings = {
         "tid": Elastic.notanalyzed_field(),
         "content": Elastic.analyzed_field(),
@@ -90,7 +91,7 @@ def create_index(index_name = 'opencanada'):
         "catchall": Elastic.analyzed_field(),
     }
     elastic = Elastic(index_name,timeout = 200)
-    elastic.create_index(mappings,force=True)
+    elastic.create_index(mappings,force=force)
     return elastic
 
 
@@ -121,7 +122,7 @@ def index_table(elastic, tables_metadata, table_id, table_content):
 
 
 def index_tables(table_list=None, proc_id=None):
-    elastic = create_index('opencanada')
+    elastic = create_index('opencanada', force=True)
     dataset_dir = '/gpfs/suneja/opendata_canada/'
 
     tables_metadata = get_tables_metadata(dataset_dir+'/metadata.jsonl')
@@ -133,6 +134,13 @@ def index_tables(table_list=None, proc_id=None):
             table_list = [i.strip() for i in fd.readlines()]
 
     for idx, filename in enumerate(table_list):
+        if idx > 0:
+            break
+        #filename = '0bea29cc-fcc9-43e2-befa-e23253b6afa4.CSV'
+        #filename = '001f0680-4355-4d13-89c9-f3c20b2f3b06.XLSX'
+        #filename = "13d01023-8a69-46e9-904a-3806ee6d18bc.XLSX"
+        #filename = 'af458130-4b0f-44f1-85a9-36a9813fccb2.XLS'
+        filename = '003398fe-152b-4ce2-8056-94f0d2cb011d.CSV'
         if filename in finished_list:
             continue
         if filename in failed_list:
@@ -141,15 +149,29 @@ def index_tables(table_list=None, proc_id=None):
         ret_val = False
         print(f"{idx}: reading filename {filename}")
         try:
-            for table_id, table_content in ocd_utils.read_file(dataset_dir+'/tables/'+filename):
+            read_file_ret = ocd_utils.read_file(dataset_dir+'/tables/'+filename)
+            if not read_file_ret:
+                print("None read_file_ret\n")
+                update_status_lists(filename, ret_val, proc_id)    
+                gc.collect()
+                continue
+            read_file_ret_type = type(read_file_ret)    
+            if read_file_ret_type != tuple and read_file_ret_type != types.GeneratorType:
+                print("Unexpected read_file_ret\n")
+                update_status_lists(filename, ret_val, proc_id)    
+                gc.collect()
+                continue
+            if read_file_ret_type == tuple:
+                read_file_ret = [read_file_ret]
+            for table_id, table_content in read_file_ret:
                 print(f"indexing table_id {table_id}")
                 _ret_val = index_table(elastic, tables_metadata, table_id, table_content)
                 if _ret_val is True:
                     ret_val = True  #any one works => log success
+                gc.collect()
         except Exception as e:
             print(f"ERROR processing filenae {filename}: {e}")
             #set_global_ret_val_fail()
-        gc.collect()
         print('')            
         update_status_lists(filename, ret_val, proc_id)    
 
@@ -158,7 +180,7 @@ def index_tables(table_list=None, proc_id=None):
 
 if __name__ == '__main__':
     global_ret_val = 'FAIL'
-    pdb.set_trace()
+    #pdb.set_trace()
     index_tables()
 
 
