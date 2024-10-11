@@ -41,7 +41,7 @@ def get_ground_truth_dataset_ids():
 
 def get_dataset_table_mapping(ignore_sheets=True):
     id_mappings = {}
-    with open('/gpfs/suneja/opendata_canada/metadata.jsonl') as f:
+    with open('metadata.jsonl') as f:
         full_mappings = [json.loads(line) for line in f]
     for full_mapping in full_mappings:
         if 'data_error' in full_mapping:
@@ -193,9 +193,8 @@ def read_file_csv(filepath, org_table_id=None):
         table_id = os.path.splitext(os.path.split(filepath)[-1])[0]
     print(table_id)
     #print(content)
-    #del content
+    del content
     del df
-    yield table_id, content
 
         
 def read_excel_sheet(filepath, engine, sheet_name):
@@ -215,25 +214,23 @@ def read_excel_file(filepath, org_table_id, engine):
         content = read_excel_sheet(filepath, engine, sheet_name=df.sheet_names[0])
         print(table_id)
         #print(content)
-        #del content
-        yield table_id, content
+        del content
     else:    
         for sheet_name in df.sheet_names:
             table_id = table_id + '#' + sheet_name.replace(' ','_')
             content = read_excel_sheet(filepath, engine, sheet_name)
             print(table_id)
             #print(content)
-            #del content
-            yield table_id, content
+            del content
     del df        
        
 
 def read_file_xlsx(filepath, org_table_id):    
-    return read_excel_file(filepath, org_table_id, engine='openpyxl')
+    read_excel_file(filepath, org_table_id, engine='openpyxl')
 
 
 def read_file_xls(filepath, org_table_id):
-    return read_excel_file(filepath, org_table_id, engine='xlrd') 
+    read_excel_file(filepath, org_table_id, engine='xlrd') 
 
 
 def read_file_zip_strict(filepath):
@@ -297,9 +294,9 @@ def read_files_trust_extension():
 
 def _read_file(filepath, inferred_extension, org_table_id):
     if inferred_extension == 'xls':
-        return read_file_xls(filepath, org_table_id)
+        read_file_xls(filepath, org_table_id)
     else: #inferred_extension == 'xlsx':
-        return read_file_xlsx(filepath, org_table_id)
+        read_file_xlsx(filepath, org_table_id)
        
 
 def rename_and_read_tmpfile(filepath, suffix, inferred_extension):
@@ -315,7 +312,7 @@ def rename_and_read_file(src_filepath, suffix, inferred_extension, org_table_id)
         os.makedirs(dst_dir)
     dst_filepath = dst_dir + filename + '.' + inferred_extension 
     shutil.copyfile(src_filepath, dst_filepath)
-    return _read_file(dst_filepath, inferred_extension, org_table_id)
+    _read_file(dst_filepath, inferred_extension, org_table_id)
 
 
 def read_file(filepath, org_table_id=None):
@@ -350,9 +347,9 @@ def read_file(filepath, org_table_id=None):
         return
 
     if inferred_extension != suffix:
-        return rename_and_read_file(filepath, suffix, inferred_extension, org_table_id)
+        rename_and_read_file(filepath, suffix, inferred_extension, org_table_id)
     else:
-        return _read_file(filepath, inferred_extension, org_table_id)
+       _read_file(filepath, inferred_extension, org_table_id)
 
 
 def read_file_zip(filepath):
@@ -369,7 +366,7 @@ def read_file_zip(filepath):
                 try:
                     org_table_id = os.path.splitext(os.path.split(filepath)[-1])[0]
                     unzipped_filepath = tmpdirname+'/'+filename
-                    yield read_file(unzipped_filepath, org_table_id)
+                    read_file(unzipped_filepath, org_table_id)
                     if global_ret_val == 'SUCCESS':
                         zip_file_any_success = True
                 except Exception as e:
@@ -503,9 +500,9 @@ global_ret_val = 'FAIL'
 #get_query_and_ground_truth_dataset_ids_mappings()
 #extract_queries_and_qrels()
 
-#import pdb
+import pdb
 #pdb.set_trace()
-#read_files_partitioned()
+read_files_partitioned()
 #read_file_csv('tables/0000c816-d29f-4cb3-8255-6a32869a00b8.CSV')
 #read_file_csv('tables/0004c0c9-beb5-49fb-ae73-fb5d9e829d99.CSV')
 #read_file_zip('tables/0004a3f3-8c27-4140-a881-7bd44b2ec5bf.CSV')

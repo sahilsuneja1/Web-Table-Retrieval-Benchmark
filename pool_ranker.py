@@ -14,6 +14,22 @@ from data_loader import WikiTables
 from glob import glob
 import json
 
+def query_elasticsearch_example():
+    es = Elastic(index_name=webtable_index_name)
+    wiki_loader = WikiTables('./data')
+    q_dict = wiki_loader.get_queries()
+    queries = [es.analyze_query({'text': q_dict[q]}) for q in q_dict]
+    queries = [queries[0]]
+    fields = ['content']
+    topn=20
+    for field in fields:
+        rs = es.bulk_search(queries,field)
+        for q_id, query in enumerate(queries):
+            print(query)
+            for each_rs in sorted(rs[q_id].items(), key=lambda kv: kv[1], reverse=True)[:topn]:
+                print(each_rs[0], each_rs[1])
+
+
 def run_WDC_singleField(topn=20):
     es = Elastic(index_name=webtable_index_name)
     wiki_loader = WikiTables('./data')
@@ -55,5 +71,6 @@ def collect_pooled_WDC_tables():
 
 
 if __name__  == '__main__':
-   run_WDC_singleField()
+   #run_WDC_singleField()
    #collect_pooled_WDC_tables()
+   query_elasticsearch_example()
