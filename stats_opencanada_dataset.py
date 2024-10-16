@@ -216,7 +216,7 @@ def read_excel_file(filepath, org_table_id, engine):
         print(table_id)
         #print(content)
         #del content
-        return table_id,content
+        yield table_id,content
     else:    
         for sheet_name in df.sheet_names:
             table_id = table_id + '#' + sheet_name.replace(' ','_')
@@ -333,7 +333,8 @@ def read_file(filepath, org_table_id=None):
             else:
                 print(f"IGNORE: Can't read file {filepath}; None filetype")
             set_global_ret_val_fail()
-            return
+            #yield
+            return None, None
 
     else:
         inferred_extension = file_type.extension
@@ -348,7 +349,8 @@ def read_file(filepath, org_table_id=None):
             else:
                 print(f"IGNORE: Can't read file {filepath}; Unsupported filetype: {inferred_extension}")
             set_global_ret_val_fail()
-            return
+            #yield
+            return None, None
         else:
             if inferred_extension != suffix:
                 return rename_and_read_file(filepath, suffix, inferred_extension, org_table_id)

@@ -90,12 +90,12 @@ def create_index(index_name = 'opencanada',force=True):
         "header": Elastic.analyzed_field(),
         "catchall": Elastic.analyzed_field(),
     }
-    elastic = Elastic(index_name,timeout = 200)
+    elastic = Elastic(index_name,timeout=200)
     elastic.create_index(mappings,force=force)
     return elastic
 
 
-def index_table(elastic, tables_metadata, table_id, table_content):
+def index_table(elastic, tables_metadata, table_id, table_content, table_idx):
     index_content = None
     ret_val = False
     try:
@@ -108,7 +108,8 @@ def index_table(elastic, tables_metadata, table_id, table_content):
             "header":table_header,
             "catchall": ' '.join([table_title,table_header,table_content]),
         }
-        elastic.add_doc(table_id,index_content)
+        #pdb.set_trace()
+        elastic.add_doc(table_id,index_content,table_idx)
         print(f"indexed table_id {table_id}")
         ret_val = True
     except Exception as e:
@@ -122,7 +123,7 @@ def index_table(elastic, tables_metadata, table_id, table_content):
 
 
 def index_tables(table_list=None, proc_id=None):
-    elastic = create_index('opencanada', force=True)
+    elastic = create_index('opencanada', force=False)
     dataset_dir = '/gpfs/suneja/opendata_canada/'
 
     tables_metadata = get_tables_metadata(dataset_dir+'/metadata.jsonl')
@@ -134,13 +135,13 @@ def index_tables(table_list=None, proc_id=None):
             table_list = [i.strip() for i in fd.readlines()]
 
     for idx, filename in enumerate(table_list):
-        if idx > 0:
-            break
+        #if idx > 20000:
+        #    break
         #filename = '0bea29cc-fcc9-43e2-befa-e23253b6afa4.CSV'
         #filename = '001f0680-4355-4d13-89c9-f3c20b2f3b06.XLSX'
         #filename = "13d01023-8a69-46e9-904a-3806ee6d18bc.XLSX"
         #filename = 'af458130-4b0f-44f1-85a9-36a9813fccb2.XLS'
-        filename = '003398fe-152b-4ce2-8056-94f0d2cb011d.CSV'
+        #filename = '003398fe-152b-4ce2-8056-94f0d2cb011d.CSV'
         if filename in finished_list:
             continue
         if filename in failed_list:
@@ -163,14 +164,16 @@ def index_tables(table_list=None, proc_id=None):
                 continue
             if read_file_ret_type == tuple:
                 read_file_ret = [read_file_ret]
-            for table_id, table_content in read_file_ret:
+            for file_idx, (table_id, table_content) in enumerate(read_file_ret):
+                if not table_id:
+                    continue
                 print(f"indexing table_id {table_id}")
-                _ret_val = index_table(elastic, tables_metadata, table_id, table_content)
+                _ret_val = index_table(elastic, tables_metadata, table_id, table_content, file_idx)
                 if _ret_val is True:
                     ret_val = True  #any one works => log success
                 gc.collect()
         except Exception as e:
-            print(f"ERROR processing filenae {filename}: {e}")
+            print(f"ERROR processing filename {filename}: {e}")
             #set_global_ret_val_fail()
         print('')            
         update_status_lists(filename, ret_val, proc_id)    

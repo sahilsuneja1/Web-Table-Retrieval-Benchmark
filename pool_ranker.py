@@ -23,6 +23,8 @@ def query_elasticsearch_example():
     fields = ['content']
     topn=20
     for field in fields:
+        import pdb
+        pdb.set_trace()
         rs = es.bulk_search(queries,field)
         for q_id, query in enumerate(queries):
             print(query)

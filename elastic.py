@@ -11,6 +11,8 @@ from pprint import pprint
 import os
 from elasticsearch import Elasticsearch
 from elasticsearch import helpers
+from elasticsearch.exceptions import NotFoundError
+from urllib3.exceptions import ProtocolError
 from collections import defaultdict
 from joblib import Parallel, delayed
 from metadata import *
@@ -223,13 +225,51 @@ class Elastic(object):
         if len(actions) > 0:
             helpers.bulk(self.__es, actions)
 
-    def add_doc(self, doc_id, contents):
+    def add_doc_org(self, doc_id, contents):
         """Adds a document with the specified contents to the index.
 
         :param doc_id: document ID
         :param contents: content of document
         """
         self.__es.index(index=self.__index_name, doc_type=self.DOC_TYPE, id=doc_id, body=contents)
+    
+    def add_doc_tmp(self, doc_id, contents):
+        """Adds a document with the specified contents to the index.
+
+        :param doc_id: document ID
+        :param contents: content of document
+        """
+        doc_version = self.exists(doc_id)
+        if doc_version:
+            doc_id += '_' + str(doc_version) 
+
+        self.__es.index(index=self.__index_name, doc_type=self.DOC_TYPE, id=doc_id, body=contents)
+    
+    def add_doc(self, doc_id, contents, doc_idx):
+        """Adds a document with the specified contents to the index.
+
+        :param doc_id: document ID
+        :param contents: content of document
+        """
+        if self.exists(doc_id):
+            doc_id += '_' + str(doc_idx)
+        try:
+            self.__es.index(index=self.__index_name, doc_type=self.DOC_TYPE, id=doc_id, body=contents, timeout='200s')
+        except ConnectionResetError as e:
+            print("ConnectionResetError occurred:", e)
+        except ProtocolError as e:
+            print("Protocol error occurred:", e)
+    
+    def exists(self, doc_id):
+        return self.__es.exists(index=self.__index_name, doc_type=self.DOC_TYPE, id=doc_id)
+
+    def exists_tmp(self, doc_id):
+        try:
+            doc = self.__es.get(index=self.__index_name, doc_type=self.DOC_TYPE, id=doc_id, _source=False)
+            #doc = self.__es.get(index=self.__index_name, doc_type=self.DOC_TYPE, id=doc_id)
+        except NotFoundError:
+            return None
+        return doc['_version']
 
     def get_doc(self, doc_id, fields=None, source=True):
         """Gets a document from the index based on its ID.
