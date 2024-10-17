@@ -290,7 +290,30 @@ class Elastic(object):
     def load_embedding(self,mode):
         pass
 
+    #def search(self, query, field, num=100, fields_return="", start=0):
     def search(self, query, field, num=100, fields_return="", start=0):
+        """Searches in a given field using the similarity method configured in the index for that field.
+
+        :param query: query string
+        :param field: field to search in
+        :param num: number of hits to return (default: 100)
+        :param fields_return: additional document fields to be returned
+        :param start: starting offset (default: 0)
+        :return: dictionary of document IDs with scores
+        """
+        hits = self.__es.search(index=self.__index_name, q=query, df=field, _source=True, _source_include=['tid'], size=num,
+                                from_=start)["hits"]["hits"]
+        results = {}
+        for hit in hits:
+            hit_id =  hit['_source']['tid']
+            if hit_id not in results:
+                results[hit_id] = hit["_score"]
+            else:
+                results[hit_id] = max(results[hit_id], hit["_score"])
+        return results
+    
+
+    def search_org(self, query, field, num=100, fields_return="", start=0):
         """Searches in a given field using the similarity method configured in the index for that field.
 
         :param query: query string
@@ -306,6 +329,7 @@ class Elastic(object):
         for hit in hits:
             results[hit["_id"]] = hit["_score"]
         return results
+
 
     def bulk_search(self, queries,field):
         results = Parallel(n_jobs= -1, backend="threading")\

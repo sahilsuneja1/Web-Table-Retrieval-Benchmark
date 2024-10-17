@@ -163,6 +163,21 @@ def extract_queries_and_qrels():
             emit_qrel(ctr, tables)
 
 
+def filter_qrels():
+    fdw = open('qrels_filtered.txt','w')
+    with open('qrels.txt') as fd:
+        qrels = fd.readlines()
+    with open('/gpfs/suneja/Web-Table-Retrieval-Benchmark/es_finished_list.txt') as fd:
+        finished_list = [os.path.splitext(os.path.split(filepath)[-1])[0] for filepath in fd.readlines()]
+    for qrel in qrels:
+        qrel_id = qrel.split('\t')[2]
+        qrel_id = qrel_id.split('#')[0]
+        if qrel_id not in finished_list:
+            continue
+        fdw.write(qrel)    
+    fdw.close()     
+
+
 def dataframe_to_str(df):
     df = df.replace({np.nan: ''})
     #content = ' '.join(list(df.values.flatten()))
@@ -502,7 +517,8 @@ global_ret_val = 'FAIL'
 
 import pdb
 #pdb.set_trace()
-read_files_partitioned()
+filter_qrels()
+#read_files_partitioned()
 #read_file_csv('tables/0000c816-d29f-4cb3-8255-6a32869a00b8.CSV')
 #read_file_csv('tables/0004c0c9-beb5-49fb-ae73-fb5d9e829d99.CSV')
 #read_file_zip('tables/0004a3f3-8c27-4140-a881-7bd44b2ec5bf.CSV')
