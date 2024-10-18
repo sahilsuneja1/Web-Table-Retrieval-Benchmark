@@ -41,7 +41,7 @@ class Elastic(object):
     BM25 = "BM25"
     SIMILARITY = "sim"  # Used when other similarities are used
 
-    def __init__(self, index_name = 'toy_index',timeout=30):
+    def __init__(self, index_name = 'toy_index',timeout=300):
         self.__es = Elasticsearch(hosts=ELASTIC_HOSTS,timeout=timeout)
         self.es = self.__es
         self.__index_name = index_name
@@ -291,7 +291,7 @@ class Elastic(object):
         pass
 
     #def search(self, query, field, num=100, fields_return="", start=0):
-    def search(self, query, field, num=100, fields_return="", start=0):
+    def search(self, query, field, num=200, fields_return="", start=0):
         """Searches in a given field using the similarity method configured in the index for that field.
 
         :param query: query string
@@ -301,7 +301,7 @@ class Elastic(object):
         :param start: starting offset (default: 0)
         :return: dictionary of document IDs with scores
         """
-        hits = self.__es.search(index=self.__index_name, q=query, df=field, _source=True, _source_include=['tid'], size=num,
+        hits = self.__es.search(index=self.__index_name, q=query, df=field, _source=True, timeout='5m', _source_include=['tid'], size=num,
                                 from_=start)["hits"]["hits"]
         results = {}
         for hit in hits:

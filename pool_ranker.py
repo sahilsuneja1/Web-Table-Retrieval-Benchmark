@@ -76,32 +76,121 @@ def filter_results(q_id, es_results, topn):
     return hits[:topn]
 
 
-def query_opencanada(topn=20):
+def emit_qrel(f_rank, query_id_str, search_result, index_field):
+    #f_rank = open('opencanada_query_results_'+index_field+'.txt', 'a')
+    rank = 1
+    for each_rs in search_result:
+        f_rank.write(query_id_str + "\tQ0\t" + each_rs[0] + "\t" + str(rank) + "\t" + str(
+            each_rs[1]) + "\t" + index_field + "\n")
+        rank += 1
+    f_rank.flush()
+    #f_rank.close()
+        
+
+def reset_qrel_file(index_field):
+    f_rank = open('opencanada_query_results_'+index_field+'.txt', 'w')
+    f_rank.close()
+
+
+def query_opencanada_individual(topn=20):
     es = Elastic(index_name='opencanada')
+    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+
     wiki_loader = WikiTables('/gpfs/suneja/opendata_canada')
     q_dict = wiki_loader.get_queries()
-    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+
     queries = [es.analyze_query({'text': q_dict[q]}) for q in q_dict]
     #fields = ['content', 'catchall']
     fields = ['catchall']
-    queries = [queries[0]]
+    #queries = queries[0:200]
+
     for field in fields:
-        rs = es.bulk_search(queries,field)
-        #generate result file
         f_rank = open('opencanada_query_results_'+field+'.txt', 'w')
         for q_id, query in enumerate(queries):
-            rank = 1
+            search_result = es.search(query,field)
             query_id_str = str(q_id+1)
             if query_id_str not in qrel_ground_truth_hit_counts:    #queries with no hits post filtering/indexing
                 continue
-            #rs = filter_results(q_id, rs[q_id], qrel_ground_truth_hit_counts[query_id_str])
-            rs = filter_results(q_id, rs[q_id], topn)
-            for each_rs in rs.items():
-                f_rank.write(query_id_str + "\tQ0\t" + each_rs[0] + "\t" + str(rank) + "\t" + str(
-                    each_rs[1]) + "\t" + field + "\n")
-                rank += 1
-        f_rank.close()
+            #topn = qrel_ground_truth_hit_counts[query_id_str]    
+            search_result = filter_results(query_id_str, search_result, topn)
+            emit_qrel(f_rank, query_id_str, search_result, field)
+        f_rank.close()            
 
+
+def query_opencanada_allatonce(topn=20):
+    es = Elastic(index_name='opencanada')
+    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+
+    wiki_loader = WikiTables('/gpfs/suneja/opendata_canada')
+    q_dict = wiki_loader.get_queries()
+
+    queries = [es.analyze_query({'text': q_dict[q]}) for q in q_dict]
+    #fields = ['content', 'catchall']
+    fields = ['catchall']
+    queries = queries[0:4]
+
+    for field in fields:
+        f_rank = open('opencanada_query_results_'+field+'.txt', 'w')
+        #reset_qrel_file(field)
+        search_results = es.bulk_search(queries,field)
+        for q_id, query in enumerate(queries):
+            query_id_str = str(q_id+1)
+            if query_id_str not in qrel_ground_truth_hit_counts:    #queries with no hits post filtering/indexing
+                continue
+            #topn = qrel_ground_truth_hit_counts[query_id_str]    
+            search_result = filter_results(query_id_str, search_results[q_id], topn)
+            emit_qrel(f_rank, query_id_str, search_result, field)
+        f_rank.close()            
+
+
+def query_chunked(es, queries, field, qrel_ground_truth_hit_counts, start_qid, chunk_size):
+    topn = 20
+    f_rank = open('opencanada_query_results_'+field+'.txt', 'a')
+    search_results = es.bulk_search(queries,field)
+    for q_id, query in enumerate(queries):
+        query_id_str = str(start_qid+q_id+1)
+        if query_id_str not in qrel_ground_truth_hit_counts:    #queries with no hits post filtering/indexing
+            continue
+        #topn = qrel_ground_truth_hit_counts[query_id_str]    
+        search_result = filter_results(query_id_str, search_results[q_id], topn)
+        emit_qrel(f_rank, query_id_str, search_result, field)
+    f_rank.close()            
+
+
+def query_opencanada():
+    es = Elastic(index_name='opencanada')
+    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+
+    wiki_loader = WikiTables('/gpfs/suneja/opendata_canada')
+    q_dict = wiki_loader.get_queries()
+
+    queries = [es.analyze_query({'text': q_dict[q]}) for q in q_dict]
+    #fields = ['content', 'catchall']
+    fields = ['catchall']
+    queries = queries[0:200]
+    chunk_size = 100
+
+    for field in fields:
+        reset_qrel_file(field)
+        for i in range(0, len(queries), chunk_size):
+            query_chunked(es,
+                          queries[i:i+chunk_size],
+                          field,
+                          qrel_ground_truth_hit_counts,
+                          i,
+                          chunk_size)
+
+
+
+def list_opencanada_queries_missing_groundtruth():
+    fdw = open('/gpfs/suneja/opendata_canada/queries_missing_groundtruth.txt','w')
+    with open('/gpfs/suneja/opendata_canada/queries.txt') as fd:
+        q_ids = [i.split()[0] for i in fd.readlines()]
+    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+    for q_id in q_ids:
+        if q_id not in qrel_ground_truth_hit_counts:    #queries with no hits post filtering/indexing
+            fdw.write(q_id+'\n')
+    fdw.close()        
 
 def collect_pooled_WDC_tables():
     # collect table ids from all result files
@@ -127,5 +216,8 @@ if __name__  == '__main__':
    #run_WDC_singleField()
    #collect_pooled_WDC_tables()
    #query_elasticsearch_example()
-   pdb.set_trace()
+   #pdb.set_trace()
    query_opencanada()
+   #query_opencanada_allatonce()
+   #query_opencanada_individual()
+   #list_opencanada_queries_missing_groundtruth()
