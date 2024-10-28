@@ -1,0 +1,12 @@
+finished_list_all.txt: tables that could successfully be read  
+failed_list_all.txt: tables that failed to be read 
+
+es_failed_list.txt: tables that failed to index in elasticsearch
+es_finished_list.txt: tables that were successfully indexed in elasticsearch
+
+queries.txt: all queries
+queries_missing_groundtruth.txt: queries that have no ground truth tables (i.e. after removing queries none of whose ground truth tables could be read)
+
+qrels.txt: qrels for all queries
+qrels_filtered_querieswithgroundtruth.txt: qrels for queries having ground truth hits (i.e. after removing queries none of whose ground truth tables could be read)
+qrels_filtered.txt: qrels for queires having <= 51 ground truth hits for operations tractability
