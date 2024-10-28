@@ -14,6 +14,7 @@ from data_loader import WikiTables
 from glob import glob
 import json
 import pdb
+import stats_opencanada_dataset as ocd_utils
 
 def query_elasticsearch_example():
     es = Elastic(index_name=webtable_index_name)
@@ -53,22 +54,6 @@ def run_WDC_singleField(topn=20):
         f_rank.close()
 
 
-def get_num_ground_truth_hits(qrel_filename):
-    gt_hits = {}
-    with open(qrel_filename) as fd:
-        qrels = fd.readlines()
-    for qrel in qrels:
-        qrel_items = qrel.split('\t')
-        q_id = qrel_items[0]
-        hit_id = qrel_items[2]
-        if q_id in gt_hits:
-            gt_hits[q_id] += 1
-        else:
-            gt_hits[q_id] = 1
-    sorted_gt_hits = sorted(gt_hits.items(), key=lambda kv: kv[1], reverse=True)        
-    return gt_hits
-
-
 def filter_results(q_id, es_results, topn):
     hits = sorted(es_results.items(), key=lambda kv: kv[1], reverse=True)
     if len(hits) < topn:
@@ -94,7 +79,7 @@ def reset_qrel_file(index_field):
 
 def query_opencanada_individual(topn=20):
     es = Elastic(index_name='opencanada')
-    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+    qrel_ground_truth_hit_counts = ocd_utils.get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
 
     wiki_loader = WikiTables('/gpfs/suneja/opendata_canada')
     q_dict = wiki_loader.get_queries()
@@ -119,7 +104,7 @@ def query_opencanada_individual(topn=20):
 
 def query_opencanada_allatonce(topn=20):
     es = Elastic(index_name='opencanada')
-    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+    qrel_ground_truth_hit_counts = ocd_utils.get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
 
     wiki_loader = WikiTables('/gpfs/suneja/opendata_canada')
     q_dict = wiki_loader.get_queries()
@@ -159,7 +144,7 @@ def query_chunked(es, queries, field, qrel_ground_truth_hit_counts, start_qid, c
 
 def query_opencanada():
     es = Elastic(index_name='opencanada')
-    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+    qrel_ground_truth_hit_counts = ocd_utils.get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
 
     wiki_loader = WikiTables('/gpfs/suneja/opendata_canada')
     q_dict = wiki_loader.get_queries()
@@ -186,7 +171,7 @@ def list_opencanada_queries_missing_groundtruth():
     fdw = open('/gpfs/suneja/opendata_canada/queries_missing_groundtruth.txt','w')
     with open('/gpfs/suneja/opendata_canada/queries.txt') as fd:
         q_ids = [i.split()[0] for i in fd.readlines()]
-    qrel_ground_truth_hit_counts = get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
+    qrel_ground_truth_hit_counts = ocd_utils.get_num_ground_truth_hits('/gpfs/suneja/opendata_canada/qrels_filtered.txt')
     for q_id in q_ids:
         if q_id not in qrel_ground_truth_hit_counts:    #queries with no hits post filtering/indexing
             fdw.write(q_id+'\n')

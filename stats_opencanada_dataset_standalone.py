@@ -163,8 +163,31 @@ def extract_queries_and_qrels():
             emit_qrel(ctr, tables)
 
 
-def filter_qrels():
-    fdw = open('qrels_filtered.txt','w')
+def get_num_ground_truth_hits(qrel_filename, print_stats=False):
+    gt_hits = {}
+    with open(qrel_filename) as fd:
+        qrels = fd.readlines()
+    for qrel in qrels:
+        qrel_items = qrel.split('\t')
+        q_id = qrel_items[0]
+        hit_id = qrel_items[2]
+        if q_id in gt_hits:
+            gt_hits[q_id] += 1
+        else:
+            gt_hits[q_id] = 1
+
+    if print_stats:
+        sorted_gt_hits = sorted(gt_hits.items(), key=lambda kv: kv[1], reverse=True)
+        print(len(sorted_gt_hits))
+        for i in range(0, len(sorted_gt_hits), 500):
+            print(i, sorted_gt_hits[i])
+
+    return gt_hits
+
+
+def filter_qrels_querieswithgroundtruth():
+    #fdw = open('qrels_filtered.txt','w')
+    fdw = open('qrels_filtered_querieswithgroundtruth.txt','w')
     with open('qrels.txt') as fd:
         qrels = fd.readlines()
     with open('/gpfs/suneja/Web-Table-Retrieval-Benchmark/es_finished_list.txt') as fd:
@@ -177,6 +200,22 @@ def filter_qrels():
         fdw.write(qrel)    
     fdw.close()     
 
+
+def filter_qrels_querieswithmaxhits(max_hits=0):
+    base_qrel_filename = '/gpfs/suneja/opendata_canada/qrels_filtered_querieswithgroundtruth.txt'
+    gt_hits = get_num_ground_truth_hits(base_qrel_filename)
+    fdw = open('qrels_filtered.txt','w')
+    with open(base_qrel_filename) as fd:
+        qrels = fd.readlines()
+    for qrel in qrels:
+        qrel_id = qrel.split('\t')[0]
+        if qrel_id not in gt_hits:
+            continue
+        if gt_hits[qrel_id] > max_hits:
+            continue
+        fdw.write(qrel)    
+    fdw.close()     
+    
 
 def dataframe_to_str(df):
     df = df.replace({np.nan: ''})
@@ -517,8 +556,13 @@ global_ret_val = 'FAIL'
 
 import pdb
 #pdb.set_trace()
-filter_qrels()
+
+#filter_qrels_querieswithgroundtruth()
+#filter_qrels_querieswithmaxhits(max_hits=51)
+get_num_ground_truth_hits('qrels_filtered.txt', print_stats=True)
+
 #read_files_partitioned()
+
 #read_file_csv('tables/0000c816-d29f-4cb3-8255-6a32869a00b8.CSV')
 #read_file_csv('tables/0004c0c9-beb5-49fb-ae73-fb5d9e829d99.CSV')
 #read_file_zip('tables/0004a3f3-8c27-4140-a881-7bd44b2ec5bf.CSV')
