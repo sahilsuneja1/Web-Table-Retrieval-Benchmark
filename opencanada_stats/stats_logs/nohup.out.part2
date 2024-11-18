@@ -1,0 +1,2990 @@
+5: reading 639e7b07-cc72-4a1f-886c-9d5c4c0d9a90.CSV
+IGNORE reading tables/639e7b07-cc72-4a1f-886c-9d5c4c0d9a90.CSV: Expected 4 fields in line 71, saw 6
+
+37: reading 6ee3996a-4ac9-4c75-abcd-0c82392f5b85.CSV
+IGNORE reading tables/6ee3996a-4ac9-4c75-abcd-0c82392f5b85.CSV: Expected 21 fields in line 3, saw 25
+
+38: reading 1e177c86-09c3-47f3-aef1-6c38dd297e71.XLS
+1e177c86-09c3-47f3-aef1-6c38dd297e71
+
+46: reading 1abd1485-ede3-45d2-b49c-993bb92b0ec2.CSV
+IGNORE: Can't read file ./tmpzcyiaf9n/Note aux utilisateurs.docx; Unsupported filetype: docx
+1abd1485-ede3-45d2-b49c-993bb92b0ec2
+1abd1485-ede3-45d2-b49c-993bb92b0ec2
+IGNORE: Can't read file ./tmpzcyiaf9n/ODPF_3_HS6MDesc.txt; None filetype
+1abd1485-ede3-45d2-b49c-993bb92b0ec2
+IGNORE: Can't read file ./tmpzcyiaf9n/Note to User.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmpzcyiaf9n/ODPF_5_HS2Desc.txt; None filetype
+IGNORE: Can't read file ./tmpzcyiaf9n/ODPF_1_HS10Desc.txt; None filetype
+
+106: reading 84caa990-94a5-4f5a-afd7-76f11cf65249.CSV
+IGNORE: Can't read file ./tmpggdnu5y6/read_me.txt; None filetype
+IGNORE reading d221: [Errno 21] Is a directory: './tmpggdnu5y6/d221'
+
+112: reading 0f3e8925-3d76-444e-81aa-f5ff3d1e8701.XLS
+0f3e8925-3d76-444e-81aa-f5ff3d1e8701
+
+119: reading c27e1880-6164-4956-8c4b-e79c0f6cfb88.XLS
+c27e1880-6164-4956-8c4b-e79c0f6cfb88
+
+137: reading 7a346b0c-3530-4aa1-bc71-9fb4a35e1e90.XLS
+7a346b0c-3530-4aa1-bc71-9fb4a35e1e90
+
+154: reading 6ba7b4f6-2303-4184-8507-3a6a8d532808.XLS
+6ba7b4f6-2303-4184-8507-3a6a8d532808#(EN)_NOC4
+6ba7b4f6-2303-4184-8507-3a6a8d532808#(EN)_NOC4#(FR)_CNP4
+
+165: reading 71bafb46-3ecf-45d0-b4ae-33a1f7cb0151.CSV
+IGNORE reading tables/71bafb46-3ecf-45d0-b4ae-33a1f7cb0151.CSV: Expected 6 fields in line 20, saw 16
+
+191: reading 9ea3ff66-86d6-4b07-bb36-dcdd84928506.CSV
+IGNORE reading tables/9ea3ff66-86d6-4b07-bb36-dcdd84928506.CSV: Expected 5 fields in line 3, saw 6
+
+211: reading 63933691-085d-4832-a6d2-43cfbf533e93.XLSX
+IGNORE reading tables/63933691-085d-4832-a6d2-43cfbf533e93.XLSX: Can't find workbook in OLE2 compound document
+
+216: reading 64533285-fa0b-4d20-84ba-4a0f11ac615d.XLS
+64533285-fa0b-4d20-84ba-4a0f11ac615d
+
+218: reading f6fd51f8-61d6-41d7-889a-f916a72e037a.CSV
+IGNORE reading tables/f6fd51f8-61d6-41d7-889a-f916a72e037a.CSV: Expected 21 fields in line 3, saw 25
+
+232: reading b2512d44-49c8-4c16-8371-e8b88d9cea20.CSV
+IGNORE reading tables/b2512d44-49c8-4c16-8371-e8b88d9cea20.CSV: Expected 12 fields in line 6, saw 13
+
+233: reading c0accda5-4010-4d7c-aef8-cbc3aad65b2b.CSV
+IGNORE reading tables/c0accda5-4010-4d7c-aef8-cbc3aad65b2b.CSV: field larger than field limit (131072)
+
+293: reading 9bccd280-f3f1-48be-b31c-f8e7b931637f.CSV
+IGNORE reading tables/9bccd280-f3f1-48be-b31c-f8e7b931637f.CSV: Expected 21 fields in line 3, saw 25
+
+333: reading 1495d174-b15a-4acc-b15f-c4cc471648bf.CSV
+IGNORE: Can't read file ./tmp7t8ozhic/ODPF_4_HS6XDesc.txt; None filetype
+1495d174-b15a-4acc-b15f-c4cc471648bf
+IGNORE: Can't read file ./tmp7t8ozhic/Note aux utilisateurs.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmp7t8ozhic/ODPF_2_HS8Desc.txt; None filetype
+1495d174-b15a-4acc-b15f-c4cc471648bf
+1495d174-b15a-4acc-b15f-c4cc471648bf
+IGNORE: Can't read file ./tmp7t8ozhic/Note to User.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmp7t8ozhic/ODPF_5_HS2Desc.txt; None filetype
+
+348: reading 3dab8842-2b73-4171-ab18-90786abc03f3.CSV
+IGNORE reading tables/3dab8842-2b73-4171-ab18-90786abc03f3.CSV: Expected 21 fields in line 3, saw 25
+
+352: reading ec4636f0-adc1-42f2-a59a-2d646f1e38ff.XLS
+ec4636f0-adc1-42f2-a59a-2d646f1e38ff
+
+374: reading 6278cd77-afbc-4dc5-b6d6-49cf53ecbb95.XLS
+6278cd77-afbc-4dc5-b6d6-49cf53ecbb95
+
+375: reading 15985ebc-1654-4c63-99b6-3f0baeb59b93.CSV
+IGNORE reading tables/15985ebc-1654-4c63-99b6-3f0baeb59b93.CSV: Could not determine delimiter
+
+388: reading b2c92c45-723d-46ef-a7d5-ac4fa1d062dd.XLS
+b2c92c45-723d-46ef-a7d5-ac4fa1d062dd
+
+392: reading 7825e3c4-d08e-4135-a8dc-23d9047e3e47.XLS
+7825e3c4-d08e-4135-a8dc-23d9047e3e47#2014-2015
+7825e3c4-d08e-4135-a8dc-23d9047e3e47#2014-2015#2015-2016
+7825e3c4-d08e-4135-a8dc-23d9047e3e47#2014-2015#2015-2016#2016-2017
+7825e3c4-d08e-4135-a8dc-23d9047e3e47#2014-2015#2015-2016#2016-2017#2017-2018
+7825e3c4-d08e-4135-a8dc-23d9047e3e47#2014-2015#2015-2016#2016-2017#2017-2018#2018-2019
+7825e3c4-d08e-4135-a8dc-23d9047e3e47#2014-2015#2015-2016#2016-2017#2017-2018#2018-2019#RAW
+
+394: reading 60dad54a-87a1-45e7-9260-aa1a3dcc7667.CSV
+IGNORE reading tables/60dad54a-87a1-45e7-9260-aa1a3dcc7667.CSV: field larger than field limit (131072)
+
+406: reading 4899473a-56a6-40ec-9fea-72980e8af4fa.CSV
+IGNORE reading tables/4899473a-56a6-40ec-9fea-72980e8af4fa.CSV: Expected 6 fields in line 20, saw 16
+
+451: reading ffb4eb77-02e2-4711-8128-30827257a9e9.XLS
+ERROR: Can't read file tables/ffb4eb77-02e2-4711-8128-30827257a9e9.XLS; None filetype
+
+454: reading 0e249d47-ed8e-4216-9ec6-079e58e2772d.CSV
+IGNORE reading tables/0e249d47-ed8e-4216-9ec6-079e58e2772d.CSV: field larger than field limit (131072)
+
+462: reading 0d1644b6-d557-449f-9005-30bbe85d610a.CSV
+IGNORE reading tables/0d1644b6-d557-449f-9005-30bbe85d610a.CSV: "delimiter" must be a 1-character string
+
+492: reading 298abc66-7b6a-41c1-85f9-8032d7c61cfc.CSV
+IGNORE reading tables/298abc66-7b6a-41c1-85f9-8032d7c61cfc.CSV: Expected 20 fields in line 3, saw 25
+
+501: reading ed302c31-bc8d-40b8-8530-f6884702ead4.XLSX
+ERROR: Can't read file tables/ed302c31-bc8d-40b8-8530-f6884702ead4.XLSX; None filetype
+
+510: reading c8670a0a-4418-42cd-b209-a4a015f13a1b.CSV
+IGNORE reading tables/c8670a0a-4418-42cd-b209-a4a015f13a1b.CSV: File is not a zip file
+
+511: reading 0f7af723-397c-46b7-b2ed-11c56ed73d33.CSV
+ERROR reading tables/0f7af723-397c-46b7-b2ed-11c56ed73d33.CSV: field larger than field limit (131072)
+
+513: reading bb692aa5-3786-4b3c-adf4-3e38133211eb.XLS
+bb692aa5-3786-4b3c-adf4-3e38133211eb
+
+520: reading ecdfb805-0a8e-4824-a354-a8fac03ccc72.CSV
+IGNORE: Can't read file ./tmpajp2rd3t/ODPF_4_HS6XDesc.txt; None filetype
+ecdfb805-0a8e-4824-a354-a8fac03ccc72
+IGNORE: Can't read file ./tmpajp2rd3t/Note aux utilisateurs.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmpajp2rd3t/ODPF_2_HS8Desc.txt; None filetype
+IGNORE: Can't read file ./tmpajp2rd3t/Note to User.docx; Unsupported filetype: docx
+ecdfb805-0a8e-4824-a354-a8fac03ccc72
+ecdfb805-0a8e-4824-a354-a8fac03ccc72
+IGNORE: Can't read file ./tmpajp2rd3t/ODPF_5_HS2Desc.txt; None filetype
+
+554: reading daca13da-eae4-4436-a689-0e2b4399cb27.CSV
+IGNORE reading tables/daca13da-eae4-4436-a689-0e2b4399cb27.CSV: field larger than field limit (131072)
+
+570: reading 0eeefcf4-0d80-4522-813d-c98bd0316bc5.XLS
+0eeefcf4-0d80-4522-813d-c98bd0316bc5
+
+578: reading c296d9ed-d0aa-4255-b890-907e4f642901.CSV
+IGNORE reading tables/c296d9ed-d0aa-4255-b890-907e4f642901.CSV: field larger than field limit (131072)
+
+580: reading 58954199-c95a-49b0-9d36-2001545ae239.CSV
+IGNORE reading ati-aai-2016-2017-fr: [Errno 21] Is a directory: './tmpq3ds42_s/ati-aai-2016-2017-fr'
+
+608: reading 5bf13e31-c13e-4905-abb8-7f871af368d9.XLS
+5bf13e31-c13e-4905-abb8-7f871af368d9
+
+635: reading fd2b1641-3c8d-423d-87a5-b0d0602dd931.XLS
+fd2b1641-3c8d-423d-87a5-b0d0602dd931
+
+654: reading da70f89a-f4a7-44a4-b6fd-c5ca57a4f4c9.CSV
+IGNORE reading tables/da70f89a-f4a7-44a4-b6fd-c5ca57a4f4c9.CSV: Expected 181 fields in line 3, saw 192
+
+672: reading 8e01d672-26e0-4de8-94ee-49d303cdd95a.XLS
+8e01d672-26e0-4de8-94ee-49d303cdd95a
+
+680: reading 89a4242b-0cd5-45b5-abe1-95a9a9e26f6b.XLS
+89a4242b-0cd5-45b5-abe1-95a9a9e26f6b
+
+701: reading 99efb072-4f30-4e3f-8c17-a2bb232cb6e2.CSV
+IGNORE reading Inside South Hard Bottom Longline Surveys_FR: [Errno 21] Is a directory: './tmpjm34hw1_/Inside South Hard Bottom Longline Surveys_FR'
+
+711: reading efeae97b-246a-461d-81c9-a6ff943c5a39.XLS
+efeae97b-246a-461d-81c9-a6ff943c5a39
+
+722: reading 8da16c89-47ec-4c96-9b80-b204fecb1b2a.XLS
+8da16c89-47ec-4c96-9b80-b204fecb1b2a
+
+742: reading 20433c8d-0111-4a99-a588-9cd73867b226.CSV
+IGNORE reading tables/20433c8d-0111-4a99-a588-9cd73867b226.CSV: Expected 21 fields in line 3, saw 25
+
+746: reading 2a1ae3d5-85af-45cc-b5e9-27e4b5d50a1d.CSV
+ERROR reading 10100078.csv: ',' expected after '"'
+
+758: reading 501f087b-2f5e-440f-bca1-9632b609612f.CSV
+IGNORE reading tables/501f087b-2f5e-440f-bca1-9632b609612f.CSV: "delimiter" must be a 1-character string
+
+777: reading 1d7f3a6c-59ff-4412-aa30-58df788e6051.XLS
+ERROR: Can't read file tables/1d7f3a6c-59ff-4412-aa30-58df788e6051.XLS; None filetype
+
+781: reading 914b3f01-7a95-4831-9dd9-42b9ce3a792f.CSV
+IGNORE reading tables/914b3f01-7a95-4831-9dd9-42b9ce3a792f.CSV: "delimiter" must be a 1-character string
+
+784: reading 01316ad1-4ffb-4f85-8bcd-1aa73e857205.XLS
+01316ad1-4ffb-4f85-8bcd-1aa73e857205
+
+800: reading a02f2e16-69d9-4e82-a2a0-29bf0aabf798.XLS
+a02f2e16-69d9-4e82-a2a0-29bf0aabf798#GHG_Data_2016-2018_Jan_23,_2020
+a02f2e16-69d9-4e82-a2a0-29bf0aabf798#GHG_Data_2016-2018_Jan_23,_2020#Grand_Totals
+
+810: reading 2cd65103-593d-43d3-a0d6-45612d73be8d.CSV
+IGNORE reading tables/2cd65103-593d-43d3-a0d6-45612d73be8d.CSV: Expected 20 fields in line 3, saw 25
+
+830: reading 1dcfe2c4-8328-4fd3-b894-72ded0ac23b5.CSV
+IGNORE reading tables/1dcfe2c4-8328-4fd3-b894-72ded0ac23b5.CSV: Expected 21 fields in line 3, saw 23
+
+836: reading 29151d16-2393-41af-a2be-41d337c8b866.CSV
+IGNORE reading 201505: [Errno 21] Is a directory: './tmpvv4rzcue/201505'
+
+857: reading c92692c4-e9e8-406c-b1fb-334ed2a14b98.XLS
+ERROR reading fes-eea-2017-eng XLS: [Errno 21] Is a directory: './tmpc3kdr9xs/fes-eea-2017-eng XLS'
+
+875: reading 010b3ad4-21b0-49b5-9269-0946f832818c.CSV
+IGNORE reading tables/010b3ad4-21b0-49b5-9269-0946f832818c.CSV: Expected 5 fields in line 3, saw 17
+
+886: reading 4de68212-1fa3-4210-aa8b-1ee64a046112.CSV
+IGNORE reading tables/4de68212-1fa3-4210-aa8b-1ee64a046112.CSV: Expected 21 fields in line 3, saw 25
+
+895: reading 2c819710-8ada-4da8-ad85-7ad21d93f44e.CSV
+IGNORE reading tables/2c819710-8ada-4da8-ad85-7ad21d93f44e.CSV: Expected 20 fields in line 3, saw 25
+
+910: reading 40492d0a-c459-4538-af61-d5ad57270f22.CSV
+ERROR reading tables/40492d0a-c459-4538-af61-d5ad57270f22.CSV: Expected 3 fields in line 3, saw 5
+
+914: reading 79f929e8-1738-4a93-a22f-61831fa0529c.XLS
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL#TEXTURE
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL#TEXTURE#EXPRESSION
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL#TEXTURE#EXPRESSION#PROCESS
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE#DELIMITERS
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE#DELIMITERS#LINES
+79f929e8-1738-4a93-a22f-61831fa0529c#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE#DELIMITERS#LINES#POINTS
+
+935: reading 01c78d0d-44b3-49c2-9afb-2ebbd913f3e9.CSV
+IGNORE reading Figures: [Errno 21] Is a directory: './tmpv3akjp41/Figures'
+IGNORE reading Data: [Errno 21] Is a directory: './tmpv3akjp41/Data'
+
+936: reading a0c8bd94-aeb8-45b3-84a1-0abeb3df72dc.CSV
+IGNORE reading tables/a0c8bd94-aeb8-45b3-84a1-0abeb3df72dc.CSV: File is not a zip file
+
+939: reading 70c2f6ec-36b6-4b46-ae19-abb76407335f.CSV
+IGNORE reading tables/70c2f6ec-36b6-4b46-ae19-abb76407335f.CSV: unexpected end of data
+
+940: reading 761328bf-38d6-4d0e-98f8-bc51ea39b399.CSV
+IGNORE reading tables/761328bf-38d6-4d0e-98f8-bc51ea39b399.CSV: Expected 20 fields in line 3, saw 25
+
+950: reading 124d831b-1986-4419-90d5-0ee38382e84b.CSV
+IGNORE reading tables/124d831b-1986-4419-90d5-0ee38382e84b.CSV: field larger than field limit (131072)
+
+970: reading 8e9d61b6-9b0d-4c4f-b024-969cc3b736d2.CSV
+IGNORE reading tables/8e9d61b6-9b0d-4c4f-b024-969cc3b736d2.CSV: "delimiter" must be a 1-character string
+
+971: reading 1982320a-3ecd-446e-a346-07534c78a3a2.XLS
+1982320a-3ecd-446e-a346-07534c78a3a2
+
+974: reading 1d97102e-ddf5-4de0-85b6-a2b9e3606386.CSV
+IGNORE reading tables/1d97102e-ddf5-4de0-85b6-a2b9e3606386.CSV: ' ' expected after '"'
+
+976: reading c30a15f0-d265-44de-bda3-9177e27cfac7.CSV
+IGNORE reading tables/c30a15f0-d265-44de-bda3-9177e27cfac7.CSV: Expected 21 fields in line 3, saw 25
+
+989: reading fa302afc-8332-45ee-90bf-3772b0380930.XLS
+fa302afc-8332-45ee-90bf-3772b0380930
+
+1029: reading 07f161f6-8a20-405f-aa96-c6964c5152b7.CSV
+IGNORE reading tables/07f161f6-8a20-405f-aa96-c6964c5152b7.CSV: 'i' expected after '"'
+
+1056: reading 862229ae-3daa-4479-9060-6b5a747b818f.CSV
+IGNORE reading tables/862229ae-3daa-4479-9060-6b5a747b818f.CSV: ' ' expected after '"'
+
+1062: reading e15f7fe8-b0e6-4c40-bce3-fbf4a0588db6.XLS
+e15f7fe8-b0e6-4c40-bce3-fbf4a0588db6
+
+1067: reading 493656e8-ff3d-43f4-9c5a-f6f04e4b5936.CSV
+IGNORE reading tables/493656e8-ff3d-43f4-9c5a-f6f04e4b5936.CSV: Expected 20 fields in line 5, saw 22
+
+1072: reading cd9d244d-1e2f-4e49-9f9b-42900cffcc69.XLS
+cd9d244d-1e2f-4e49-9f9b-42900cffcc69
+
+1078: reading abf75b11-ee7e-4ddf-8444-d5dea5ef9418.CSV
+IGNORE reading tables/abf75b11-ee7e-4ddf-8444-d5dea5ef9418.CSV: field larger than field limit (131072)
+
+1079: reading 6dfbaab1-22cd-4457-9be4-30127cdf0dc8.CSV
+IGNORE reading tables/6dfbaab1-22cd-4457-9be4-30127cdf0dc8.CSV: File is not a zip file
+
+1097: reading 4270e18d-c388-4044-bfae-0b272871b9f3.CSV
+IGNORE reading tables/4270e18d-c388-4044-bfae-0b272871b9f3.CSV: ' ' expected after '"'
+
+1112: reading 6ef4c8f8-a8e5-48db-9cec-728c9c30038c.XLS
+ERROR: Can't read file tables/6ef4c8f8-a8e5-48db-9cec-728c9c30038c.XLS; None filetype
+
+1138: reading 62f878aa-ad9c-4264-959f-d5359bdd8036.CSV
+IGNORE reading tables/62f878aa-ad9c-4264-959f-d5359bdd8036.CSV: Expected 3 fields in line 6, saw 6
+
+1139: reading e94848ca-5723-47ed-a889-4d9c11d5cb68.CSV
+IGNORE reading tables/e94848ca-5723-47ed-a889-4d9c11d5cb68.CSV: Expected 12 fields in line 7, saw 13
+
+1155: reading b3a9b087-f5a5-4b14-b1f0-fc9277e81d67.XLS
+b3a9b087-f5a5-4b14-b1f0-fc9277e81d67
+
+1162: reading c77514f8-8b02-4402-8c7b-6e6c1f310b9b.CSV
+IGNORE reading tables/c77514f8-8b02-4402-8c7b-6e6c1f310b9b.CSV: 'i' expected after '"'
+
+1166: reading 2a093911-0f86-4547-b91d-5c9dc509ab4c.XLS
+ERROR: Can't read file tables/2a093911-0f86-4547-b91d-5c9dc509ab4c.XLS; None filetype
+
+1174: reading 21e40f50-99e4-4b2b-9d4e-feadb1e99591.CSV
+IGNORE reading tables/21e40f50-99e4-4b2b-9d4e-feadb1e99591.CSV: File is not a zip file
+
+1179: reading cba8bf94-0b25-41a1-ae2c-d86190f733e6.XLSX
+ERROR: Can't read file tables/cba8bf94-0b25-41a1-ae2c-d86190f733e6.XLSX; None filetype
+
+1185: reading 50524e2a-a716-44fa-9875-419b084a47e8.XLS
+IGNORE reading tables/50524e2a-a716-44fa-9875-419b084a47e8.XLS: File is not a zip file
+
+1186: reading d9dd93fa-78b9-4131-b337-7a5c629f982f.XLS
+d9dd93fa-78b9-4131-b337-7a5c629f982f
+
+1203: reading 40316eaf-a31f-4531-862b-01d092e8ff16.XLS
+40316eaf-a31f-4531-862b-01d092e8ff16
+
+1204: reading 02e6ff9b-1052-416e-92b3-41b7c4624047.XLS
+02e6ff9b-1052-416e-92b3-41b7c4624047
+
+1211: reading f26f8954-bf0f-4b15-9bb8-f478efd06278.CSV
+IGNORE reading tables/f26f8954-bf0f-4b15-9bb8-f478efd06278.CSV: field larger than field limit (131072)
+
+1212: reading 264b8008-209e-42c4-825c-9635fc3b0d8b.CSV
+IGNORE reading tables/264b8008-209e-42c4-825c-9635fc3b0d8b.CSV: unexpected end of data
+
+1217: reading 40262e6f-acfd-4f54-8bae-e462bcc883c7.XLSX
+40262e6f-acfd-4f54-8bae-e462bcc883c7#Definitions
+40262e6f-acfd-4f54-8bae-e462bcc883c7#Definitions#Soybean_Prices
+40262e6f-acfd-4f54-8bae-e462bcc883c7#Definitions#Soybean_Prices#Averages
+ERROR reading tables/40262e6f-acfd-4f54-8bae-e462bcc883c7.XLSX: 'Chartsheet' object has no attribute 'rows'
+
+1218: reading bd442831-9c90-4513-b73c-989fda8f046e.XLS
+bd442831-9c90-4513-b73c-989fda8f046e
+
+1244: reading 12dd94c1-7830-4cce-b05d-5e3acd64ccbc.CSV
+IGNORE reading 201312: [Errno 21] Is a directory: './tmpoc7xltuu/201312'
+
+1257: reading 32c96e8b-349d-4e9f-b3cf-483dc375c687.CSV
+IGNORE reading tables/32c96e8b-349d-4e9f-b3cf-483dc375c687.CSV: ' ' expected after '"'
+
+1261: reading 438599a9-aa51-424e-886e-ab4b6baa2b13.XLS
+438599a9-aa51-424e-886e-ab4b6baa2b13
+
+1269: reading 2d0a1e3e-a2ce-472f-ae43-c8c9e6738b3c.XLS
+2d0a1e3e-a2ce-472f-ae43-c8c9e6738b3c
+
+1286: reading 2e0963bd-a08d-47f6-9dce-fb90f0952e78.XLS
+2e0963bd-a08d-47f6-9dce-fb90f0952e78
+
+1287: reading ee9cb15b-9e89-4c0f-afc2-903d9eb0c899.CSV
+IGNORE reading tables/ee9cb15b-9e89-4c0f-afc2-903d9eb0c899.CSV: field larger than field limit (131072)
+
+1290: reading ca3a8a6f-2721-4a54-b91e-73e82fb8e50b.XLS
+ca3a8a6f-2721-4a54-b91e-73e82fb8e50b
+
+1316: reading a2a95ba4-0f1c-4ed2-b7a7-09b7188ea581.XLS
+a2a95ba4-0f1c-4ed2-b7a7-09b7188ea581
+
+1329: reading 4936c600-35d3-46c8-baa1-6aaf6157c955.CSV
+ERROR reading tables/4936c600-35d3-46c8-baa1-6aaf6157c955.CSV: field larger than field limit (131072)
+
+1330: reading 9753f35a-2dd9-42a9-a97e-d1a2beb59e2e.XLS
+9753f35a-2dd9-42a9-a97e-d1a2beb59e2e
+
+1334: reading 61892331-812e-4b2a-9727-a29e9e12c68a.XLS
+61892331-812e-4b2a-9727-a29e9e12c68a
+
+1346: reading af8b0e43-f37a-42d4-b8a4-b69a7a5df8fc.XLS
+ERROR: Can't read file tables/af8b0e43-f37a-42d4-b8a4-b69a7a5df8fc.XLS; None filetype
+
+1366: reading 02caaa3c-af65-4b24-80fc-0872048659af.XLS
+02caaa3c-af65-4b24-80fc-0872048659af
+
+1376: reading 28b72e23-0467-4b57-a818-e6a45bc7504b.CSV
+IGNORE reading tables/28b72e23-0467-4b57-a818-e6a45bc7504b.CSV: Expected 3 fields in line 6, saw 6
+
+1379: reading 1dc5b5c1-52e0-4499-8aa7-e6a79d086e38.CSV
+IGNORE reading tables/1dc5b5c1-52e0-4499-8aa7-e6a79d086e38.CSV: ',' expected after '"'
+
+1400: reading ca2e6b92-547a-4ee6-b479-ef77b1aeea5f.CSV
+IGNORE reading tables/ca2e6b92-547a-4ee6-b479-ef77b1aeea5f.CSV: File is not a zip file
+
+1414: reading 4b7032ce-cbc1-4f57-a6fe-195804819cea.CSV
+IGNORE reading tables/4b7032ce-cbc1-4f57-a6fe-195804819cea.CSV: Expected 4 fields in line 3, saw 6
+
+1428: reading f21f23ea-c7fb-48df-8233-c4464b6d685d.XLS
+f21f23ea-c7fb-48df-8233-c4464b6d685d
+
+1446: reading 7070112c-4fa8-410c-b541-da2a2e5baf79.XLS
+7070112c-4fa8-410c-b541-da2a2e5baf79
+
+1461: reading 811216c7-f2d4-4a53-b0ce-0caebbfd9456.CSV
+IGNORE reading tables/811216c7-f2d4-4a53-b0ce-0caebbfd9456.CSV: Expected 21 fields in line 3, saw 25
+
+1471: reading 05dcf2e9-e2ee-42bc-924c-66aecc73d9d3.CSV
+IGNORE reading tables/05dcf2e9-e2ee-42bc-924c-66aecc73d9d3.CSV: Expected 10 fields in line 105203, saw 14
+
+1490: reading d902038d-dbd6-482d-8da2-3339483a1824.CSV
+ERROR reading tables/d902038d-dbd6-482d-8da2-3339483a1824.CSV: Expected 21 fields in line 3, saw 23
+
+1507: reading 3dc99ada-8cda-493e-af39-cb831554fbf7.CSV
+IGNORE reading tables/3dc99ada-8cda-493e-af39-cb831554fbf7.CSV: Expected 21 fields in line 3, saw 25
+
+1510: reading 6036bb25-c758-45cc-b0ee-f6a8cd4a96d8.CSV
+IGNORE reading tables/6036bb25-c758-45cc-b0ee-f6a8cd4a96d8.CSV: '"' expected after '"'
+
+1527: reading de1a6b85-a2ef-470d-afed-1b2e70520215.XLS
+de1a6b85-a2ef-470d-afed-1b2e70520215#IMPULSION
+de1a6b85-a2ef-470d-afed-1b2e70520215#IMPULSION#Fiche
+
+1560: reading d0790e08-d2e5-4a33-9a22-ccf6224bd9b3.CSV
+ERROR reading 2018-10: [Errno 21] Is a directory: './tmpdblmrx1d/2018-10'
+
+1562: reading f67d1dbe-1052-4cb1-9e4a-673dcf6e8667.CSV
+IGNORE reading TAFL_LandMobile-LTAF_MobileTerrestre.csv: ',' expected after '"'
+
+1564: reading 854a5a67-656f-41af-8a58-0f4245d3ccd7.CSV
+IGNORE reading tables/854a5a67-656f-41af-8a58-0f4245d3ccd7.CSV: field larger than field limit (131072)
+
+1607: reading d6eccefb-79dc-4c45-8166-b49deb0b7b82.XLS
+d6eccefb-79dc-4c45-8166-b49deb0b7b82
+
+1616: reading 364405e5-2de6-4fae-af2c-d38a7643624d.XLS
+364405e5-2de6-4fae-af2c-d38a7643624d
+
+1617: reading d86de203-465f-48bb-9ef8-a531241105b6.CSV
+IGNORE reading tables/d86de203-465f-48bb-9ef8-a531241105b6.CSV: Expected 1 fields in line 3, saw 3
+
+1633: reading 1c37d29f-d041-4cc5-a05e-eee87ab463d9.XLS
+1c37d29f-d041-4cc5-a05e-eee87ab463d9
+
+1657: reading 73737f67-d4c3-4ddc-b7ab-93673d576573.CSV
+IGNORE reading tables/73737f67-d4c3-4ddc-b7ab-93673d576573.CSV: Expected 21 fields in line 3, saw 25
+
+1660: reading 4eb16f2e-20af-4997-bb42-551185b7b3fe.CSV
+ERROR reading tables/4eb16f2e-20af-4997-bb42-551185b7b3fe.CSV: Expected 239 fields in line 12, saw 246
+
+1684: reading 78d5168d-3cc3-4c6a-b9c0-c873e1229828.CSV
+IGNORE reading tables/78d5168d-3cc3-4c6a-b9c0-c873e1229828.CSV: ' ' expected after '"'
+
+1698: reading 91ba1d22-c0d2-4068-90ab-c1d90559cf2c.CSV
+IGNORE reading tables/91ba1d22-c0d2-4068-90ab-c1d90559cf2c.CSV: field larger than field limit (131072)
+
+1706: reading 1502aae6-5100-4c9e-b8f8-43604acb331f.CSV
+IGNORE reading tables/1502aae6-5100-4c9e-b8f8-43604acb331f.CSV: ',' expected after '"'
+
+1711: reading 0a8f3ffb-4e6a-467d-baca-87787caf402e.CSV
+IGNORE reading tables/0a8f3ffb-4e6a-467d-baca-87787caf402e.CSV: File is not a zip file
+
+1724: reading 066a3efd-8450-4437-8101-2e763ca56201.CSV
+IGNORE reading tables/066a3efd-8450-4437-8101-2e763ca56201.CSV: File is not a zip file
+
+1725: reading 8adfb49e-c7ad-4d25-a9e7-791f8719819f.CSV
+IGNORE reading tables/8adfb49e-c7ad-4d25-a9e7-791f8719819f.CSV: Expected 4 fields in line 1842, saw 6
+
+1729: reading 85969901-016e-4f5f-8959-8b16181757c0.XLS
+85969901-016e-4f5f-8959-8b16181757c0
+
+1733: reading 5c16c1b1-56a3-4084-a066-be73230def20.CSV
+IGNORE reading 37100144.csv: ';' expected after '"'
+
+1736: reading 1d3b1749-d5fa-4bd9-b935-21aee5d159a6.CSV
+IGNORE reading tables/1d3b1749-d5fa-4bd9-b935-21aee5d159a6.CSV: field larger than field limit (131072)
+
+1739: reading f0a5ca52-865b-461d-a343-674354ed7ddd.CSV
+IGNORE reading Graphiques: [Errno 21] Is a directory: './tmpru9bb0mg/Graphiques'
+
+1741: reading 71039aae-d220-42de-96be-d99ac4a1104d.CSV
+ERROR reading tables/71039aae-d220-42de-96be-d99ac4a1104d.CSV: Expected 21 fields in line 3, saw 23
+
+1746: reading b1899d15-96ff-44ce-b8a1-0a9470fe7158.CSV
+IGNORE reading tables/b1899d15-96ff-44ce-b8a1-0a9470fe7158.CSV: Expected 13 fields in line 3, saw 15
+
+1747: reading eb01333d-388d-4038-8a39-573b388157d9.CSV
+IGNORE reading tables/eb01333d-388d-4038-8a39-573b388157d9.CSV: Expected 21 fields in line 3, saw 25
+
+1753: reading 86ac54d1-67fe-4d69-967b-5f46f1b51420.CSV
+ERROR reading tables/86ac54d1-67fe-4d69-967b-5f46f1b51420.CSV: ' ' expected after '"'
+
+1760: reading bb980f26-32cb-429c-8053-43c4f569b062.XLS
+IGNORE reading tables/bb980f26-32cb-429c-8053-43c4f569b062.XLS: File is not a zip file
+
+1761: reading 3efec6c6-2429-4380-9bc3-e98ca15063a2.XLS
+3efec6c6-2429-4380-9bc3-e98ca15063a2
+
+1827: reading 77d0d79d-1f6c-4021-91fc-34cdef0f8cca.XLS
+77d0d79d-1f6c-4021-91fc-34cdef0f8cca#Résultats_2014
+77d0d79d-1f6c-4021-91fc-34cdef0f8cca#Résultats_2014#Résultats_2014_vs_2013
+
+1855: reading ac7911b7-2f9e-48cf-ae60-97ab3cf6bd30.CSV
+IGNORE reading tables/ac7911b7-2f9e-48cf-ae60-97ab3cf6bd30.CSV: unexpected end of data
+
+1860: reading eb1db8d7-e3d7-45db-bea0-caf16a3c2e17.CSV
+IGNORE reading 201507: [Errno 21] Is a directory: './tmpvxb76xvb/201507'
+
+1862: reading ee23801f-f1c4-4dff-bc4e-a77bf78e0f3c.CSV
+IGNORE: Can't read file ./tmpndzjaiyg/99-004-XWE2011001-101.tab; None filetype
+IGNORE: Can't read file ./tmpndzjaiyg/99-004-XWE2011001-101-DQ.TAB; None filetype
+
+1880: reading dcfa8302-68d5-4d6c-b49d-e79be55745ab.XLS
+dcfa8302-68d5-4d6c-b49d-e79be55745ab#PointsRencontre_LivredansRue
+dcfa8302-68d5-4d6c-b49d-e79be55745ab#PointsRencontre_LivredansRue#Feuil2
+dcfa8302-68d5-4d6c-b49d-e79be55745ab#PointsRencontre_LivredansRue#Feuil2#Feuil3
+
+1888: reading 700ab814-c394-4778-b5fc-2937f6d394b9.CSV
+IGNORE reading tables/700ab814-c394-4778-b5fc-2937f6d394b9.CSV: Could not determine delimiter
+
+1894: reading 3e3d29ad-a12c-4ae4-bb37-8fd915c511de.XLS
+3e3d29ad-a12c-4ae4-bb37-8fd915c511de#College_Operating_2012-13
+3e3d29ad-a12c-4ae4-bb37-8fd915c511de#College_Operating_2012-13#College_Operating_2013-14
+3e3d29ad-a12c-4ae4-bb37-8fd915c511de#College_Operating_2012-13#College_Operating_2013-14#College_Operating_2014-15
+3e3d29ad-a12c-4ae4-bb37-8fd915c511de#College_Operating_2012-13#College_Operating_2013-14#College_Operating_2014-15#College_Operating_2015-16
+
+1907: reading ad32053c-6681-43ab-b499-2bca49c35e0a.CSV
+IGNORE reading tables/ad32053c-6681-43ab-b499-2bca49c35e0a.CSV: File is not a zip file
+
+1912: reading adcb7b0f-53da-4781-83f6-52cd44dc34da.CSV
+IGNORE reading tables/adcb7b0f-53da-4781-83f6-52cd44dc34da.CSV: File is not a zip file
+
+1920: reading 4c2f4ce0-8663-42c4-9b0e-6cc73401a581.CSV
+IGNORE reading tables/4c2f4ce0-8663-42c4-9b0e-6cc73401a581.CSV: Expected 3 fields in line 91, saw 4
+
+1927: reading 7d025f6e-0b17-489f-8037-b029809ff2f8.CSV
+IGNORE reading tables/7d025f6e-0b17-489f-8037-b029809ff2f8.CSV: Could not determine delimiter
+
+1943: reading 458970bb-34f6-4820-8399-29958526be17.XLS
+458970bb-34f6-4820-8399-29958526be17
+
+1945: reading 2278c04a-1f90-47a1-9282-514d5a4f3bfc.CSV
+IGNORE reading tables/2278c04a-1f90-47a1-9282-514d5a4f3bfc.CSV: Expected 21 fields in line 3, saw 25
+
+1954: reading 7a727a71-4721-4175-a529-ec38a59d97fe.XLS
+7a727a71-4721-4175-a529-ec38a59d97fe
+
+1958: reading 57256709-ce4f-42c7-a525-55abc62b3f0e.XLS
+57256709-ce4f-42c7-a525-55abc62b3f0e
+
+1965: reading 005c5675-039f-4b01-97a5-f11613db06dd.CSV
+IGNORE reading tables/005c5675-039f-4b01-97a5-f11613db06dd.CSV: unexpected end of data
+
+1974: reading aa8e80e7-497b-4c7b-a42f-b9da89d49b13.CSV
+IGNORE reading tables/aa8e80e7-497b-4c7b-a42f-b9da89d49b13.CSV: unexpected end of data
+
+1986: reading 8034307c-e422-41bf-a56c-ad07d392cf55.XLS
+8034307c-e422-41bf-a56c-ad07d392cf55#Sheet1
+8034307c-e422-41bf-a56c-ad07d392cf55#Sheet1#Sheet2
+
+1997: reading c6a70009-2292-4a04-844e-6a036319cead.CSV
+IGNORE reading tables/c6a70009-2292-4a04-844e-6a036319cead.CSV: Expected 21 fields in line 3, saw 25
+
+2001: reading cf4a62d9-71e5-43c6-8b0b-a12d01b02f69.CSV
+IGNORE reading tables/cf4a62d9-71e5-43c6-8b0b-a12d01b02f69.CSV: Expected 21 fields in line 3, saw 25
+
+2033: reading 17ac84f4-5688-4d30-89d1-229e45d75e27.CSV
+IGNORE reading tables/17ac84f4-5688-4d30-89d1-229e45d75e27.CSV: Expected 20 fields in line 3, saw 25
+
+2041: reading fd6d2a3a-7498-4c71-b925-b78a7cdf83cb.CSV
+IGNORE reading Ann1 - A1.2.csv: Expected 7 fields in line 6, saw 13
+IGNORE reading Ann2 - A2.7.csv: Expected 8 fields in line 6, saw 15
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - A2.13-B.csv: Expected 6 fields in line 7, saw 11
+IGNORE reading Ann2 - A2.1.csv: Expected 8 fields in line 6, saw 13
+IGNORE reading MF - 6.csv: Expected 4 fields in line 7, saw 7
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - A2.5.csv: Expected 8 fields in line 8, saw 15
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - A2.14 -A.csv: Expected 7 fields in line 6, saw 12
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - AE (2 de 2).csv: Expected 12 fields in line 4, saw 20
+IGNORE reading aperçu tableau 1.csv: Expected 17 fields in line 5, saw 23
+IGNORE reading Ann2 - A2.12.csv: Expected 4 fields in line 5, saw 6
+IGNORE reading Ann2 - A2.14-B.csv: Expected 6 fields in line 8, saw 11
+IGNORE reading Ann2 - A2.13-A.csv: Expected 7 fields in line 8, saw 13
+IGNORE reading Ann1 - A1.1.csv: Expected 8 fields in line 7, saw 13
+IGNORE reading Ann2 - A2.4.csv: Expected 8 fields in line 6, saw 15
+IGNORE reading Ann2 - A2.16.csv: Expected 4 fields in line 9, saw 7
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - A2.3.csv: Expected 7 fields in line 7, saw 13
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - A2.11.csv: Expected 8 fields in line 71, saw 15
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading MF - 2.csv: ',' expected after '"'
+IGNORE reading Ann2 - A2.15.csv: Expected 4 fields in line 8, saw 7
+IGNORE reading Ann2 - AE (1 de 2).csv: Expected 8 fields in line 5, saw 15
+IGNORE reading Ann2 - A2.2.csv: Expected 7 fields in line 7, saw 13
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - A2.17.csv: Expected 4 fields in line 6, saw 7
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+IGNORE reading Ann2 - A2.6.csv: Expected 8 fields in line 6, saw 15
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+fd6d2a3a-7498-4c71-b925-b78a7cdf83cb
+
+2049: reading 05ed84d4-6937-4d71-ba62-4db4fa9c66f4.CSV
+IGNORE reading tables/05ed84d4-6937-4d71-ba62-4db4fa9c66f4.CSV: Expected 21 fields in line 3, saw 25
+
+2059: reading 84b6b4b2-52fe-41af-9296-9bcbb2c461f3.CSV
+IGNORE reading tables/84b6b4b2-52fe-41af-9296-9bcbb2c461f3.CSV: File is not a zip file
+
+2064: reading 7a604d6e-ac2b-459c-9baf-83d80a69e829.CSV
+IGNORE reading tables/7a604d6e-ac2b-459c-9baf-83d80a69e829.CSV: ' ' expected after '"'
+
+2068: reading 17c0324c-eecc-4281-8216-0ce7407c7d0e.CSV
+IGNORE reading tables/17c0324c-eecc-4281-8216-0ce7407c7d0e.CSV: Expected 4 fields in line 3, saw 6
+
+2073: reading e54bc177-fa17-4611-9ff2-14bd88cdd1ac.XLS
+e54bc177-fa17-4611-9ff2-14bd88cdd1ac
+
+2075: reading 7a76e8d0-04a6-48a8-bf44-163678a37e3c.CSV
+IGNORE reading tables/7a76e8d0-04a6-48a8-bf44-163678a37e3c.CSV: Expected 21 fields in line 3, saw 25
+
+2078: reading eac60f60-a0ef-4dc1-83b6-060fb9c97ab8.XLS
+eac60f60-a0ef-4dc1-83b6-060fb9c97ab8
+
+2079: reading 1ee70ed0-9c05-4414-af3f-04d9812893a0.XLS
+1ee70ed0-9c05-4414-af3f-04d9812893a0
+
+2103: reading 259c5c3b-ed52-4729-af05-f203a4d49d01.CSV
+ERROR reading ise-ecs: [Errno 21] Is a directory: './tmpwjswbq_w/ise-ecs'
+
+2107: reading 1020be20-ee3a-4fd4-9ad3-9071e6cb6177.CSV
+IGNORE reading tables/1020be20-ee3a-4fd4-9ad3-9071e6cb6177.CSV: '' expected after '"'
+
+2114: reading 8c890c4d-a1d7-4afa-af8b-2854f391bad9.CSV
+IGNORE reading tables/8c890c4d-a1d7-4afa-af8b-2854f391bad9.CSV: File is not a zip file
+
+2115: reading e78b68f4-77da-4bc6-980c-099c8bc02a71.CSV
+IGNORE reading tables/e78b68f4-77da-4bc6-980c-099c8bc02a71.CSV: Expected 3 fields in line 5, saw 9
+
+2120: reading 07bd73d0-3d53-49dd-857a-342be87022de.XLS
+07bd73d0-3d53-49dd-857a-342be87022de
+
+2125: reading d9f5d10e-fac7-49a5-a77a-8f914d1da009.CSV
+IGNORE reading g2-13.csv: Expected 4 fields in line 5, saw 5
+IGNORE reading g2-25.csv: Expected 3 fields in line 12, saw 5
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-4.csv: Expected 7 fields in line 14, saw 9
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-26.csv: Expected 5 fields in line 23, saw 7
+IGNORE reading g3-3.csv: Expected 2 fields in line 11, saw 6
+IGNORE reading g2-9.csv: Expected 3 fields in line 27, saw 4
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-32.csv: Expected 5 fields in line 25, saw 7
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g1-2.csv: Expected 5 fields in line 21, saw 7
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-1.csv: Expected 3 fields in line 20, saw 4
+IGNORE reading g2-10.csv: Expected 3 fields in line 27, saw 4
+IGNORE reading g2-6.csv: Expected 3 fields in line 25, saw 4
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-2.csv: Expected 3 fields in line 20, saw 4
+IGNORE reading g2-11.csv: Expected 2 fields in line 27, saw 3
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-7.csv: Expected 4 fields in line 27, saw 5
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-4 (2).csv: Expected 7 fields in line 28, saw 9
+IGNORE reading g3-6.csv: Expected 3 fields in line 6, saw 4
+IGNORE reading g2-23.csv: Expected 26 fields in line 3, saw 38
+IGNORE reading g2-3.csv: Expected 7 fields in line 14, saw 8
+IGNORE reading g2-12.csv: Expected 3 fields in line 11, saw 4
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-28.csv: Expected 5 fields in line 27, saw 7
+IGNORE reading g2-30.csv: Expected 4 fields in line 21, saw 6
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-29.csv: Expected 8 fields in line 18, saw 10
+d9f5d10e-fac7-49a5-a77a-8f914d1da009
+IGNORE reading g2-31.csv: Expected 4 fields in line 25, saw 6
+
+2127: reading 61e7dd79-7778-4bb4-b66c-7951e2abc6c1.CSV
+IGNORE reading tables/61e7dd79-7778-4bb4-b66c-7951e2abc6c1.CSV: field larger than field limit (131072)
+
+2138: reading cae9c676-3c29-42df-b8ca-89ed9ee85c81.CSV
+IGNORE reading tables/cae9c676-3c29-42df-b8ca-89ed9ee85c81.CSV: field larger than field limit (131072)
+
+2180: reading 49244487-d97d-486e-94ce-39c42452815b.XLSX
+ERROR: Can't read file tables/49244487-d97d-486e-94ce-39c42452815b.XLSX; None filetype
+
+2185: reading b66c9f94-78eb-4838-be30-cb1cc6578821.XLS
+b66c9f94-78eb-4838-be30-cb1cc6578821
+
+2192: reading 6c2d8c5c-0950-49c7-bfa2-016056d2519b.CSV
+IGNORE reading tables/6c2d8c5c-0950-49c7-bfa2-016056d2519b.CSV: Expected 3 fields in line 5, saw 9
+
+2194: reading 7340c4ad-b909-4658-bbf3-165a612472de.CSV
+IGNORE reading Salinity_Temp_BarkleySoundOffshore: [Errno 21] Is a directory: './tmpes5xpfpy/Salinity_Temp_BarkleySoundOffshore'
+
+2198: reading 1d5e3c6f-681e-4833-8c4c-911fd36f2d03.CSV
+IGNORE reading tables/1d5e3c6f-681e-4833-8c4c-911fd36f2d03.CSV: Expected 4 fields in line 2033, saw 6
+
+2210: reading 126cb32f-f133-4307-934c-8525b7c55d42.CSV
+IGNORE reading tables/126cb32f-f133-4307-934c-8525b7c55d42.CSV: field larger than field limit (131072)
+
+2219: reading 742f67f0-7af7-4e4e-8226-9f4fa1beda68.CSV
+IGNORE reading French: [Errno 21] Is a directory: './tmpj6xyx6n0/French'
+
+2225: reading d208fec1-27f2-4927-9053-777a82a661d0.CSV
+IGNORE reading tables/d208fec1-27f2-4927-9053-777a82a661d0.CSV: '"' expected after '"'
+
+2238: reading 55aee4ad-9875-4a63-a6f1-b83d41181bb6.CSV
+IGNORE reading tables/55aee4ad-9875-4a63-a6f1-b83d41181bb6.CSV: Expected 6 fields in line 20, saw 16
+
+2250: reading 0f00ba87-0185-4b95-ae16-0cf877568bae.CSV
+IGNORE reading tables/0f00ba87-0185-4b95-ae16-0cf877568bae.CSV: Expected 21 fields in line 3, saw 23
+
+2254: reading b2b8e256-2642-4bbd-8bfb-b595a4c3fba3.CSV
+IGNORE reading tables/b2b8e256-2642-4bbd-8bfb-b595a4c3fba3.CSV: 'o' expected after '"'
+
+2270: reading bc1387cf-9989-4c01-9098-fdd9a5c3a890.XLS
+bc1387cf-9989-4c01-9098-fdd9a5c3a890
+
+2281: reading dd37e2f6-81c8-4795-a239-ec7677361701.CSV
+IGNORE reading tables/dd37e2f6-81c8-4795-a239-ec7677361701.CSV: Expected 7 fields in line 4, saw 9
+
+2291: reading 6dd676d7-b957-4a6f-8cad-ffe91e9e4e49.CSV
+IGNORE reading tables/6dd676d7-b957-4a6f-8cad-ffe91e9e4e49.CSV: Expected 3 fields in line 5, saw 8
+
+2312: reading f8ee9fb3-1f22-4210-a01a-430ea6dbb487.CSV
+IGNORE reading tables/f8ee9fb3-1f22-4210-a01a-430ea6dbb487.CSV: ' ' expected after '"'
+
+2329: reading d028faa4-0387-4193-b8c9-1229dc0307ed.CSV
+IGNORE reading tables/d028faa4-0387-4193-b8c9-1229dc0307ed.CSV: "delimiter" must be a 1-character string
+
+2334: reading dfbead38-26a8-4394-aefe-46b2e8f5ecc2.CSV
+IGNORE reading tables/dfbead38-26a8-4394-aefe-46b2e8f5ecc2.CSV: Expected 20 fields in line 3, saw 25
+
+2340: reading 270f2396-17d7-4a2d-85a2-f83f345d8e9c.XLS
+270f2396-17d7-4a2d-85a2-f83f345d8e9c
+
+2363: reading 1f80e67b-a0a3-46da-a5de-fc60ee570a4a.CSV
+IGNORE reading tables/1f80e67b-a0a3-46da-a5de-fc60ee570a4a.CSV: unexpected end of data
+
+2368: reading 80b3c8bf-6c8a-42aa-a435-e971fb2d2486.CSV
+IGNORE reading 98-316-XWF2011001-501.CSV: ' ' expected after '"'
+IGNORE reading 98-316-XWF2011001-501-DQ.CSV: ' ' expected after '"'
+
+2377: reading 9075fe5f-dd47-4915-9d2e-3ef240e8835d.XLS
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai#juin
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai#juin#juillet
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai#juin#juillet#Aout
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai#juin#juillet#Aout#septembre
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai#juin#juillet#Aout#septembre#octobre
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai#juin#juillet#Aout#septembre#octobre#novembre
+9075fe5f-dd47-4915-9d2e-3ef240e8835d#janvier#fevrier#mars#avril#mai#juin#juillet#Aout#septembre#octobre#novembre#décembre
+
+2378: reading 049c4150-c3e7-466f-a041-f7f750414555.CSV
+IGNORE: Can't read file ./tmp3b66ewdc/ODPF_7_StateDesc.TXT; None filetype
+IGNORE: Can't read file ./tmp3b66ewdc/ODPF_9_UOMDesc.TXT; None filetype
+IGNORE: Can't read file ./tmp3b66ewdc/ODPF_4_HS6XDesc.TXT; None filetype
+IGNORE: Can't read file ./tmp3b66ewdc/Note aux utilisateurs.docx; Unsupported filetype: docx
+049c4150-c3e7-466f-a041-f7f750414555
+IGNORE: Can't read file ./tmp3b66ewdc/ODPF_2_HS8Desc.TXT; None filetype
+IGNORE: Can't read file ./tmp3b66ewdc/ODPF_8_ProvDesc.TXT; None filetype
+IGNORE: Can't read file ./tmp3b66ewdc/Note to User.docx; Unsupported filetype: docx
+049c4150-c3e7-466f-a041-f7f750414555
+IGNORE: Can't read file ./tmp3b66ewdc/ODPF_6_CtyDesc.TXT; None filetype
+IGNORE: Can't read file ./tmp3b66ewdc/ODPF_5_HS2Desc.TXT; None filetype
+049c4150-c3e7-466f-a041-f7f750414555
+
+2385: reading 062db07b-4abe-4819-8bbf-d9085c8c72e4.CSV
+IGNORE reading tables/062db07b-4abe-4819-8bbf-d9085c8c72e4.CSV: File is not a zip file
+
+2411: reading aeb69ce5-4801-446a-be50-8e12448e0123.XLSX
+ERROR: Can't read file tables/aeb69ce5-4801-446a-be50-8e12448e0123.XLSX; None filetype
+
+2416: reading fb79c804-6136-4686-981e-d2f8590b754c.CSV
+IGNORE reading tables/fb79c804-6136-4686-981e-d2f8590b754c.CSV: Expected 20 fields in line 3, saw 25
+
+2434: reading 80d58382-c139-4abd-8dae-ad9f23f809da.CSV
+ERROR reading tables/80d58382-c139-4abd-8dae-ad9f23f809da.CSV: field larger than field limit (131072)
+
+2457: reading e5c62d2f-1b9f-47c5-a85c-1d81a194209c.CSV
+IGNORE reading tables/e5c62d2f-1b9f-47c5-a85c-1d81a194209c.CSV: Could not determine delimiter
+
+2471: reading 46553f7d-9e5a-48c8-be7f-f745c02ce4c1.CSV
+IGNORE reading tables/46553f7d-9e5a-48c8-be7f-f745c02ce4c1.CSV: Expected 20 fields in line 3, saw 25
+
+2489: reading 5ca6e3e8-e4ca-4227-812d-33475fa0a6dc.CSV
+IGNORE: Can't read file ./tmpxd_6x75c/99-011-X2011007-nhsenm-201-E.tab; None filetype
+
+2506: reading f077ef19-b610-45a0-9fb4-314a3b5720dd.CSV
+IGNORE reading tables/f077ef19-b610-45a0-9fb4-314a3b5720dd.CSV: ' ' expected after '"'
+
+2508: reading ed4d0836-cba3-412a-abfb-dad43752d350.XLS
+IGNORE reading images: [Errno 21] Is a directory: './tmpgmeohtwv/images'
+IGNORE: Can't read file ./tmpgmeohtwv/DIG_2013_0003_rockeval_data.txt; None filetype
+
+2509: reading 60f469f7-a82f-42c3-842f-eaa473867687.XLS
+60f469f7-a82f-42c3-842f-eaa473867687
+
+2584: reading 71c78a98-d496-4521-8ef8-9d2acd2a3793.CSV
+IGNORE reading tables/71c78a98-d496-4521-8ef8-9d2acd2a3793.CSV: ' ' expected after '"'
+
+2606: reading 3bceaabf-4daf-497d-b9e0-6c4b5db565f3.CSV
+ERROR reading 98100004.csv: ',' expected after '"'
+
+2610: reading 71ad2ff4-8193-4db6-8ca6-575ddc2fd62e.CSV
+IGNORE reading tables/71ad2ff4-8193-4db6-8ca6-575ddc2fd62e.CSV: File is not a zip file
+
+2615: reading 32077beb-9882-44d6-baae-2de43773b76b.CSV
+IGNORE reading tables/32077beb-9882-44d6-baae-2de43773b76b.CSV: Expected 3 fields in line 5, saw 8
+
+2629: reading 3e3d526f-b305-42b7-99fc-7f6ba0eb9ade.CSV
+IGNORE reading tables/3e3d526f-b305-42b7-99fc-7f6ba0eb9ade.CSV: unexpected end of data
+
+2630: reading 85be6929-68f7-4795-9e11-010cbb2e6271.CSV
+ERROR reading tables/85be6929-68f7-4795-9e11-010cbb2e6271.CSV: Expected 3 fields in line 3, saw 4
+
+2642: reading 3cb28a19-979a-4ac5-a0db-136322661b23.CSV
+IGNORE: Can't read file ./tmpj80jrh9h/98-401-X2021001_Francais_meta.txt; None filetype
+3cb28a19-979a-4ac5-a0db-136322661b23
+IGNORE: Can't read file ./tmpj80jrh9h/LISEZ-MOI_meta.txt; None filetype
+3cb28a19-979a-4ac5-a0db-136322661b23
+
+2651: reading 5bb40b78-46ac-430f-b1b9-b8ed25632bc9.XLSX
+ERROR: Can't read file tables/5bb40b78-46ac-430f-b1b9-b8ed25632bc9.XLSX; None filetype
+
+2662: reading 3dcd5757-2c5d-4b27-9229-30b2a18d4d73.XLS
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL#TEXTURE
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL#TEXTURE#EXPRESSION
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL#TEXTURE#EXPRESSION#PROCESS
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE#DELIMITERS
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE#DELIMITERS#LINES
+3dcd5757-2c5d-4b27-9229-30b2a18d4d73#MATERIAL#TEXTURE#EXPRESSION#PROCESS#AGE#DELIMITERS#LINES#POINTS
+
+2665: reading 45369de6-435b-42a2-8c28-519f3c33aa11.CSV
+ERROR reading tables/45369de6-435b-42a2-8c28-519f3c33aa11.CSV: Expected 2 fields in line 3, saw 22
+
+2682: reading 99028c95-f944-45e6-9572-7a982119f7e0.XLS
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University#University_Program
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University#University_Program#Colleges
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University#University_Program#Colleges#College_Program
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University#University_Program#Colleges#College_Program#PCC
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University#University_Program#Colleges#College_Program#PCC#PCC_Program
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University#University_Program#Colleges#College_Program#PCC#PCC_Program#Other
+99028c95-f944-45e6-9572-7a982119f7e0#Sector_Summary#University#University_Program#Colleges#College_Program#PCC#PCC_Program#Other#Other_by_Program
+
+2695: reading a5891c53-c36e-4111-9996-0bcf0376fb8f.XLS
+a5891c53-c36e-4111-9996-0bcf0376fb8f
+
+2698: reading b5df553c-e2fb-4127-8bd8-5d931141ecf3.CSV
+IGNORE reading tables/b5df553c-e2fb-4127-8bd8-5d931141ecf3.CSV: File is not a zip file
+
+2701: reading 3eec4d4a-9ca5-4f3f-8f6e-b66466bf4952.CSV
+3eec4d4a-9ca5-4f3f-8f6e-b66466bf4952
+
+2702: reading a0a197c9-928b-455b-a0a6-b3d0ec5ba9dd.CSV
+a0a197c9-928b-455b-a0a6-b3d0ec5ba9dd
+
+2703: reading 37338bd0-79cb-4ec4-a8ce-61a434f3e86c.CSV
+37338bd0-79cb-4ec4-a8ce-61a434f3e86c
+
+2704: reading 4398b6e0-e485-4387-8a4b-7b761a3a4181.CSV
+4398b6e0-e485-4387-8a4b-7b761a3a4181
+
+2705: reading 369cbc29-f29e-4ba5-9db2-89865d5430d5.CSV
+369cbc29-f29e-4ba5-9db2-89865d5430d5
+
+2706: reading 919630ef-df15-4df8-b483-a1209e3088ed.CSV
+919630ef-df15-4df8-b483-a1209e3088ed
+
+2707: reading 26683ab5-a60d-4426-a606-4fb8d4b22308.CSV
+IGNORE reading tables/26683ab5-a60d-4426-a606-4fb8d4b22308.CSV: Expected 19 fields in line 3, saw 24
+
+2708: reading 10469bb7-588d-4527-b333-c161d10f6adb.CSV
+10469bb7-588d-4527-b333-c161d10f6adb
+
+2709: reading 5a83ad3e-a689-4cf7-bc6c-29dfcdefa428.CSV
+5a83ad3e-a689-4cf7-bc6c-29dfcdefa428
+
+2710: reading b2a1cef5-6eb6-41d1-ad2a-18f4f064b9d3.CSV
+b2a1cef5-6eb6-41d1-ad2a-18f4f064b9d3
+
+2711: reading 68538940-0739-4166-b3d5-a8cbbcc871d0.CSV
+68538940-0739-4166-b3d5-a8cbbcc871d0
+
+2712: reading 356a3edd-e38d-4be8-aede-7302bc9eb287.CSV
+356a3edd-e38d-4be8-aede-7302bc9eb287
+
+2713: reading 53984fb5-d563-4c02-8510-7bd4fc3bd433.XLSX
+53984fb5-d563-4c02-8510-7bd4fc3bd433
+
+2714: reading 6851704b-1ba0-4d09-a8b3-4be3342e5012.CSV
+6851704b-1ba0-4d09-a8b3-4be3342e5012
+
+2715: reading f32f20fc-f54b-4d8f-97a3-708b328e16ab.CSV
+f32f20fc-f54b-4d8f-97a3-708b328e16ab
+
+2716: reading a278f2cc-4587-4bb1-a308-8d2d8a5e8940.CSV
+a278f2cc-4587-4bb1-a308-8d2d8a5e8940
+
+2717: reading 56494ea5-6e30-48f8-9bd1-fcee3ea2b7ad.CSV
+IGNORE reading tables/56494ea5-6e30-48f8-9bd1-fcee3ea2b7ad.CSV: Expected 21 fields in line 3, saw 25
+
+2718: reading f6bafeeb-57c8-4608-83fa-38b3c1f26215.CSV
+f6bafeeb-57c8-4608-83fa-38b3c1f26215
+
+2719: reading ac7d462a-1b2f-4f88-9738-2dd2c6f8f5ee.XLS
+ERROR: Can't read file tables/ac7d462a-1b2f-4f88-9738-2dd2c6f8f5ee.XLS; None filetype
+
+2720: reading eabc1763-8c98-4492-a733-b63bebe8b144.CSV
+eabc1763-8c98-4492-a733-b63bebe8b144
+
+2721: reading 1d158bd0-049a-46c9-9f08-a118d9a53b7d.CSV
+1d158bd0-049a-46c9-9f08-a118d9a53b7d
+
+2722: reading 5af027e4-bea5-4e8c-81cd-ff1678e2779d.XLSX
+5af027e4-bea5-4e8c-81cd-ff1678e2779d#Cattle_and_Calves
+5af027e4-bea5-4e8c-81cd-ff1678e2779d#Cattle_and_Calves#Cattle_and_Calves_F
+
+2723: reading ae53fcb8-4192-4618-862d-f9641d71525d.CSV
+ae53fcb8-4192-4618-862d-f9641d71525d
+
+2724: reading ce8cc4bb-f31e-4e9f-8536-fa8c38567bdf.XLSX
+ce8cc4bb-f31e-4e9f-8536-fa8c38567bdf
+
+2725: reading dcd5b513-9bab-4376-9719-4e93d6d5e31f.CSV
+dcd5b513-9bab-4376-9719-4e93d6d5e31f
+
+2726: reading 8b1847e8-7d67-434b-90fd-6b79a334dea2.CSV
+8b1847e8-7d67-434b-90fd-6b79a334dea2
+
+2727: reading a7ec0f68-4586-4202-bae9-10d3294766f9.CSV
+a7ec0f68-4586-4202-bae9-10d3294766f9
+
+2728: reading af4e2053-200f-4dbe-aa41-d4f6f428a28a.CSV
+af4e2053-200f-4dbe-aa41-d4f6f428a28a
+
+2729: reading 6565192f-ee8b-4a9d-aa97-422c582e3670.XLS
+6565192f-ee8b-4a9d-aa97-422c582e3670
+
+2730: reading 3d4bf9d9-f678-4642-b046-50af30d275d7.CSV
+3d4bf9d9-f678-4642-b046-50af30d275d7
+
+2731: reading 760bfde0-e7b5-48b9-a374-aeac5f748075.CSV
+760bfde0-e7b5-48b9-a374-aeac5f748075
+
+2732: reading 5b76c73e-9d4e-4f8f-9b91-e0586182f2a0.CSV
+5b76c73e-9d4e-4f8f-9b91-e0586182f2a0
+
+2733: reading c35acc1e-92ad-4589-8968-998fe5aca980.CSV
+c35acc1e-92ad-4589-8968-998fe5aca980
+
+2734: reading a1c82933-dc1b-4097-81fc-567489157785.CSV
+a1c82933-dc1b-4097-81fc-567489157785
+
+2735: reading 365a7829-43ae-4f70-a37a-7b4931b9d183.CSV
+365a7829-43ae-4f70-a37a-7b4931b9d183
+
+2736: reading 43420f46-9895-4753-b349-da1afe447676.CSV
+43420f46-9895-4753-b349-da1afe447676
+
+2737: reading 2aceccfc-c657-4ec5-bf7a-3a3d463f5ff0.CSV
+2aceccfc-c657-4ec5-bf7a-3a3d463f5ff0
+
+2738: reading 33f61868-d960-412b-ad51-8f8e57f7dafd.CSV
+33f61868-d960-412b-ad51-8f8e57f7dafd
+
+2739: reading ea01994d-7757-4ec5-b4a7-7b9317105780.CSV
+ea01994d-7757-4ec5-b4a7-7b9317105780
+
+2740: reading d9bbc350-4438-4229-8c42-4c988fa4c76f.CSV
+d9bbc350-4438-4229-8c42-4c988fa4c76f
+
+2741: reading 118818a4-caf3-4a35-8fe5-2803213868a7.CSV
+118818a4-caf3-4a35-8fe5-2803213868a7
+
+2742: reading c62f0a32-449b-4235-b4d0-83e7cb13beb2.CSV
+c62f0a32-449b-4235-b4d0-83e7cb13beb2
+
+2743: reading 8a64591f-b911-480f-88ed-c15434eebf12.CSV
+IGNORE reading 99-004-XWE2011001-201.csv: Expected 12 fields in line 11, saw 20
+IGNORE reading 99-004-XWE2011001-201-DQ.CSV: '' expected after '"'
+
+2744: reading 0df0ebd6-f097-4435-8dbe-be8e64a65109.XLSX
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15#T8.16
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15#T8.16#T8.17
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15#T8.16#T8.17#T8.18
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15#T8.16#T8.17#T8.18#T8.19
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15#T8.16#T8.17#T8.18#T8.19#T8.20
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15#T8.16#T8.17#T8.18#T8.19#T8.20#T8.21
+0df0ebd6-f097-4435-8dbe-be8e64a65109#Table_des_matières#G8.1#G8.2#G8.3#G8.4#G8.5#G8.6#G8.7#G8.8#G8.9#G8.10#T8.1#T8.2#T8.3#T8.4#T8.5#T8.6#T8.7#T8.8#T8.9#T8.10#T8.11#T8.12#T8.13#T8.14#T8.15#T8.16#T8.17#T8.18#T8.19#T8.20#T8.21#T8.22
+
+2745: reading c7bda56f-3790-4a0f-a2d5-8638e5acfe5a.CSV
+c7bda56f-3790-4a0f-a2d5-8638e5acfe5a
+
+2746: reading fe878635-ddfc-4a35-a913-128bee9f608e.CSV
+fe878635-ddfc-4a35-a913-128bee9f608e
+
+2747: reading f67991c9-793c-4b4d-bf62-806e974b4023.CSV
+f67991c9-793c-4b4d-bf62-806e974b4023
+
+2748: reading eb87a6db-3b03-4ddc-a2eb-be5a8c3f7662.CSV
+eb87a6db-3b03-4ddc-a2eb-be5a8c3f7662
+
+2749: reading 98778f8f-492a-47ee-88fb-d086911d3079.CSV
+98778f8f-492a-47ee-88fb-d086911d3079
+
+2750: reading 31adfdc0-a2d5-4355-bdc9-3d122ed30f8a.CSV
+31adfdc0-a2d5-4355-bdc9-3d122ed30f8a
+
+2751: reading d6c29ace-2d06-4ec6-b58f-2d1914e321bd.CSV
+d6c29ace-2d06-4ec6-b58f-2d1914e321bd
+
+2752: reading 69e5c9b2-c93d-4dd1-ab71-6b33e931b73d.CSV
+69e5c9b2-c93d-4dd1-ab71-6b33e931b73d
+
+2753: reading 21a1ccb6-08ea-4507-8df6-4d6e0da4cc00.CSV
+ERROR reading tables/21a1ccb6-08ea-4507-8df6-4d6e0da4cc00.CSV: Expected 7 fields in line 3, saw 11
+
+2754: reading da131b24-add4-44f8-90dc-324ccbc3d34d.XLSX
+da131b24-add4-44f8-90dc-324ccbc3d34d
+
+2755: reading e83a3ff2-37e5-40b9-a168-4519daef8ae3.CSV
+e83a3ff2-37e5-40b9-a168-4519daef8ae3
+
+2756: reading 390a9dfb-bbb8-48d4-b33e-a731cb99af6f.CSV
+390a9dfb-bbb8-48d4-b33e-a731cb99af6f
+
+2757: reading 77312359-f2a0-4ca4-a78f-99db6675ed28.CSV
+77312359-f2a0-4ca4-a78f-99db6675ed28
+
+2758: reading 2b0b88af-b8be-4d1e-9d74-45ddf034440a.CSV
+2b0b88af-b8be-4d1e-9d74-45ddf034440a
+
+2759: reading ce0ee143-58ca-4cc1-a1be-efd9fd2212fd.CSV
+ce0ee143-58ca-4cc1-a1be-efd9fd2212fd
+
+2760: reading 449c3c97-4e7b-4d39-8044-5ab00ecaca85.CSV
+449c3c97-4e7b-4d39-8044-5ab00ecaca85
+
+2761: reading fdc0c369-b5c5-4663-ab41-1424206b5a04.CSV
+fdc0c369-b5c5-4663-ab41-1424206b5a04
+
+2762: reading d8c94b15-ab14-445c-a062-3505877aa865.CSV
+d8c94b15-ab14-445c-a062-3505877aa865
+d8c94b15-ab14-445c-a062-3505877aa865
+IGNORE: Can't read file ./tmplnoxfm4y/ODPF_4_HS6XDesc.txt; None filetype
+IGNORE: Can't read file ./tmplnoxfm4y/Note aux utilisateurs.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmplnoxfm4y/ODPF_2_HS8Desc.txt; None filetype
+IGNORE: Can't read file ./tmplnoxfm4y/Note to User.docx; Unsupported filetype: docx
+d8c94b15-ab14-445c-a062-3505877aa865
+IGNORE: Can't read file ./tmplnoxfm4y/ODPF_5_HS2Desc.txt; None filetype
+
+2763: reading 8a31b9fd-cbf0-418d-aa00-ae9b533c1000.CSV
+8a31b9fd-cbf0-418d-aa00-ae9b533c1000
+
+2764: reading 15d4a230-a1cb-4eba-be8f-d44b55b57319.CSV
+15d4a230-a1cb-4eba-be8f-d44b55b57319
+
+2765: reading 7ac7049d-bc29-4286-bb7a-e76847769b22.CSV
+7ac7049d-bc29-4286-bb7a-e76847769b22
+
+2766: reading 75259a8c-555e-4d18-8b98-0fdb2145de63.CSV
+75259a8c-555e-4d18-8b98-0fdb2145de63
+
+2767: reading a64f3453-75da-4946-af8b-5ffcb498db02.CSV
+a64f3453-75da-4946-af8b-5ffcb498db02
+
+2768: reading a0d9b711-ba83-4748-88bc-543ac6691882.CSV
+a0d9b711-ba83-4748-88bc-543ac6691882
+
+2769: reading 8b8a0382-eeae-40b4-91cc-6b9c69e03977.CSV
+IGNORE reading tables/8b8a0382-eeae-40b4-91cc-6b9c69e03977.CSV: Expected 20 fields in line 3, saw 25
+
+2770: reading 47a73d47-4790-47fc-9114-66b9c3f3d530.CSV
+47a73d47-4790-47fc-9114-66b9c3f3d530
+
+2771: reading 7feb0848-a68c-4f2d-aa55-90b7f48577b6.CSV
+7feb0848-a68c-4f2d-aa55-90b7f48577b6
+
+2772: reading e2bcc0b8-a031-463d-b25b-6489cc7b68e3.CSV
+e2bcc0b8-a031-463d-b25b-6489cc7b68e3
+
+2773: reading 675aed43-3841-4ae1-9b24-93e36a4dcb2d.XLSX
+675aed43-3841-4ae1-9b24-93e36a4dcb2d#entrées
+675aed43-3841-4ae1-9b24-93e36a4dcb2d#entrées#sorties
+675aed43-3841-4ae1-9b24-93e36a4dcb2d#entrées#sorties#candidats
+
+2774: reading 364cb8ad-ad05-448c-82bd-ee24f1f31704.CSV
+364cb8ad-ad05-448c-82bd-ee24f1f31704
+
+2775: reading 1852f89e-be60-4bfc-b5cb-a004ff11bfe0.CSV
+1852f89e-be60-4bfc-b5cb-a004ff11bfe0
+
+2776: reading 652e11d1-bd18-4aea-9959-aec1834d1b79.CSV
+652e11d1-bd18-4aea-9959-aec1834d1b79
+
+2777: reading 1c376d7f-99a0-419b-afa3-def4e94e3a61.CSV
+1c376d7f-99a0-419b-afa3-def4e94e3a61
+
+2778: reading b0bcd5f8-703f-49fd-8a49-95a4ba8fb534.CSV
+b0bcd5f8-703f-49fd-8a49-95a4ba8fb534
+
+2779: reading 3654a9d1-1a8e-4153-8ad2-af2e08d47258.CSV
+3654a9d1-1a8e-4153-8ad2-af2e08d47258
+
+2780: reading 001b8c50-74d1-4c2f-8ccc-1d500659c088.CSV
+001b8c50-74d1-4c2f-8ccc-1d500659c088
+
+2781: reading 2f0fed2a-47b6-47c7-8bcb-41b8222713c9.CSV
+2f0fed2a-47b6-47c7-8bcb-41b8222713c9
+
+2782: reading 32929828-c4ca-4509-a06f-6e67cb01b2e0.CSV
+32929828-c4ca-4509-a06f-6e67cb01b2e0
+
+2783: reading 45e88098-c38a-49b6-b43f-39758664281e.CSV
+45e88098-c38a-49b6-b43f-39758664281e
+
+2784: reading 8d5a4fef-e3f3-476a-ade8-340e86cbd326.CSV
+8d5a4fef-e3f3-476a-ade8-340e86cbd326
+
+2785: reading cc79f72f-8af8-45f2-9bcd-182bd9d98b6d.CSV
+cc79f72f-8af8-45f2-9bcd-182bd9d98b6d
+
+2786: reading 3ed218e3-3419-4f7f-8d76-2ee98efcc739.XLSX
+3ed218e3-3419-4f7f-8d76-2ee98efcc739
+
+2787: reading afca47c6-543c-44e0-a040-fa11aa12d7c3.CSV
+afca47c6-543c-44e0-a040-fa11aa12d7c3
+
+2788: reading d839b8d7-a97d-4524-8a9d-2d51bc0819d0.CSV
+d839b8d7-a97d-4524-8a9d-2d51bc0819d0
+
+2789: reading 10472461-9ee2-4bae-b83e-b2d76603cfb2.CSV
+ERROR reading tables/10472461-9ee2-4bae-b83e-b2d76603cfb2.CSV: Expected 7 fields in line 3, saw 12
+
+2790: reading fa457cec-89d8-4025-83ea-b85be5fa34cf.CSV
+fa457cec-89d8-4025-83ea-b85be5fa34cf
+
+2791: reading a46be43d-0302-4574-87dc-909935f1f439.CSV
+a46be43d-0302-4574-87dc-909935f1f439
+
+2792: reading 37269b90-3d16-4ca9-959a-5d25705eba32.CSV
+37269b90-3d16-4ca9-959a-5d25705eba32
+
+2793: reading 00f5f23a-b899-4cc9-875b-29707bfa6b31.CSV
+00f5f23a-b899-4cc9-875b-29707bfa6b31
+
+2794: reading af42c7ad-9aa1-4e7f-a296-e2ab2a63b359.CSV
+af42c7ad-9aa1-4e7f-a296-e2ab2a63b359
+
+2795: reading 9ba0f074-8919-44cf-95b5-864cce7b8b88.CSV
+9ba0f074-8919-44cf-95b5-864cce7b8b88
+
+2796: reading baf55382-b694-4443-86be-6daa45f2604d.XLSX
+baf55382-b694-4443-86be-6daa45f2604d
+
+2797: reading 1ffaac11-5449-4f4f-91c9-2001fc7a9445.CSV
+1ffaac11-5449-4f4f-91c9-2001fc7a9445
+
+2798: reading e367da2c-9309-4761-9e33-5dbe4043b6a0.CSV
+e367da2c-9309-4761-9e33-5dbe4043b6a0
+
+2799: reading f7c06fa1-d57b-49fc-a775-ec0998f08265.XLSX
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17#18
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17#18#19
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17#18#19#20
+f7c06fa1-d57b-49fc-a775-ec0998f08265#Cover#T_of_C#Foreword#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17#18#19#20#21
+
+2800: reading 1792596d-664a-4523-aaf5-5c85b890e56d.CSV
+1792596d-664a-4523-aaf5-5c85b890e56d
+
+2801: reading 21f98b85-d7ea-4a7e-a5b5-9094eee15226.CSV
+21f98b85-d7ea-4a7e-a5b5-9094eee15226
+
+2802: reading 61ceb44c-4abf-4ca5-bbea-4c6eb55f424e.CSV
+61ceb44c-4abf-4ca5-bbea-4c6eb55f424e
+
+2803: reading 1c09847b-d97f-4e27-98e7-b133b67e0631.XLSX
+1c09847b-d97f-4e27-98e7-b133b67e0631#Table_92
+1c09847b-d97f-4e27-98e7-b133b67e0631#Table_92#Symbols
+
+2804: reading c9a5d281-de44-46ad-afef-4d32eb8ee2d2.CSV
+c9a5d281-de44-46ad-afef-4d32eb8ee2d2
+
+2805: reading 45294605-417a-4773-bc95-982880686a6a.XLSX
+45294605-417a-4773-bc95-982880686a6a#ATI
+45294605-417a-4773-bc95-982880686a6a#ATI#Privacy
+45294605-417a-4773-bc95-982880686a6a#ATI#Privacy#ATI_ForConsumption
+45294605-417a-4773-bc95-982880686a6a#ATI#Privacy#ATI_ForConsumption#Privacy_ForConsumption
+
+2806: reading 9f408076-31c2-4cae-8169-998b6e660380.CSV
+9f408076-31c2-4cae-8169-998b6e660380
+
+2807: reading b56c094f-e300-498f-8807-1e14b35801cb.CSV
+b56c094f-e300-498f-8807-1e14b35801cb
+
+2808: reading b4c0e8b0-d539-4845-8eb0-96f5d8499bc9.CSV
+b4c0e8b0-d539-4845-8eb0-96f5d8499bc9
+
+2809: reading 9af911d8-8b40-40c7-ab19-42332e8ebd73.XLSX
+9af911d8-8b40-40c7-ab19-42332e8ebd73
+
+2810: reading 7b11277d-aa05-4e52-9ef6-e03e1855ebc6.CSV
+7b11277d-aa05-4e52-9ef6-e03e1855ebc6
+
+2811: reading eaf88541-1339-4e20-94d0-2fb771b234c2.CSV
+eaf88541-1339-4e20-94d0-2fb771b234c2
+
+2812: reading ddf12e43-bfdb-4e42-9ecc-71f646a7be26.CSV
+ddf12e43-bfdb-4e42-9ecc-71f646a7be26
+
+2813: reading d439c78a-c78c-4891-8404-95499913c161.CSV
+d439c78a-c78c-4891-8404-95499913c161
+
+2814: reading 5745b0de-7e69-4093-8e99-852d27120645.CSV
+5745b0de-7e69-4093-8e99-852d27120645
+
+2815: reading 59d98f50-f313-4a6a-97be-98bbd19a99a0.CSV
+59d98f50-f313-4a6a-97be-98bbd19a99a0
+
+2816: reading 52a9aa1f-c8ca-43fa-ac81-8b9cffbb9dfa.CSV
+52a9aa1f-c8ca-43fa-ac81-8b9cffbb9dfa
+
+2817: reading 0a62fe1a-698f-4a97-bb8d-972e52ea2ae2.CSV
+0a62fe1a-698f-4a97-bb8d-972e52ea2ae2
+
+2818: reading c7a9aa48-fa8c-48cc-a535-d2e64bd96b37.XLSX
+c7a9aa48-fa8c-48cc-a535-d2e64bd96b37
+
+2819: reading 1bb9029c-a44e-439e-a4c4-bb88d3b5fe13.CSV
+1bb9029c-a44e-439e-a4c4-bb88d3b5fe13
+
+2820: reading fe9c1170-a9b3-4775-adef-86303d9941e4.CSV
+fe9c1170-a9b3-4775-adef-86303d9941e4
+
+2821: reading d39d664e-81db-472b-8348-a2045492a863.CSV
+d39d664e-81db-472b-8348-a2045492a863
+
+2822: reading a57b1d07-6da7-452d-a594-4902374be2ed.XLSX
+a57b1d07-6da7-452d-a594-4902374be2ed
+
+2823: reading 22ee3e43-854a-45b5-b3b4-6f3790c2b063.CSV
+22ee3e43-854a-45b5-b3b4-6f3790c2b063
+
+2824: reading 03c2ab0a-2548-4022-8838-5c0bb7542c1b.CSV
+03c2ab0a-2548-4022-8838-5c0bb7542c1b
+
+2825: reading 97cc2901-2e7c-49da-9463-3da16803ee29.CSV
+97cc2901-2e7c-49da-9463-3da16803ee29
+
+2826: reading 6dc143e8-f656-4634-8dfe-bc8a71457d87.CSV
+6dc143e8-f656-4634-8dfe-bc8a71457d87
+
+2827: reading 964857e0-555f-4d44-b363-b9fea45f6a89.CSV
+964857e0-555f-4d44-b363-b9fea45f6a89
+
+2828: reading b0389ef1-9e6e-4815-9828-87a652b36452.CSV
+b0389ef1-9e6e-4815-9828-87a652b36452
+
+2829: reading 80e7de1c-0e30-4d9b-a742-adc448fbd58c.CSV
+80e7de1c-0e30-4d9b-a742-adc448fbd58c
+
+2830: reading b5c9c9e7-64d3-4c38-9739-5aaffef4a520.CSV
+b5c9c9e7-64d3-4c38-9739-5aaffef4a520
+
+2831: reading 7e2f9010-5e03-443f-bff8-975ec70ee3cb.CSV
+7e2f9010-5e03-443f-bff8-975ec70ee3cb
+
+2832: reading 7efe3494-dd5e-4b69-9286-0a638eeca753.CSV
+7efe3494-dd5e-4b69-9286-0a638eeca753
+
+2833: reading 2bd1f339-77ee-41a0-a5c1-637a2e9d6307.CSV
+2bd1f339-77ee-41a0-a5c1-637a2e9d6307
+
+2834: reading de9b01c1-0d69-482b-980c-e1764d574080.CSV
+de9b01c1-0d69-482b-980c-e1764d574080
+
+2835: reading 1b0f188e-8c74-415b-868d-a29a37d8388c.CSV
+1b0f188e-8c74-415b-868d-a29a37d8388c
+
+2836: reading 62b2bafb-b1b7-41ce-8352-35f0395e21c4.CSV
+62b2bafb-b1b7-41ce-8352-35f0395e21c4
+
+2837: reading 2a48fe1e-c1a9-4567-8ca3-dc1454e0544b.CSV
+2a48fe1e-c1a9-4567-8ca3-dc1454e0544b
+
+2838: reading fe92b38d-d988-449c-b1ac-c3dae93321eb.CSV
+fe92b38d-d988-449c-b1ac-c3dae93321eb
+
+2839: reading 95fc88c3-9aeb-4023-ba8d-8e59ce255134.XLS
+95fc88c3-9aeb-4023-ba8d-8e59ce255134
+
+2840: reading d3b2e9c8-dc65-45f4-93eb-30d677d42209.CSV
+d3b2e9c8-dc65-45f4-93eb-30d677d42209
+
+2841: reading 2fb5ad21-d4db-48d3-a667-312f1dbb6e87.CSV
+2fb5ad21-d4db-48d3-a667-312f1dbb6e87
+
+2842: reading a5227866-0ee9-497f-8e56-05e2f2e8e321.CSV
+a5227866-0ee9-497f-8e56-05e2f2e8e321
+
+2843: reading b7fa8002-4d49-4b93-8fca-e602dcecd717.CSV
+b7fa8002-4d49-4b93-8fca-e602dcecd717
+
+2844: reading 5703479f-93b2-495c-adca-f3af80cb7a69.XLSX
+5703479f-93b2-495c-adca-f3af80cb7a69
+
+2845: reading 0137b77b-4bf0-4815-af69-7adf081e60be.CSV
+0137b77b-4bf0-4815-af69-7adf081e60be
+
+2846: reading e9975183-dcb1-4832-a85d-470d551293ba.CSV
+e9975183-dcb1-4832-a85d-470d551293ba
+
+2847: reading 66870dc2-c654-4df6-87df-225a0b827ae1.CSV
+66870dc2-c654-4df6-87df-225a0b827ae1
+
+2848: reading bb5fcebb-77e7-42e1-b713-d36db188f09b.CSV
+IGNORE reading tables/bb5fcebb-77e7-42e1-b713-d36db188f09b.CSV: File is not a zip file
+
+2849: reading 26383140-a13c-4cb8-8375-f1b0e7ae42c9.CSV
+26383140-a13c-4cb8-8375-f1b0e7ae42c9
+
+2850: reading 5a94b1d1-66cf-45ee-bc4e-a68b1c04cf32.CSV
+IGNORE reading tables/5a94b1d1-66cf-45ee-bc4e-a68b1c04cf32.CSV: Expected 21 fields in line 3, saw 25
+
+2851: reading 37c136e7-8326-4203-a56b-154ee2844b50.CSV
+37c136e7-8326-4203-a56b-154ee2844b50
+
+2852: reading 769bb340-9d32-4537-bb06-4e621ad3af44.CSV
+769bb340-9d32-4537-bb06-4e621ad3af44
+
+2853: reading bafe7da2-3321-4833-ad9b-031be8971464.CSV
+IGNORE reading tables/bafe7da2-3321-4833-ad9b-031be8971464.CSV: Expected 21 fields in line 3, saw 25
+
+2854: reading 7834112a-ef61-48d9-8a1f-5e714b5ddb19.CSV
+7834112a-ef61-48d9-8a1f-5e714b5ddb19
+
+2855: reading c021146f-8761-4b86-9f01-3dfbd4d2903d.CSV
+c021146f-8761-4b86-9f01-3dfbd4d2903d
+
+2856: reading 2f3f747f-4b82-4586-8466-a9374d1dd4b9.XLS
+2f3f747f-4b82-4586-8466-a9374d1dd4b9
+
+2857: reading e2dfa6f0-1b27-42fa-9c2c-541e86325552.CSV
+e2dfa6f0-1b27-42fa-9c2c-541e86325552
+
+2858: reading 7caa9e72-ebaa-4912-b090-9127089c3c03.CSV
+7caa9e72-ebaa-4912-b090-9127089c3c03
+
+2859: reading 8ea95446-aec0-46b5-a83d-8ad9139ed9bd.CSV
+8ea95446-aec0-46b5-a83d-8ad9139ed9bd
+
+2860: reading ea6a5d82-8243-47a4-b819-17b1d18bf8ce.CSV
+ea6a5d82-8243-47a4-b819-17b1d18bf8ce
+
+2861: reading 1b81f5dc-afcd-44d8-b25d-55655f3f3945.CSV
+IGNORE reading tables/1b81f5dc-afcd-44d8-b25d-55655f3f3945.CSV: Expected 20 fields in line 3, saw 25
+
+2862: reading 5f27efa3-ece4-4b47-ad38-16eb2a1a3aeb.CSV
+5f27efa3-ece4-4b47-ad38-16eb2a1a3aeb
+
+2863: reading 42317a38-f990-446d-bee8-0c2d423d7537.CSV
+42317a38-f990-446d-bee8-0c2d423d7537
+42317a38-f990-446d-bee8-0c2d423d7537
+IGNORE: Can't read file ./tmp3ddzrv23/ODPF_4_HS6XDesc.txt; None filetype
+IGNORE: Can't read file ./tmp3ddzrv23/Note aux utilisateurs.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmp3ddzrv23/ODPF_2_HS8Desc.txt; None filetype
+IGNORE: Can't read file ./tmp3ddzrv23/Note to User.docx; Unsupported filetype: docx
+42317a38-f990-446d-bee8-0c2d423d7537
+IGNORE: Can't read file ./tmp3ddzrv23/ODPF_5_HS2Desc.txt; None filetype
+
+2864: reading 525464a9-eea2-4d4e-bce6-eb6c66402bbd.XLSX
+525464a9-eea2-4d4e-bce6-eb6c66402bbd#Community_Profile
+525464a9-eea2-4d4e-bce6-eb6c66402bbd#Community_Profile#Agrifood_Business_Counts
+525464a9-eea2-4d4e-bce6-eb6c66402bbd#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division
+525464a9-eea2-4d4e-bce6-eb6c66402bbd#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile
+525464a9-eea2-4d4e-bce6-eb6c66402bbd#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile#Food_Cons_&_Prod_Profile
+525464a9-eea2-4d4e-bce6-eb6c66402bbd#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile#Food_Cons_&_Prod_Profile#Ag_Census_over_time
+525464a9-eea2-4d4e-bce6-eb6c66402bbd#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile#Food_Cons_&_Prod_Profile#Ag_Census_over_time#Categories
+
+2865: reading bd55b480-9d34-4d1c-9230-301e0754098b.XLSX
+bd55b480-9d34-4d1c-9230-301e0754098b#Sheet1
+bd55b480-9d34-4d1c-9230-301e0754098b#Sheet1#Sheet2
+bd55b480-9d34-4d1c-9230-301e0754098b#Sheet1#Sheet2#Sheet3
+
+2866: reading 5f72bb40-411a-494c-bd7f-57f88f1510d9.CSV
+5f72bb40-411a-494c-bd7f-57f88f1510d9
+
+2867: reading fd571ea4-ca40-4831-a70b-ffd0c06c7fec.CSV
+fd571ea4-ca40-4831-a70b-ffd0c06c7fec
+
+2868: reading 9e304490-b204-43d0-94f6-0ff298415359.CSV
+9e304490-b204-43d0-94f6-0ff298415359
+
+2869: reading 624dd65f-eb83-43f1-a868-80f6e36ace49.CSV
+624dd65f-eb83-43f1-a868-80f6e36ace49
+
+2870: reading 402aef49-fd77-46a1-a570-9d452580c979.CSV
+402aef49-fd77-46a1-a570-9d452580c979
+
+2871: reading dfba76ad-583b-46f8-8280-6ca2d1b26217.CSV
+dfba76ad-583b-46f8-8280-6ca2d1b26217
+
+2872: reading 1b48510c-781e-4303-a111-891e001a2a64.CSV
+1b48510c-781e-4303-a111-891e001a2a64
+
+2873: reading 9e4107d5-e149-4d0e-84ff-f53d3425fb9e.CSV
+9e4107d5-e149-4d0e-84ff-f53d3425fb9e
+
+2874: reading d14b0fa7-e625-4e7e-b32a-6fc2c81079e9.CSV
+d14b0fa7-e625-4e7e-b32a-6fc2c81079e9
+
+2875: reading 1eee1b38-39fa-47cf-8a74-565e67f95bca.CSV
+1eee1b38-39fa-47cf-8a74-565e67f95bca
+
+2876: reading 2186f61b-ec74-4ca6-ae64-0d8fd3d56e0d.CSV
+2186f61b-ec74-4ca6-ae64-0d8fd3d56e0d
+
+2877: reading 24d8ebb2-9989-4496-bc58-a0bb0f5c4c02.CSV
+24d8ebb2-9989-4496-bc58-a0bb0f5c4c02
+
+2878: reading e9b56476-5447-44ca-9c8a-19bfd1d63ba0.CSV
+IGNORE reading tables/e9b56476-5447-44ca-9c8a-19bfd1d63ba0.CSV: Expected 2 fields in line 10, saw 3
+
+2879: reading 921754ac-85b0-41ad-964b-f81c2d6a75c8.XLSX
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu#6.DP_S57-1-A_calculrevtaxe
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu#6.DP_S57-1-A_calculrevtaxe#6.DP_S57-2-A_calculrevtaxe
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu#6.DP_S57-1-A_calculrevtaxe#6.DP_S57-2-A_calculrevtaxe#6.DP_S59-A_Taux_taxes
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu#6.DP_S57-1-A_calculrevtaxe#6.DP_S57-2-A_calculrevtaxe#6.DP_S59-A_Taux_taxes#6.DP_S60-A_-_TGT_prév
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu#6.DP_S57-1-A_calculrevtaxe#6.DP_S57-2-A_calculrevtaxe#6.DP_S59-A_Taux_taxes#6.DP_S60-A_-_TGT_prév#6.DP_S63-1-A_taxes-cat.imm
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu#6.DP_S57-1-A_calculrevtaxe#6.DP_S57-2-A_calculrevtaxe#6.DP_S59-A_Taux_taxes#6.DP_S60-A_-_TGT_prév#6.DP_S63-1-A_taxes-cat.imm#6.DP_S63-2-A_taxes-cat.imm
+921754ac-85b0-41ad-964b-f81c2d6a75c8#6.DP_S53_titre#6.DP_S-54-_Table_mat._#6.DP_S55-taxes#6.DP_S56-tenantlieu#6.DP_S57-1_calculrevtaxe#6.DP_S57-2_calculrevtaxe#6.DP_S59-Taux_taxes_#6.DP_S60_-_TGT_prévisionnel#6.DP_S63-1_taxes-cat.immeubles#6.DP_S63-2_taxes-cat.immeubles#6.DP_S65-1_questions_#6.DP_S65-2_questions#6.DP_S85-A__Annexe_agglo#6.DP_S54A_Table_mat._agglo#6.DP_S55-A_taxes#6.DP_S56-A_tenantlieu#6.DP_S57-1-A_calculrevtaxe#6.DP_S57-2-A_calculrevtaxe#6.DP_S59-A_Taux_taxes#6.DP_S60-A_-_TGT_prév#6.DP_S63-1-A_taxes-cat.imm#6.DP_S63-2-A_taxes-cat.imm#6.DP_S65-A_questionnaire
+
+2880: reading ca4d6070-ee11-4e61-b9ee-2ea6e25eee61.CSV
+ca4d6070-ee11-4e61-b9ee-2ea6e25eee61
+
+2881: reading ef47939d-475e-4833-b032-222fe13c9cb7.CSV
+IGNORE reading tables/ef47939d-475e-4833-b032-222fe13c9cb7.CSV: NULL byte detected. This byte cannot be processed in Python's native csv library at the moment, so please pass in engine='c' instead
+
+2882: reading 5a9eb003-1583-40c7-b097-4c578a8dd1ed.CSV
+5a9eb003-1583-40c7-b097-4c578a8dd1ed
+
+2883: reading 73e0a0eb-141d-41c0-bb41-29f469847f84.CSV
+73e0a0eb-141d-41c0-bb41-29f469847f84
+
+2884: reading 4959a910-cd65-4664-8228-bbd2242121c6.XLSX
+4959a910-cd65-4664-8228-bbd2242121c6
+
+2885: reading ca78dfcc-a590-4af5-9053-3974d25013e8.CSV
+ca78dfcc-a590-4af5-9053-3974d25013e8
+
+2886: reading 860a41be-54dd-427b-84c9-0a05f9a506f6.CSV
+860a41be-54dd-427b-84c9-0a05f9a506f6
+
+2887: reading cc96272c-94d7-437b-a418-7314232bb457.CSV
+cc96272c-94d7-437b-a418-7314232bb457
+
+2888: reading 8c7c6fa7-d2c4-41a2-aae8-d3f5398a84c9.CSV
+8c7c6fa7-d2c4-41a2-aae8-d3f5398a84c9
+
+2889: reading 8b5e8e3d-e606-4841-afa6-14c9ff0b6fc7.CSV
+8b5e8e3d-e606-4841-afa6-14c9ff0b6fc7
+
+2890: reading 059230ed-5659-40fa-849d-7dc2c254e642.CSV
+059230ed-5659-40fa-849d-7dc2c254e642
+
+2891: reading 149b9888-bcce-4ce0-a7ff-188b0091bec4.CSV
+149b9888-bcce-4ce0-a7ff-188b0091bec4
+
+2892: reading 6b838c1e-1fef-43c9-995f-7be6703ea251.XLSX
+6b838c1e-1fef-43c9-995f-7be6703ea251
+
+2893: reading f16e70d6-3afa-489e-87ae-436d86ecf9e5.CSV
+f16e70d6-3afa-489e-87ae-436d86ecf9e5
+
+2894: reading d5c3b484-be83-4bab-87d4-ebb3cf534582.CSV
+d5c3b484-be83-4bab-87d4-ebb3cf534582
+
+2895: reading 322c2065-b166-4573-8746-aae42cdb1f25.CSV
+322c2065-b166-4573-8746-aae42cdb1f25
+
+2896: reading 95c5fc35-4a7d-49cd-a875-1b1f9c1f792e.CSV
+95c5fc35-4a7d-49cd-a875-1b1f9c1f792e
+
+2897: reading e1cee5d7-4af6-4517-984d-77f63f27d0b7.CSV
+e1cee5d7-4af6-4517-984d-77f63f27d0b7
+
+2898: reading e624cef0-8d93-4e8c-92be-89dafa140438.CSV
+e624cef0-8d93-4e8c-92be-89dafa140438
+
+2899: reading 6dd2935e-842d-4504-96a0-ae2d7aa67cb9.CSV
+6dd2935e-842d-4504-96a0-ae2d7aa67cb9
+
+2900: reading a771b902-c52b-4f4a-b6ef-bbce7400b428.CSV
+a771b902-c52b-4f4a-b6ef-bbce7400b428
+
+2901: reading 049be043-8112-470a-b90b-a6589b04f59a.CSV
+049be043-8112-470a-b90b-a6589b04f59a
+
+2902: reading 89f881f7-ad76-4831-8fc1-6370654d4823.CSV
+89f881f7-ad76-4831-8fc1-6370654d4823
+
+2903: reading df86847f-56a5-4985-9cb5-d5261c6a7355.CSV
+df86847f-56a5-4985-9cb5-d5261c6a7355
+
+2904: reading 039fb8fb-09bf-469c-a069-11dca8dad1f4.CSV
+039fb8fb-09bf-469c-a069-11dca8dad1f4
+
+2905: reading 84eb3163-6edb-41ac-934b-24b0326af89e.CSV
+84eb3163-6edb-41ac-934b-24b0326af89e
+
+2906: reading e4fd7cf3-9edf-43af-827c-3886e6e90f82.CSV
+e4fd7cf3-9edf-43af-827c-3886e6e90f82
+
+2907: reading efaf2bf6-ca02-4a1a-b714-4c5b326129d7.CSV
+efaf2bf6-ca02-4a1a-b714-4c5b326129d7
+
+2908: reading ecc84809-3186-44de-9973-6b9a54e1cdc2.CSV
+ecc84809-3186-44de-9973-6b9a54e1cdc2
+
+2909: reading 5de6e391-4eb5-46fd-984d-fdae99c50240.CSV
+5de6e391-4eb5-46fd-984d-fdae99c50240
+
+2910: reading 79c18260-2063-42f5-b0f3-239be341965d.CSV
+79c18260-2063-42f5-b0f3-239be341965d
+
+2911: reading 82de8f81-bf48-4a23-a3f1-b7e4fc7b5ce6.CSV
+82de8f81-bf48-4a23-a3f1-b7e4fc7b5ce6
+
+2912: reading 9264e942-b86d-42cb-9227-c2db6b560378.CSV
+9264e942-b86d-42cb-9227-c2db6b560378
+
+2913: reading e4506580-9ded-4c12-a0cc-ad6b8a4544c5.XLS
+e4506580-9ded-4c12-a0cc-ad6b8a4544c5
+
+2914: reading 13be34da-aa6b-4bfb-ad91-20941ef4527b.CSV
+13be34da-aa6b-4bfb-ad91-20941ef4527b
+
+2915: reading fe40c4db-8a63-415e-bce3-885b0e432507.CSV
+fe40c4db-8a63-415e-bce3-885b0e432507
+
+2916: reading 415d60f9-9bb6-4242-a1dc-57581e0bdc80.CSV
+415d60f9-9bb6-4242-a1dc-57581e0bdc80
+
+2917: reading ec970e98-7b23-459e-9f67-0086fd7a8c02.CSV
+ec970e98-7b23-459e-9f67-0086fd7a8c02
+
+2918: reading f57fa646-19ee-4ac4-9a1e-b7cfc082c993.CSV
+IGNORE reading tables/f57fa646-19ee-4ac4-9a1e-b7cfc082c993.CSV: Expected 21 fields in line 3, saw 25
+
+2919: reading f7d3ad0a-756e-4d8e-b003-e34e2bf8122e.CSV
+f7d3ad0a-756e-4d8e-b003-e34e2bf8122e
+
+2920: reading d1a99b03-b1e3-429d-a539-9876397d7d51.CSV
+d1a99b03-b1e3-429d-a539-9876397d7d51
+
+2921: reading b698c35c-1f06-4593-a26b-373478d3c0e0.CSV
+b698c35c-1f06-4593-a26b-373478d3c0e0
+
+2922: reading 57f74a58-5407-4697-a182-ebe06d673589.CSV
+57f74a58-5407-4697-a182-ebe06d673589
+
+2923: reading 1d61f23f-ec63-4326-970e-55a29b612d0e.CSV
+1d61f23f-ec63-4326-970e-55a29b612d0e
+
+2924: reading 89a8f8e6-869c-4654-8332-a32a19a2ed18.XLS
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE#Q24xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE#Q24xBANNTRAITE#Q25xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE#Q24xBANNTRAITE#Q25xBANNTRAITE#Q26xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE#Q24xBANNTRAITE#Q25xBANNTRAITE#Q26xBANNTRAITE#Q27xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE#Q24xBANNTRAITE#Q25xBANNTRAITE#Q26xBANNTRAITE#Q27xBANNTRAITE#Q28xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE#Q24xBANNTRAITE#Q25xBANNTRAITE#Q26xBANNTRAITE#Q27xBANNTRAITE#Q28xBANNTRAITE#Q29xBANNTRAITE
+89a8f8e6-869c-4654-8332-a32a19a2ed18#POLESxBANNTRAITE#Q1xBANNTRAITE#Q2xBANNTRAITE#Q3xBANNTRAITE#Q4xBANNTRAITE#Q5xBANNTRAITE#Q6xBANNTRAITE#Q7xBANNTRAITE#Q7AxBANNTRAITE#Q7BxBANNTRAITE#Q8xBANNTRAITE#Q9xBANNTRAITE#Q10xBANNTRAITE#Q11xBANNTRAITE#Q12xBANNTRAITE#Q13xBANNTRAITE#Q14xBANNTRAITE#Q15RxBANNTRAITE#Q15xBANNTRAITE#Q16xBANNTRAITE#Q17xBANNTRAITE#Q18ARxBANNTRAITE#Q18BRxBANNTRAITE#Q18CRxBANNTRAITE#Q18DRxBANNTRAITE#Q18ERxBANNTRAITE#Q18FRxBANNTRAITE#Q18GRxBANNTRAITE#Q18HRxBANNTRAITE#Q18IRxBANNTRAITE#Q18JRxBANNTRAITE#Q18KRxBANNTRAITE#Q18AxBANNTRAITE#Q18BxBANNTRAITE#Q18CxBANNTRAITE#Q18DxBANNTRAITE#Q18ExBANNTRAITE#Q18FxBANNTRAITE#Q18GxBANNTRAITE#Q18HxBANNTRAITE#Q18IxBANNTRAITE#Q18JxBANNTRAITE#Q18KxBANNTRAITE#Q19ARxBANNTRAITE#Q19BRxBANNTRAITE#Q19CRxBANNTRAITE#Q19DRxBANNTRAITE#Q19ERxBANNTRAITE#Q19FRxBANNTRAITE#Q19GRxBANNTRAITE#Q19AxBANNTRAITE#Q19BxBANNTRAITE#Q19CxBANNTRAITE#Q19DxBANNTRAITE#Q19ExBANNTRAITE#Q19FxBANNTRAITE#Q19GxBANNTRAITE#Q20xBANNTRAITE#Q21xBANNTRAITE#Q22xBANNTRAITE#Q23xBANNTRAITE#Q24xBANNTRAITE#Q25xBANNTRAITE#Q26xBANNTRAITE#Q27xBANNTRAITE#Q28xBANNTRAITE#Q29xBANNTRAITE#Q30xBANNTRAITE
+
+2925: reading 30b8f323-1738-4bfc-9b26-322f557d8812.XLS
+30b8f323-1738-4bfc-9b26-322f557d8812
+
+2926: reading c9db39d3-c711-4379-b3a7-4eebf50075c0.CSV
+ERROR reading tables/c9db39d3-c711-4379-b3a7-4eebf50075c0.CSV: Expected 2 fields in line 7, saw 3
+
+2927: reading 5eb1133f-b7e5-48ea-ba37-a91ee1dd72e9.CSV
+5eb1133f-b7e5-48ea-ba37-a91ee1dd72e9
+
+2928: reading da06e5b2-e27b-46e4-a947-f3f95965c05a.CSV
+da06e5b2-e27b-46e4-a947-f3f95965c05a
+
+2929: reading 1d810a27-e4a6-4da3-a11e-d9a0a126cf05.CSV
+1d810a27-e4a6-4da3-a11e-d9a0a126cf05
+
+2930: reading 8a868587-be79-4c4a-8b86-48efb43d75bb.CSV
+8a868587-be79-4c4a-8b86-48efb43d75bb
+
+2931: reading dd977797-3051-4200-ac12-582b45c44a28.CSV
+dd977797-3051-4200-ac12-582b45c44a28
+
+2932: reading d8b96da6-4e0d-4ef1-a29f-0deeb1a247a6.CSV
+d8b96da6-4e0d-4ef1-a29f-0deeb1a247a6
+
+2933: reading 5ae2f71d-baf9-412c-970f-11a4601b1ba0.CSV
+5ae2f71d-baf9-412c-970f-11a4601b1ba0
+
+2934: reading 8c0720e5-cbff-490f-aa9b-343d1cbe4653.CSV
+8c0720e5-cbff-490f-aa9b-343d1cbe4653
+
+2935: reading 3721b28d-81a6-4ebc-8f16-b49050ebd6c1.CSV
+3721b28d-81a6-4ebc-8f16-b49050ebd6c1
+
+2936: reading 014e9f21-78e0-45e1-9f17-57f8a0811eb9.CSV
+014e9f21-78e0-45e1-9f17-57f8a0811eb9
+
+2937: reading dcc593f5-d59c-45d7-a974-52a7e20811ee.CSV
+dcc593f5-d59c-45d7-a974-52a7e20811ee
+
+2938: reading 19c2e835-30b6-4421-950d-7e8945125f84.CSV
+19c2e835-30b6-4421-950d-7e8945125f84
+
+2939: reading 73a92ecc-26f8-4b0f-a7dc-2e1d8e52ade9.XLSX
+73a92ecc-26f8-4b0f-a7dc-2e1d8e52ade9
+
+2940: reading fe271fb6-b631-4d0b-8b40-d368adec2a2d.XLS
+fe271fb6-b631-4d0b-8b40-d368adec2a2d
+
+2941: reading 30f2216c-7bce-44a1-988f-a85f2784c303.CSV
+30f2216c-7bce-44a1-988f-a85f2784c303
+
+2942: reading b7c1b506-41d8-49b3-8910-0670ad5bcbe0.CSV
+b7c1b506-41d8-49b3-8910-0670ad5bcbe0
+
+2943: reading f85ebc0f-e709-4680-9258-1866500cd772.CSV
+f85ebc0f-e709-4680-9258-1866500cd772
+
+2944: reading 4d8adbad-54ab-4e46-9594-1b0538054b36.CSV
+4d8adbad-54ab-4e46-9594-1b0538054b36
+
+2945: reading 9b69e210-69d4-44fb-878b-6440bdc33f0e.CSV
+9b69e210-69d4-44fb-878b-6440bdc33f0e
+
+2946: reading 038b1c99-8474-485c-b605-ee1674a1483e.CSV
+038b1c99-8474-485c-b605-ee1674a1483e
+
+2947: reading b6d2d268-17d6-4a50-89df-b41487101f17.CSV
+b6d2d268-17d6-4a50-89df-b41487101f17
+
+2948: reading 6fdedd8c-989d-4c92-a098-1977536d62d2.CSV
+6fdedd8c-989d-4c92-a098-1977536d62d2
+
+2949: reading e6d1e9d1-d21d-4f39-85e4-04564ef3604c.CSV
+e6d1e9d1-d21d-4f39-85e4-04564ef3604c
+
+2950: reading ac9bae5a-63a4-481f-89cd-469dab059f99.XLSX
+ac9bae5a-63a4-481f-89cd-469dab059f99#Swine_Prices
+ac9bae5a-63a4-481f-89cd-469dab059f99#Swine_Prices#Swine_margin
+ac9bae5a-63a4-481f-89cd-469dab059f99#Swine_Prices#Swine_margin#Hog_100%FormP
+ac9bae5a-63a4-481f-89cd-469dab059f99#Swine_Prices#Swine_margin#Hog_100%FormP#Weekly_Basis
+ac9bae5a-63a4-481f-89cd-469dab059f99#Swine_Prices#Swine_margin#Hog_100%FormP#Weekly_Basis#Hog_Futures_
+ac9bae5a-63a4-481f-89cd-469dab059f99#Swine_Prices#Swine_margin#Hog_100%FormP#Weekly_Basis#Hog_Futures_#Weekly_margin
+ac9bae5a-63a4-481f-89cd-469dab059f99#Swine_Prices#Swine_margin#Hog_100%FormP#Weekly_Basis#Hog_Futures_#Weekly_margin#Annual_hog_prices
+
+2951: reading c8e12402-2c0c-4ef3-b5c6-007767581229.CSV
+c8e12402-2c0c-4ef3-b5c6-007767581229
+
+2952: reading 0c2b2e20-0ec9-4618-8718-44c7c4572e16.CSV
+0c2b2e20-0ec9-4618-8718-44c7c4572e16
+
+2953: reading a4cde141-61ff-4893-9715-4e885190ef18.CSV
+a4cde141-61ff-4893-9715-4e885190ef18
+
+2954: reading cb1d58a2-3242-4d36-80bb-0c675e270ec5.CSV
+cb1d58a2-3242-4d36-80bb-0c675e270ec5
+
+2955: reading 4dc7e1af-f3a4-44e2-a8d4-92b3883c3a9f.XLS
+4dc7e1af-f3a4-44e2-a8d4-92b3883c3a9f
+
+2956: reading adb3ba36-60d4-4b27-8df5-52f6dd0fd596.XLS
+adb3ba36-60d4-4b27-8df5-52f6dd0fd596
+
+2957: reading b2bbc74e-fb19-4425-ad91-294039a7ea17.XLSX
+b2bbc74e-fb19-4425-ad91-294039a7ea17#Sheet1
+b2bbc74e-fb19-4425-ad91-294039a7ea17#Sheet1#Sheet2
+b2bbc74e-fb19-4425-ad91-294039a7ea17#Sheet1#Sheet2#Sheet3
+
+2958: reading 1d325d0d-b566-4787-9a6c-7651543764c9.CSV
+1d325d0d-b566-4787-9a6c-7651543764c9
+
+2959: reading 3fd5193f-39b7-457c-8571-cd91cf32069e.CSV
+ERROR reading 98100002.csv: ',' expected after '"'
+
+2960: reading ea223fdb-8115-4250-8e3c-5a8ec84bc80e.XLSX
+ea223fdb-8115-4250-8e3c-5a8ec84bc80e#Donnees
+ea223fdb-8115-4250-8e3c-5a8ec84bc80e#Donnees#Fiche
+
+2961: reading 2e5d43a9-b196-41ae-b4ef-a9b6835b26dc.CSV
+2e5d43a9-b196-41ae-b4ef-a9b6835b26dc
+
+2962: reading 92535e7b-fa81-4a2f-aad1-138a890f44ce.CSV
+92535e7b-fa81-4a2f-aad1-138a890f44ce
+
+2963: reading 7ffbc189-33c0-40fa-9ee6-f331af938d92.CSV
+7ffbc189-33c0-40fa-9ee6-f331af938d92
+
+2964: reading c56d880d-75c6-4144-b4ae-8f561ac551a4.CSV
+c56d880d-75c6-4144-b4ae-8f561ac551a4
+
+2965: reading 1f30452e-2d11-4ee1-b9c8-0fa0db8c1b69.CSV
+1f30452e-2d11-4ee1-b9c8-0fa0db8c1b69
+
+2966: reading e3a3204e-f71a-4d7d-95fb-164e51ac68c6.CSV
+e3a3204e-f71a-4d7d-95fb-164e51ac68c6
+
+2967: reading 171bc7b0-bc3d-4d3a-a40c-98372790de43.CSV
+171bc7b0-bc3d-4d3a-a40c-98372790de43
+
+2968: reading b914f6cd-3dd4-4f9e-83a1-b6aa040e6197.CSV
+b914f6cd-3dd4-4f9e-83a1-b6aa040e6197
+
+2969: reading 06f9120d-b434-46d6-9731-0a4b047f5f3c.CSV
+06f9120d-b434-46d6-9731-0a4b047f5f3c
+
+2970: reading ed45c23d-ba8b-4328-ab27-3caa39092c01.CSV
+ed45c23d-ba8b-4328-ab27-3caa39092c01
+
+2971: reading 1b618bf7-5ee4-4b98-bcf8-fdaa5d69f46f.CSV
+1b618bf7-5ee4-4b98-bcf8-fdaa5d69f46f
+
+2972: reading aba368d8-c320-4eb8-abef-9f3b9bbcc4d4.CSV
+aba368d8-c320-4eb8-abef-9f3b9bbcc4d4
+
+2973: reading bd8743c2-030f-4da8-9847-c8303ecd0077.CSV
+bd8743c2-030f-4da8-9847-c8303ecd0077
+
+2974: reading f78182da-31d8-4316-826f-dcbe2331fa11.CSV
+f78182da-31d8-4316-826f-dcbe2331fa11
+
+2975: reading 65beabd1-f30d-4832-96ef-9b6b08071603.CSV
+65beabd1-f30d-4832-96ef-9b6b08071603
+
+2976: reading 1fd0b8f3-1416-44d5-822b-d80d5dbb0a97.CSV
+1fd0b8f3-1416-44d5-822b-d80d5dbb0a97
+
+2977: reading f192d2c3-d5f2-4d5d-8954-48ed8dca8814.CSV
+f192d2c3-d5f2-4d5d-8954-48ed8dca8814
+
+2978: reading e414c90f-0ecc-483b-b9b6-0535a1ffb9bc.CSV
+e414c90f-0ecc-483b-b9b6-0535a1ffb9bc
+
+2979: reading b76d0b04-98a7-4295-b4cd-9649f5308851.CSV
+b76d0b04-98a7-4295-b4cd-9649f5308851
+
+2980: reading a809f1d3-a6b6-4756-800f-a5a9881c4523.CSV
+IGNORE reading tables/a809f1d3-a6b6-4756-800f-a5a9881c4523.CSV: ')' expected after '"'
+
+2981: reading 601e4452-435c-430b-a80b-e8aa6dfaed96.CSV
+601e4452-435c-430b-a80b-e8aa6dfaed96
+
+2982: reading c86222fa-274a-41aa-af53-44c6dc29b436.XLSX
+c86222fa-274a-41aa-af53-44c6dc29b436
+
+2983: reading 3eadf83c-9ca4-469d-9b53-93a364bf8824.CSV
+3eadf83c-9ca4-469d-9b53-93a364bf8824
+
+2984: reading 2ec6e1a0-4582-4ca5-965a-04ca9eae253d.CSV
+2ec6e1a0-4582-4ca5-965a-04ca9eae253d
+
+2985: reading fa84ca2a-2281-499f-a9bf-011f80e63369.XLSX
+fa84ca2a-2281-499f-a9bf-011f80e63369
+
+2986: reading df90c989-07e0-4413-93cf-2a759d3b64f9.CSV
+df90c989-07e0-4413-93cf-2a759d3b64f9
+
+2987: reading 24db099a-335d-40b9-9333-37de2a70bd65.XLS
+24db099a-335d-40b9-9333-37de2a70bd65
+
+2988: reading 33aa9b71-8469-4b6f-9667-9c6eccc6f7db.CSV
+33aa9b71-8469-4b6f-9667-9c6eccc6f7db
+
+2989: reading b7e28bd0-891b-4464-9e8d-32d77d074e00.CSV
+b7e28bd0-891b-4464-9e8d-32d77d074e00
+
+2990: reading 7ca9c0b1-e65a-46f8-9dae-ec2bb7bf8ba3.XLS
+7ca9c0b1-e65a-46f8-9dae-ec2bb7bf8ba3#Information
+7ca9c0b1-e65a-46f8-9dae-ec2bb7bf8ba3#Information#Dictionary
+7ca9c0b1-e65a-46f8-9dae-ec2bb7bf8ba3#Information#Dictionary#Data
+/gpf1/suneja/conda-envs/bm251/lib/python3.7/site-packages/openpyxl/worksheet/_reader.py:329: UserWarning: Unknown extension is not supported and will be removed
+  warn(msg)
+7ca9c0b1-e65a-46f8-9dae-ec2bb7bf8ba3#Information#Dictionary#Data#Visualize
+
+2991: reading ef35e855-c386-4c5c-b0b2-2ff7893c1ee0.CSV
+ef35e855-c386-4c5c-b0b2-2ff7893c1ee0
+
+2992: reading 55fe590f-0216-44b9-bec6-4cd370e02246.XLSX
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis#Prix_au_comptant_bouv_finis
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis#Prix_au_comptant_bouv_finis#Marges_des_bouv_finis
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis#Prix_au_comptant_bouv_finis#Marges_des_bouv_finis#Base_ajustée_-_Bouv_finis
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis#Prix_au_comptant_bouv_finis#Marges_des_bouv_finis#Base_ajustée_-_Bouv_finis#Prix_bouv_500-599_lbs
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis#Prix_au_comptant_bouv_finis#Marges_des_bouv_finis#Base_ajustée_-_Bouv_finis#Prix_bouv_500-599_lbs#Prix_bouv_900-999_lbs
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis#Prix_au_comptant_bouv_finis#Marges_des_bouv_finis#Base_ajustée_-_Bouv_finis#Prix_bouv_500-599_lbs#Prix_bouv_900-999_lbs#Prix_à_long_terme
+55fe590f-0216-44b9-bec6-4cd370e02246#Définitions#Prix_des_bouv#Prix_du_marché#Coût_de_l'alim#Marge_bouv_finis#Prix_au_comptant_bouv_finis#Marges_des_bouv_finis#Base_ajustée_-_Bouv_finis#Prix_bouv_500-599_lbs#Prix_bouv_900-999_lbs#Prix_à_long_terme#Basis_graphs
+
+2993: reading 0e61058c-4c76-4bc0-8a84-bfcc558813af.CSV
+0e61058c-4c76-4bc0-8a84-bfcc558813af
+
+2994: reading 09956599-9bc2-44a1-a7a5-41df18111258.CSV
+09956599-9bc2-44a1-a7a5-41df18111258
+
+2995: reading 9c14b6ac-9b9f-4d2e-b98e-a69b0c6102d6.XLSX
+9c14b6ac-9b9f-4d2e-b98e-a69b0c6102d6
+
+2996: reading 63a74bce-02ae-4359-bb30-9e2aa99aa7c7.CSV
+63a74bce-02ae-4359-bb30-9e2aa99aa7c7
+
+2997: reading 734501c9-7914-4c97-a909-0004fe75bd87.CSV
+734501c9-7914-4c97-a909-0004fe75bd87
+
+2998: reading 767352b3-c6cb-40f6-85a5-20b69fde3f6d.CSV
+767352b3-c6cb-40f6-85a5-20b69fde3f6d
+
+2999: reading c2a9beb2-ea77-4b8b-a430-5e831fb88bb2.CSV
+c2a9beb2-ea77-4b8b-a430-5e831fb88bb2
+
+3000: reading 722751c0-eeca-425d-9d1c-e748be5aec74.CSV
+722751c0-eeca-425d-9d1c-e748be5aec74
+
+3001: reading 0d3b28f6-bc64-4e2e-aad7-e642b6aed75a.XLSX
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT#MAN_MAN
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT#MAN_MAN#SAS_SAS
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT#MAN_MAN#SAS_SAS#ALTA_ALTA
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT#MAN_MAN#SAS_SAS#ALTA_ALTA#BC_C-B
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT#MAN_MAN#SAS_SAS#ALTA_ALTA#BC_C-B#NWT_T-N-O
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT#MAN_MAN#SAS_SAS#ALTA_ALTA#BC_C-B#NWT_T-N-O#NNVT_NNVT
+0d3b28f6-bc64-4e2e-aad7-e642b6aed75a#Notes#NFLD_T-N#NS_N-É#PEI_Î-P-É#NB_NB#QUE_QUÉ#ONT_ONT#MAN_MAN#SAS_SAS#ALTA_ALTA#BC_C-B#NWT_T-N-O#NNVT_NNVT#YUKON_YUKON
+
+3002: reading 32947d90-ea32-48af-b6fb-d62f170301e8.CSV
+ERROR reading tables/32947d90-ea32-48af-b6fb-d62f170301e8.CSV: Expected 13 fields in line 3, saw 15
+
+3003: reading 37b80c31-df09-4cf2-bf7f-d93f255157e4.CSV
+37b80c31-df09-4cf2-bf7f-d93f255157e4
+
+3004: reading b35fd8b1-4f46-412d-a8ec-57b304c56277.CSV
+b35fd8b1-4f46-412d-a8ec-57b304c56277
+
+3005: reading 3c1a95c2-f3dd-4d06-83d2-c4843a2103a4.CSV
+3c1a95c2-f3dd-4d06-83d2-c4843a2103a4
+
+3006: reading 4dc60519-ca4a-4c50-af16-3a1b22bef2b0.CSV
+4dc60519-ca4a-4c50-af16-3a1b22bef2b0
+
+3007: reading dd006936-dfe5-4f79-b7c2-d88234d58994.CSV
+dd006936-dfe5-4f79-b7c2-d88234d58994
+
+3008: reading 6a5f35b4-64ca-446e-8b9f-675b3a3b099f.XLSX
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11#W12
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11#W12#W13
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11#W12#W13#W14
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11#W12#W13#W14#W15
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11#W12#W13#W14#W15#W16
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11#W12#W13#W14#W15#W16#W17
+6a5f35b4-64ca-446e-8b9f-675b3a3b099f#Table_of_Contents#W1_(+)#W2#W3#W4#W5#W6#W7#W8#W9#W10#W11#W12#W13#W14#W15#W16#W17#W18
+
+3009: reading 9456a080-2069-455d-8e01-caa24f3e5cf2.CSV
+9456a080-2069-455d-8e01-caa24f3e5cf2
+
+3010: reading de55b852-c7bb-4488-a82c-57d27aedb040.CSV
+de55b852-c7bb-4488-a82c-57d27aedb040
+de55b852-c7bb-4488-a82c-57d27aedb040
+de55b852-c7bb-4488-a82c-57d27aedb040
+de55b852-c7bb-4488-a82c-57d27aedb040
+
+3011: reading e4b618a0-a1d7-4d47-a57a-a140eb69750d.CSV
+e4b618a0-a1d7-4d47-a57a-a140eb69750d
+
+3012: reading 20436be4-db9f-4aec-a8cb-5f202835f892.CSV
+20436be4-db9f-4aec-a8cb-5f202835f892
+
+3013: reading d381797c-ba9a-497a-bc38-366613cd0c93.CSV
+d381797c-ba9a-497a-bc38-366613cd0c93
+
+3014: reading 0004c0c9-beb5-49fb-ae73-fb5d9e829d99.CSV
+0004c0c9-beb5-49fb-ae73-fb5d9e829d99
+
+3015: reading 7bfbce40-ed32-449d-912f-72b55bab82d1.CSV
+7bfbce40-ed32-449d-912f-72b55bab82d1
+
+3016: reading 54c19723-fa65-4a45-a7ef-9e34c9443bf8.CSV
+54c19723-fa65-4a45-a7ef-9e34c9443bf8
+
+3017: reading 4318cc8e-451a-44ea-8d2e-bc6cdcb20526.CSV
+4318cc8e-451a-44ea-8d2e-bc6cdcb20526
+
+3018: reading c142d298-84dd-489b-86b1-0b952a6cc8df.CSV
+c142d298-84dd-489b-86b1-0b952a6cc8df
+
+3019: reading e772e0e7-ffd3-456c-b12f-93afca1dfb0f.CSV
+e772e0e7-ffd3-456c-b12f-93afca1dfb0f
+
+3020: reading 3512bf11-6444-4dd3-973f-74f1d860cf4e.CSV
+3512bf11-6444-4dd3-973f-74f1d860cf4e
+
+3021: reading 05f34a17-17eb-4a50-a181-1de0ad535bbd.XLSX
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B#Q2_A
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B#Q2_A#Q2_B
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B#Q2_A#Q2_B#Q3_A
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B#Q2_A#Q2_B#Q3_A#Q3_B
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B#Q2_A#Q2_B#Q3_A#Q3_B#Q4_A
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B#Q2_A#Q2_B#Q3_A#Q3_B#Q4_A#Q4_B
+05f34a17-17eb-4a50-a181-1de0ad535bbd#Q1_A#Q1_B#Q2_A#Q2_B#Q3_A#Q3_B#Q4_A#Q4_B#Résultats
+
+3022: reading f2bc7150-bc08-415f-a318-1b2e2edec6bc.CSV
+f2bc7150-bc08-415f-a318-1b2e2edec6bc
+
+3023: reading 68d6a0cb-c3b6-4d9b-aa3f-ec4fadabc6ff.CSV
+68d6a0cb-c3b6-4d9b-aa3f-ec4fadabc6ff
+
+3024: reading 1f572e2b-ba4c-4b39-9761-5edcc72a3792.CSV
+1f572e2b-ba4c-4b39-9761-5edcc72a3792
+
+3025: reading 6c6503bc-af49-47f0-b89a-3baf1a361b5b.CSV
+IGNORE reading tables/6c6503bc-af49-47f0-b89a-3baf1a361b5b.CSV: 'i' expected after '"'
+
+3026: reading 47a14219-62c0-46c0-a987-834563ebf769.XLSX
+47a14219-62c0-46c0-a987-834563ebf769
+
+3027: reading b6313228-9e34-4fef-b372-37bddcba7f69.CSV
+b6313228-9e34-4fef-b372-37bddcba7f69
+
+3028: reading 39ec7d43-f4e1-4cba-bdf1-a9d20bf95e99.CSV
+39ec7d43-f4e1-4cba-bdf1-a9d20bf95e99
+
+3029: reading de0ef5dc-e008-4845-91a4-15185792f011.CSV
+de0ef5dc-e008-4845-91a4-15185792f011
+
+3030: reading 9e15e438-3016-400d-b68d-42ad350df583.CSV
+9e15e438-3016-400d-b68d-42ad350df583
+
+3031: reading 0c04f111-9bb5-41e0-9a21-95654d92579a.CSV
+IGNORE reading 2018-08: [Errno 21] Is a directory: './tmp2hilqztz/2018-08'
+
+3032: reading 2d682f6d-af98-4d2a-8dad-cbe67ecdfe30.CSV
+2d682f6d-af98-4d2a-8dad-cbe67ecdfe30
+
+3033: reading d78e3dbd-1f5a-41d9-9870-63140ed569a3.CSV
+d78e3dbd-1f5a-41d9-9870-63140ed569a3
+
+3034: reading 7172d802-007d-4249-a37a-50b7630dae7a.CSV
+7172d802-007d-4249-a37a-50b7630dae7a
+
+3035: reading 0c9235d5-2c3b-4cf7-8c8b-f184446385ea.CSV
+0c9235d5-2c3b-4cf7-8c8b-f184446385ea
+
+3036: reading 9e630285-694d-45e7-98e4-1e563993d5a5.CSV
+9e630285-694d-45e7-98e4-1e563993d5a5
+
+3037: reading 32c136a2-66ad-4370-afba-6ba086cc741c.CSV
+32c136a2-66ad-4370-afba-6ba086cc741c
+
+3038: reading 8988886f-c8e9-4452-a968-66f2b3e6b6ae.CSV
+8988886f-c8e9-4452-a968-66f2b3e6b6ae
+
+3039: reading 24b7dea4-afb0-41e7-b6cb-fcb813da8b7f.CSV
+24b7dea4-afb0-41e7-b6cb-fcb813da8b7f
+
+3040: reading 453d9b45-6691-4619-ab9d-bc80f3027ac7.CSV
+453d9b45-6691-4619-ab9d-bc80f3027ac7
+
+3041: reading c2487d6e-f385-4240-8d3a-bb0c4c7373bc.CSV
+c2487d6e-f385-4240-8d3a-bb0c4c7373bc
+
+3042: reading 4fa370c9-38c4-47ea-8eb2-6ed460cc2f1a.CSV
+IGNORE reading tables/4fa370c9-38c4-47ea-8eb2-6ed460cc2f1a.CSV: Expected 3 fields in line 6, saw 6
+
+3043: reading 8ddc8ea3-c41b-4dff-bc4e-ead6ade2b55e.CSV
+8ddc8ea3-c41b-4dff-bc4e-ead6ade2b55e
+
+3044: reading b2b8e9bd-7c2e-4d29-9922-f728679dcfb7.CSV
+b2b8e9bd-7c2e-4d29-9922-f728679dcfb7
+
+3045: reading a11a5a89-0ab7-44dd-9ff5-2947bc7c52a7.CSV
+a11a5a89-0ab7-44dd-9ff5-2947bc7c52a7
+
+3046: reading a86ed837-9dc9-4f5c-8817-defaba71e16c.CSV
+a86ed837-9dc9-4f5c-8817-defaba71e16c
+
+3047: reading 86545da4-f049-407a-a03e-a365ec69a0f3.CSV
+86545da4-f049-407a-a03e-a365ec69a0f3
+
+3048: reading bc712847-e6ba-4a66-8435-ad0a8d2da104.CSV
+bc712847-e6ba-4a66-8435-ad0a8d2da104
+bc712847-e6ba-4a66-8435-ad0a8d2da104
+bc712847-e6ba-4a66-8435-ad0a8d2da104
+bc712847-e6ba-4a66-8435-ad0a8d2da104
+bc712847-e6ba-4a66-8435-ad0a8d2da104
+
+3049: reading 86550e36-1c31-4a66-ab4d-ba4990675e38.CSV
+86550e36-1c31-4a66-ab4d-ba4990675e38
+
+3050: reading 1639f38a-272b-4d5b-bf8d-7abd4062d9b7.XLSX
+1639f38a-272b-4d5b-bf8d-7abd4062d9b7
+
+3051: reading 4ecc6ac9-30d0-4247-b167-bf31c9cdc9bd.CSV
+4ecc6ac9-30d0-4247-b167-bf31c9cdc9bd
+
+3052: reading 7580b9d1-e729-415c-9794-c993bd188c13.CSV
+7580b9d1-e729-415c-9794-c993bd188c13
+
+3053: reading 91919f46-d9c2-42ee-bf1c-590e3a23df92.CSV
+91919f46-d9c2-42ee-bf1c-590e3a23df92
+
+3054: reading 1fbfc63f-90d4-4f12-905c-ec5c49600dd5.CSV
+1fbfc63f-90d4-4f12-905c-ec5c49600dd5
+
+3055: reading bb707825-aa74-4e5c-905c-48d696a1095c.CSV
+bb707825-aa74-4e5c-905c-48d696a1095c
+
+3056: reading debc17cb-cb4b-406d-bdff-434881dbbe40.CSV
+debc17cb-cb4b-406d-bdff-434881dbbe40
+
+3057: reading 707da951-f62a-4d43-aa03-bc432fb76c46.CSV
+707da951-f62a-4d43-aa03-bc432fb76c46
+
+3058: reading 0b412867-62a1-4c91-82a1-8d5b5918d229.CSV
+0b412867-62a1-4c91-82a1-8d5b5918d229
+
+3059: reading a251768d-12ad-48e4-895f-48d3ac2fbde3.CSV
+IGNORE reading pe: [Errno 21] Is a directory: './tmpm0hklx2p/pe'
+
+3060: reading 3da09d8f-f6b7-404c-8b05-0568beeb96bc.CSV
+3da09d8f-f6b7-404c-8b05-0568beeb96bc
+
+3061: reading fe491fb6-2466-40a1-9383-b65745a5de29.CSV
+fe491fb6-2466-40a1-9383-b65745a5de29
+
+3062: reading cf22304c-a1f3-42cc-a6ee-aad6da1156b2.CSV
+cf22304c-a1f3-42cc-a6ee-aad6da1156b2
+
+3063: reading 3e8a3ad0-add2-4793-801a-0daa2798088a.CSV
+IGNORE reading tables/3e8a3ad0-add2-4793-801a-0daa2798088a.CSV: Can't find workbook in OLE2 compound document
+
+3064: reading b4e02f26-5e93-4afb-bb94-a2ef7ba5eb19.CSV
+b4e02f26-5e93-4afb-bb94-a2ef7ba5eb19
+
+3065: reading e8b9baf8-85bc-4d0c-8242-9466e347fa8e.CSV
+e8b9baf8-85bc-4d0c-8242-9466e347fa8e
+
+3066: reading 617736df-3a2e-4b0d-ab84-6ebd83c5233f.CSV
+617736df-3a2e-4b0d-ab84-6ebd83c5233f
+
+3067: reading e081e526-205e-4e86-ac6f-825483245fc6.CSV
+e081e526-205e-4e86-ac6f-825483245fc6
+
+3068: reading bfc34b20-8ea5-4602-892e-1cf1fecc7589.XLSX
+bfc34b20-8ea5-4602-892e-1cf1fecc7589
+
+3069: reading 96a2e42e-ad76-4fef-a1f3-a361d614e04d.CSV
+96a2e42e-ad76-4fef-a1f3-a361d614e04d
+
+3070: reading 4ffa2857-f76d-4e5f-b01c-e5b369e8f8e4.CSV
+4ffa2857-f76d-4e5f-b01c-e5b369e8f8e4
+
+3071: reading 78f27b57-3442-47c8-83de-0c6df2d6a7ce.CSV
+78f27b57-3442-47c8-83de-0c6df2d6a7ce
+
+3072: reading f215c146-8349-4519-9ce2-9cdcdb55ef41.CSV
+f215c146-8349-4519-9ce2-9cdcdb55ef41
+
+3073: reading c142efed-c13a-40e7-9bad-10a41b90cc4c.CSV
+c142efed-c13a-40e7-9bad-10a41b90cc4c
+
+3074: reading 9525454b-b854-45a4-ac72-c33b3828a14e.CSV
+9525454b-b854-45a4-ac72-c33b3828a14e
+
+3075: reading ab4a8c34-d5f9-41aa-9b84-1af55932ca76.XLS
+ab4a8c34-d5f9-41aa-9b84-1af55932ca76
+
+3076: reading 7694d0a6-e425-482a-9c83-65f770712247.CSV
+7694d0a6-e425-482a-9c83-65f770712247
+
+3077: reading 4341927a-ca62-426b-b3e1-ad5048ff5fe8.CSV
+IGNORE: Can't read file ./tmptr2rengq/ODPF_4_HS6XDesc.txt; None filetype
+IGNORE: Can't read file ./tmptr2rengq/Note aux utilisateurs.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmptr2rengq/ODPF_2_HS8Desc.txt; None filetype
+4341927a-ca62-426b-b3e1-ad5048ff5fe8
+4341927a-ca62-426b-b3e1-ad5048ff5fe8
+IGNORE: Can't read file ./tmptr2rengq/Note to User.docx; Unsupported filetype: docx
+4341927a-ca62-426b-b3e1-ad5048ff5fe8
+IGNORE: Can't read file ./tmptr2rengq/ODPF_5_HS2Desc.txt; None filetype
+
+3078: reading 98e145a5-402e-4d0b-b46f-3e2c29401455.CSV
+98e145a5-402e-4d0b-b46f-3e2c29401455
+
+3079: reading 18f1e9fd-083a-4cfb-9db5-746bad151c78.CSV
+18f1e9fd-083a-4cfb-9db5-746bad151c78
+
+3080: reading 92f9b02f-313a-40f4-90d1-f2b082bb9b59.CSV
+92f9b02f-313a-40f4-90d1-f2b082bb9b59
+
+3081: reading 5651f7f9-bbc4-45dd-84b5-e4d0af284ff1.CSV
+5651f7f9-bbc4-45dd-84b5-e4d0af284ff1
+
+3082: reading a6ee7a49-2c36-4b37-8feb-a5c049335e63.CSV
+a6ee7a49-2c36-4b37-8feb-a5c049335e63
+
+3083: reading 0994de57-6ec0-4afc-8bf8-87754c7cd632.CSV
+0994de57-6ec0-4afc-8bf8-87754c7cd632
+
+3084: reading eed74066-ca93-468f-832e-7bd066038f5d.CSV
+eed74066-ca93-468f-832e-7bd066038f5d
+
+3085: reading bd27c70f-f7ed-4045-b77f-6e60380f284d.CSV
+bd27c70f-f7ed-4045-b77f-6e60380f284d
+
+3086: reading d516d93a-8c6a-4b88-af69-2fa1bcc63c8d.CSV
+d516d93a-8c6a-4b88-af69-2fa1bcc63c8d
+
+3087: reading 9ab7dc4d-b034-477b-8fbc-0483b0ab5c3a.XLSX
+9ab7dc4d-b034-477b-8fbc-0483b0ab5c3a
+
+3088: reading 38140bdb-6e56-4acf-a93e-8ceb1ecf2897.CSV
+38140bdb-6e56-4acf-a93e-8ceb1ecf2897
+
+3089: reading d7228398-adb7-4b6a-b291-203443f38a3b.CSV
+IGNORE reading 201305: [Errno 21] Is a directory: './tmpg977bg_4/201305'
+
+3090: reading f8aa851d-1c79-4a53-a85b-34d90dab7eea.CSV
+f8aa851d-1c79-4a53-a85b-34d90dab7eea
+
+3091: reading 1ecdee70-f8d5-4c78-a985-638d389c4d88.CSV
+1ecdee70-f8d5-4c78-a985-638d389c4d88
+
+3092: reading a007e7e1-9c58-4586-b644-919624b95bfc.XLSX
+a007e7e1-9c58-4586-b644-919624b95bfc
+
+3093: reading 347b929e-0633-4d1c-9cad-b5191b06924f.CSV
+347b929e-0633-4d1c-9cad-b5191b06924f
+
+3094: reading be7e3997-e803-4305-b3f6-154af3af7440.CSV
+be7e3997-e803-4305-b3f6-154af3af7440
+
+3095: reading 827a2cc7-5ad0-4c55-a1d2-ca33b7371050.CSV
+827a2cc7-5ad0-4c55-a1d2-ca33b7371050
+
+3096: reading a3de7e21-3456-4e67-a0de-ec865a6630c2.CSV
+a3de7e21-3456-4e67-a0de-ec865a6630c2
+
+3097: reading 57a05a52-31ca-42d4-81ef-02240f217142.CSV
+57a05a52-31ca-42d4-81ef-02240f217142
+
+3098: reading 920fea89-3664-415e-9a7e-0dd8eb0a9ee8.CSV
+920fea89-3664-415e-9a7e-0dd8eb0a9ee8
+
+3099: reading 4c7eb70b-ae05-4f74-815d-248d7ec18c41.CSV
+4c7eb70b-ae05-4f74-815d-248d7ec18c41
+
+3100: reading 31209722-f431-4381-9926-a97df5706e06.CSV
+31209722-f431-4381-9926-a97df5706e06
+
+3101: reading 46c85dae-cd24-4dc6-a624-af6f6a195c89.CSV
+46c85dae-cd24-4dc6-a624-af6f6a195c89
+
+3102: reading ca17c229-e6cd-4e78-86df-ec3c787d4ff1.CSV
+ca17c229-e6cd-4e78-86df-ec3c787d4ff1
+
+3103: reading 501dd82c-da5b-4c2d-90f0-0088325a7707.CSV
+501dd82c-da5b-4c2d-90f0-0088325a7707
+
+3104: reading 1c224048-5c16-4522-943e-cacae8840e15.CSV
+1c224048-5c16-4522-943e-cacae8840e15
+
+3105: reading 07990962-0d49-48d8-bcb0-34d1af04dddc.CSV
+07990962-0d49-48d8-bcb0-34d1af04dddc
+
+3106: reading caca9b60-e29f-40d9-8921-981e80c54f8b.CSV
+caca9b60-e29f-40d9-8921-981e80c54f8b
+
+3107: reading 15aa77db-1765-48e3-b34e-26f8cee8f97f.CSV
+15aa77db-1765-48e3-b34e-26f8cee8f97f
+
+3108: reading 9d4f8887-c014-42c8-9266-b03322a9eb58.CSV
+9d4f8887-c014-42c8-9266-b03322a9eb58
+
+3109: reading 46b47f93-2e7c-4c0a-af75-290a19099793.XLSX
+46b47f93-2e7c-4c0a-af75-290a19099793#Sheet1
+46b47f93-2e7c-4c0a-af75-290a19099793#Sheet1#Sheet2
+46b47f93-2e7c-4c0a-af75-290a19099793#Sheet1#Sheet2#Sheet3
+
+3110: reading 8fe7af0e-a9b8-453f-87ae-f2219cbfcf9f.CSV
+8fe7af0e-a9b8-453f-87ae-f2219cbfcf9f
+
+3111: reading e5c88fd3-f24c-4465-b35d-c9c5aed45988.CSV
+e5c88fd3-f24c-4465-b35d-c9c5aed45988
+
+3112: reading 8da75b55-db80-4881-89e8-2b6f4973a0dc.CSV
+8da75b55-db80-4881-89e8-2b6f4973a0dc
+
+3113: reading 17939ff2-4939-43b8-993e-bdd632277488.CSV
+17939ff2-4939-43b8-993e-bdd632277488
+
+3114: reading adf5c064-114c-4bec-be3e-b31354782ff0.CSV
+adf5c064-114c-4bec-be3e-b31354782ff0
+
+3115: reading 4e8b7a0e-ac6e-4b9e-8de0-6d3a43df9d48.CSV
+ERROR reading tables/4e8b7a0e-ac6e-4b9e-8de0-6d3a43df9d48.CSV: field larger than field limit (131072)
+
+3116: reading 964eef70-8ffe-4f18-b47d-aab784f522d0.CSV
+964eef70-8ffe-4f18-b47d-aab784f522d0
+
+3117: reading 829a9fab-95ce-44ce-af75-5f4b6e1ec2aa.CSV
+829a9fab-95ce-44ce-af75-5f4b6e1ec2aa
+
+3118: reading e73fd061-6951-4d64-8ff7-a1455ba8ee5e.XLS
+ERROR: Can't read file tables/e73fd061-6951-4d64-8ff7-a1455ba8ee5e.XLS; None filetype
+
+3119: reading 6c23a2c1-6957-4a4f-a735-c0eb19e0c3e7.CSV
+6c23a2c1-6957-4a4f-a735-c0eb19e0c3e7
+
+3120: reading 6611817d-dad9-4bcc-8e9d-7767e486e95b.XLSX
+6611817d-dad9-4bcc-8e9d-7767e486e95b
+
+3121: reading 90a1ebee-5c79-41b2-a510-7dfb7096b438.XLS
+90a1ebee-5c79-41b2-a510-7dfb7096b438
+
+3122: reading fb922b2e-dda8-449c-9ff2-c30de156be4b.CSV
+fb922b2e-dda8-449c-9ff2-c30de156be4b
+
+3123: reading 50cf1f78-8c22-4db2-aac3-f0cefc1ea137.CSV
+IGNORE reading tables/50cf1f78-8c22-4db2-aac3-f0cefc1ea137.CSV: ' ' expected after '"'
+
+3124: reading 65bd1564-1def-42c4-b16c-eebde3f15439.CSV
+65bd1564-1def-42c4-b16c-eebde3f15439
+
+3125: reading 37a4f020-336c-48c0-94e5-5eb0e0ebcad3.CSV
+37a4f020-336c-48c0-94e5-5eb0e0ebcad3
+
+3126: reading 764b3ab3-5eed-4a46-951a-8c6219b99271.CSV
+764b3ab3-5eed-4a46-951a-8c6219b99271
+
+3127: reading 2448fca1-a6b9-400e-a3c0-66792caf6fdf.CSV
+2448fca1-a6b9-400e-a3c0-66792caf6fdf
+
+3128: reading 193a1efa-e053-4545-a31f-8f9d1e2bb21b.CSV
+193a1efa-e053-4545-a31f-8f9d1e2bb21b
+
+3129: reading 9e35d509-7e72-4464-bcf4-a2f05518273c.CSV
+9e35d509-7e72-4464-bcf4-a2f05518273c
+
+3130: reading 7b0f9bed-fc6f-4537-a5b4-b52b9f80d14e.CSV
+7b0f9bed-fc6f-4537-a5b4-b52b9f80d14e
+
+3131: reading 69d2753d-27c0-4295-b779-91b39b961283.XLSX
+69d2753d-27c0-4295-b779-91b39b961283
+
+3132: reading 39977ec8-9ea8-40f5-9e96-767cad3f951e.XLS
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32#Sheet33
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32#Sheet33#Sheet34
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32#Sheet33#Sheet34#Sheet35
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32#Sheet33#Sheet34#Sheet35#Sheet36
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32#Sheet33#Sheet34#Sheet35#Sheet36#Sheet37
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32#Sheet33#Sheet34#Sheet35#Sheet36#Sheet37#Sheet38
+39977ec8-9ea8-40f5-9e96-767cad3f951e#Sheet1#Sheet2#Sheet3#Sheet6#Sheet7#Sheet8#Sheet9#Sheet10#Sheet11#Sheet12#Sheet13#Sheet14#Sheet15#Sheet16#Sheet17#Sheet18#Sheet19#Sheet20#Sheet21#Sheet22#Sheet23#Sheet24#Sheet25#Sheet26#Sheet27#Sheet28#Sheet29#Sheet30#Sheet31#Sheet32#Sheet33#Sheet34#Sheet35#Sheet36#Sheet37#Sheet38#Sheet39
+
+3133: reading 7faa349d-380e-4349-82ce-7f4a9171988f.CSV
+7faa349d-380e-4349-82ce-7f4a9171988f
+
+3134: reading aebf6568-d503-45e6-b486-36e9ed59fa60.CSV
+aebf6568-d503-45e6-b486-36e9ed59fa60
+
+3135: reading a70b15d2-df7d-4aa1-8394-154cf6d1e96a.XLSX
+a70b15d2-df7d-4aa1-8394-154cf6d1e96a
+
+3136: reading 8a7b8f9e-6450-4f99-8110-214e92769596.CSV
+8a7b8f9e-6450-4f99-8110-214e92769596
+
+3137: reading ff1f2fb1-de79-45f9-9a80-2ec0022aac81.CSV
+ff1f2fb1-de79-45f9-9a80-2ec0022aac81
+
+3138: reading 888045f3-8f6f-4a8b-a3ac-5b58714deacf.CSV
+888045f3-8f6f-4a8b-a3ac-5b58714deacf
+
+3139: reading e2befce8-f67a-474d-a13d-3ae595a0a208.CSV
+e2befce8-f67a-474d-a13d-3ae595a0a208
+
+3140: reading 4d5c3d20-39f7-4401-ba3c-2a0f1b0dc876.CSV
+4d5c3d20-39f7-4401-ba3c-2a0f1b0dc876
+
+3141: reading 0c94ecf6-7237-4528-9658-9ffb80cd97c9.CSV
+0c94ecf6-7237-4528-9658-9ffb80cd97c9
+
+3142: reading df0c913c-5154-48a4-856c-d8ac4368f80b.CSV
+df0c913c-5154-48a4-856c-d8ac4368f80b
+
+3143: reading b364366d-0399-4c57-8ef9-31acb5a0c020.XLSX
+b364366d-0399-4c57-8ef9-31acb5a0c020
+
+3144: reading 26299156-8153-4b18-9d89-72bb74b0aecf.CSV
+ERROR reading tables/26299156-8153-4b18-9d89-72bb74b0aecf.CSV: Expected 4 fields in line 3, saw 5
+
+3145: reading 2a7e2d11-32eb-4d4f-a86c-e94897644e40.CSV
+2a7e2d11-32eb-4d4f-a86c-e94897644e40
+
+3146: reading 4721d2e5-7585-4f07-9f9e-2421660a7c97.CSV
+IGNORE reading Metadonnees-fra.csv: Expected 20 fields in line 38, saw 22
+IGNORE reading 98-402-X2016008-T1-CANPR-fra.csv: Expected 21 fields in line 55, saw 22
+4721d2e5-7585-4f07-9f9e-2421660a7c97
+4721d2e5-7585-4f07-9f9e-2421660a7c97
+4721d2e5-7585-4f07-9f9e-2421660a7c97
+
+3147: reading 1e3157c9-3ff8-4cba-8a8b-b9683c40f791.CSV
+1e3157c9-3ff8-4cba-8a8b-b9683c40f791
+
+3148: reading 81655e0d-0c3f-41fa-840d-5686cac51678.CSV
+81655e0d-0c3f-41fa-840d-5686cac51678
+
+3149: reading faee235b-35ef-4a99-8799-5cb00f3a0bb8.CSV
+faee235b-35ef-4a99-8799-5cb00f3a0bb8
+
+3150: reading 594a57ef-7f87-4d9b-9886-c1c0a5de41c6.CSV
+594a57ef-7f87-4d9b-9886-c1c0a5de41c6
+
+3151: reading 9f6b26d9-37d8-4871-9fc7-0fd4695dd262.CSV
+9f6b26d9-37d8-4871-9fc7-0fd4695dd262
+
+3152: reading 5c1f6b3f-5e8f-4230-ba1a-b658607c4190.CSV
+5c1f6b3f-5e8f-4230-ba1a-b658607c4190
+
+3153: reading f5834f68-6b6b-4f2b-bc89-6a885bae2b11.CSV
+f5834f68-6b6b-4f2b-bc89-6a885bae2b11
+
+3154: reading 8a4348ee-ebb2-4321-b85a-d1a888078f3a.CSV
+8a4348ee-ebb2-4321-b85a-d1a888078f3a
+
+3155: reading 8b1d137f-8b41-42ab-9533-769e81ba2940.CSV
+8b1d137f-8b41-42ab-9533-769e81ba2940
+
+3156: reading 49ab1471-164f-4090-ba36-f34e863a9cad.CSV
+49ab1471-164f-4090-ba36-f34e863a9cad
+
+3157: reading d4739850-9691-4b86-b693-a1e3a7d33570.XLS
+ERROR: Can't read file ./tmpzf7p8e5k/92-151-g2011001-eng.pdf; Unsupported filetype: pdf
+ERROR: Can't read file ./tmpzf7p8e5k/92-151-g2011001-fra.pdf; Unsupported filetype: pdf
+d4739850-9691-4b86-b693-a1e3a7d33570
+ERROR: Can't read file ./tmpzf7p8e5k/92-196-x2011001-eng.pdf; Unsupported filetype: pdf
+ERROR: Can't read file ./tmpzf7p8e5k/92-196-x2011001-fra.pdf; Unsupported filetype: pdf
+
+3158: reading a5298939-cd88-49ee-b53c-2235371e696b.CSV
+a5298939-cd88-49ee-b53c-2235371e696b
+
+3159: reading 9db4ee2d-8209-4a97-b30b-489303ff1c91.CSV
+9db4ee2d-8209-4a97-b30b-489303ff1c91
+
+3160: reading b90a5444-4d7f-4d4c-b02d-53e48686eb1c.CSV
+b90a5444-4d7f-4d4c-b02d-53e48686eb1c
+
+3161: reading 7383c2d7-dd9b-4b0b-b85c-fddcc6ba4041.CSV
+7383c2d7-dd9b-4b0b-b85c-fddcc6ba4041
+
+3162: reading b9a9f5de-03bc-4658-bea1-7375fc1b603c.CSV
+b9a9f5de-03bc-4658-bea1-7375fc1b603c
+
+3163: reading b81d1738-2b3a-4e3f-b975-ef1cf5b9008f.CSV
+b81d1738-2b3a-4e3f-b975-ef1cf5b9008f
+
+3164: reading dd100fa2-8f48-4aa3-92aa-384b2cf7bfec.CSV
+dd100fa2-8f48-4aa3-92aa-384b2cf7bfec
+
+3165: reading 8a863886-a704-4bb4-933a-6e5661b81664.CSV
+8a863886-a704-4bb4-933a-6e5661b81664
+
+3166: reading 62ff3349-ba1a-422f-8f8f-599b28b5663e.CSV
+62ff3349-ba1a-422f-8f8f-599b28b5663e
+
+3167: reading 15335ad0-9d5c-481a-99de-994f23d6b786.CSV
+15335ad0-9d5c-481a-99de-994f23d6b786
+
+3168: reading b94d150d-0a4f-4b89-8539-a7304f669d8a.CSV
+b94d150d-0a4f-4b89-8539-a7304f669d8a
+
+3169: reading 19ca7aa8-2744-4282-9ea2-748112c7f860.CSV
+19ca7aa8-2744-4282-9ea2-748112c7f860
+
+3170: reading bbd736b6-026b-48ff-bd86-1bf55a26d4ad.CSV
+bbd736b6-026b-48ff-bd86-1bf55a26d4ad
+
+3171: reading 054f662c-9c5f-41ef-8426-532f69d5a676.CSV
+054f662c-9c5f-41ef-8426-532f69d5a676
+
+3172: reading 8510176d-232a-41af-a4a4-888a297374ce.CSV
+8510176d-232a-41af-a4a4-888a297374ce
+
+3173: reading 42a816f1-93d5-407d-bdd0-31ee0c65884e.CSV
+42a816f1-93d5-407d-bdd0-31ee0c65884e
+
+3174: reading 1909bfab-e930-4762-afd2-ac29b7137adf.CSV
+1909bfab-e930-4762-afd2-ac29b7137adf
+
+3175: reading 9ca99e40-9ffe-4420-ba1c-83f3c065e4a7.XLSX
+9ca99e40-9ffe-4420-ba1c-83f3c065e4a7
+
+3176: reading ac31a95e-9ff5-4c3b-a443-b9a9fce12562.XLSX
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)#Proposals-Propositions_(10)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)#Proposals-Propositions_(10)#All-Tous_(11)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)#Proposals-Propositions_(10)#All-Tous_(11)#Bankruptcies-Faillites_(11)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)#Proposals-Propositions_(10)#All-Tous_(11)#Bankruptcies-Faillites_(11)#Proposals-Propositions_(11)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)#Proposals-Propositions_(10)#All-Tous_(11)#Bankruptcies-Faillites_(11)#Proposals-Propositions_(11)#All-Tous_(12)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)#Proposals-Propositions_(10)#All-Tous_(11)#Bankruptcies-Faillites_(11)#Proposals-Propositions_(11)#All-Tous_(12)#Bankruptcies-Faillites_(12)
+ac31a95e-9ff5-4c3b-a443-b9a9fce12562#Notes#All-Tous_(1)#Bankruptcies-Faillites_(1)#Proposals-Propositions_(1)#All-Tous_(2)#Bankruptcies-Faillites_(2)#Proposals-Propositions_(2)#All-Tous_(3)#Bankruptcies-Faillites_(3)#Proposals-Propositions_(3)#All-Tous_(4)#Bankruptcies-Faillites_(4)#Proposals-Propositions_(4)#All-Tous_(5)#Bankruptcies-Faillites_(5)#Proposals-Propositions_(5)#All-Tous_(6)#Bankruptcies-Faillites_(6)#Proposals-Propositions_(6)#All-Tous_(7)#Bankruptcies-Faillites_(7)#Proposals-Propositions_(7)#All-Tous_(8)#Bankruptcies-Faillites_(8)#Proposals-Propositions_(8)#All-Tous_(9)#Bankruptcies-Faillites_(9)#Proposals-Propositions_(9)#All-Tous_(10)#Bankruptcies-Faillites_(10)#Proposals-Propositions_(10)#All-Tous_(11)#Bankruptcies-Faillites_(11)#Proposals-Propositions_(11)#All-Tous_(12)#Bankruptcies-Faillites_(12)#Proposals-Propositions_(12)
+
+3177: reading 3f0600dc-cb94-4932-8381-493e245c5c7c.CSV
+3f0600dc-cb94-4932-8381-493e245c5c7c
+
+3178: reading 851468c2-f29a-475f-b858-a7e3beb7c49c.CSV
+851468c2-f29a-475f-b858-a7e3beb7c49c
+
+3179: reading 3158efba-0257-4034-9e47-1f8b143b380a.CSV
+3158efba-0257-4034-9e47-1f8b143b380a
+
+3180: reading e34105c9-1351-4c4e-a564-21e0a5a2ba1a.CSV
+e34105c9-1351-4c4e-a564-21e0a5a2ba1a
+
+3181: reading 177adb91-fb9f-44d8-9f3e-8db2af859956.CSV
+177adb91-fb9f-44d8-9f3e-8db2af859956
+
+3182: reading 89b36ab2-f0c7-4bb2-b250-e7035db746b8.CSV
+89b36ab2-f0c7-4bb2-b250-e7035db746b8
+
+3183: reading 1245ae4a-364e-45c1-b7bf-f5f9fcca1305.CSV
+1245ae4a-364e-45c1-b7bf-f5f9fcca1305
+
+3184: reading e360f637-c1e2-4dc8-b1cf-7c9a939293b2.CSV
+e360f637-c1e2-4dc8-b1cf-7c9a939293b2
+
+3185: reading 3de6ab3c-a771-4430-b842-6d050db4c5fc.XLS
+3de6ab3c-a771-4430-b842-6d050db4c5fc
+
+3186: reading 726aabe6-fcce-4e23-833c-017eb2ad944e.CSV
+726aabe6-fcce-4e23-833c-017eb2ad944e
+
+3187: reading eb93e1ca-416c-40f7-8308-395657e865d5.CSV
+eb93e1ca-416c-40f7-8308-395657e865d5
+
+3188: reading 066b5739-eec3-4827-a4d4-cf0fe8cb8954.CSV
+066b5739-eec3-4827-a4d4-cf0fe8cb8954
+
+3189: reading 0685dae7-bb2b-407a-b251-1d643a3556ed.XLSX
+0685dae7-bb2b-407a-b251-1d643a3556ed#Definitions
+0685dae7-bb2b-407a-b251-1d643a3556ed#Definitions#GreenhouseFlower
+0685dae7-bb2b-407a-b251-1d643a3556ed#Definitions#GreenhouseFlower#Définitions
+0685dae7-bb2b-407a-b251-1d643a3556ed#Definitions#GreenhouseFlower#Définitions#floricultureenserre
+
+3190: reading 1046947e-e1c4-47b4-ae2a-07a5edc26627.CSV
+1046947e-e1c4-47b4-ae2a-07a5edc26627
+
+3191: reading 843e6833-6a48-4c41-838c-f637bb5bc461.CSV
+843e6833-6a48-4c41-838c-f637bb5bc461
+
+3192: reading a2030d5a-df36-4d41-8d29-88e8ba12bf82.CSV
+a2030d5a-df36-4d41-8d29-88e8ba12bf82
+
+3193: reading 6a5f5e47-f367-4307-b9a6-9b778b46132f.CSV
+6a5f5e47-f367-4307-b9a6-9b778b46132f
+
+3194: reading 3fc4d9fa-d49b-4a31-b55f-c0460700dbe9.CSV
+3fc4d9fa-d49b-4a31-b55f-c0460700dbe9
+
+3195: reading 2f1be514-8734-4b3c-aed6-e2b4c24feebc.CSV
+2f1be514-8734-4b3c-aed6-e2b4c24feebc
+
+3196: reading d63d894c-7224-463c-bfaf-0dfbb0e1d7cb.CSV
+d63d894c-7224-463c-bfaf-0dfbb0e1d7cb
+
+3197: reading 53c991d8-a290-4b00-aa23-6ccd4a0491df.CSV
+53c991d8-a290-4b00-aa23-6ccd4a0491df
+
+3198: reading dc7ba687-88e2-473e-b332-1b6eed9508ef.CSV
+dc7ba687-88e2-473e-b332-1b6eed9508ef
+
+3199: reading f387d39d-5c5f-413c-93c7-fcdfb4de31b1.CSV
+f387d39d-5c5f-413c-93c7-fcdfb4de31b1
+
+3200: reading ffb394fe-dd2a-4463-97d0-f9ac84a70590.CSV
+ffb394fe-dd2a-4463-97d0-f9ac84a70590
+
+3201: reading 83780e78-9c15-4274-9a80-b2c9509494bc.CSV
+83780e78-9c15-4274-9a80-b2c9509494bc
+
+3202: reading 93b7c828-2e61-4866-935b-0deb0440ae5b.CSV
+93b7c828-2e61-4866-935b-0deb0440ae5b
+
+3203: reading dfb38334-8fa1-491a-a849-a86be8bfedbe.CSV
+ERROR reading Data: [Errno 21] Is a directory: './tmpuz7fk_r0/Data'
+
+3204: reading ce933477-1fe1-4d7e-8216-f65d60d49f99.CSV
+ce933477-1fe1-4d7e-8216-f65d60d49f99
+
+3205: reading 1fdf53a0-a8bf-4c6c-8b3c-1bd5d94ba9ff.CSV
+1fdf53a0-a8bf-4c6c-8b3c-1bd5d94ba9ff
+
+3206: reading b09d6d34-18c7-4425-9cbd-c377c2fa2123.CSV
+b09d6d34-18c7-4425-9cbd-c377c2fa2123
+
+3207: reading c2e9a41c-560a-4232-81c7-f6ea70aadf24.CSV
+c2e9a41c-560a-4232-81c7-f6ea70aadf24
+
+3208: reading 178548e3-1515-4987-a7c7-d46558bb9b6d.CSV
+178548e3-1515-4987-a7c7-d46558bb9b6d
+
+3209: reading 817f21c9-905b-43e7-b6b8-92022de379fa.XLS
+817f21c9-905b-43e7-b6b8-92022de379fa
+
+3210: reading 098ab80b-3aa7-4f9c-a78a-bc369c43c721.CSV
+098ab80b-3aa7-4f9c-a78a-bc369c43c721
+
+3211: reading 5d69ecb7-1ce9-4053-b68b-e04097262f0e.CSV
+5d69ecb7-1ce9-4053-b68b-e04097262f0e
+
+3212: reading 49b32312-4922-4c04-8b83-3b4a0abc7992.CSV
+49b32312-4922-4c04-8b83-3b4a0abc7992
+
+3213: reading 28d94a58-6c67-40d4-b92a-b028b34c40e9.CSV
+28d94a58-6c67-40d4-b92a-b028b34c40e9
+
+3214: reading 76583be7-4b1c-430f-b870-5c42f155cd46.CSV
+76583be7-4b1c-430f-b870-5c42f155cd46
+
+3215: reading f82b1822-57fd-4a68-943f-4618818e1341.CSV
+f82b1822-57fd-4a68-943f-4618818e1341
+
+3216: reading 6274f06f-9cfd-4a7d-8807-854bb450ec24.CSV
+6274f06f-9cfd-4a7d-8807-854bb450ec24
+
+3217: reading c4955a16-6801-4d98-bb65-4d46e002ebac.CSV
+c4955a16-6801-4d98-bb65-4d46e002ebac
+
+3218: reading a7c83d3d-007d-42c8-a6a7-690da25ecb4f.CSV
+a7c83d3d-007d-42c8-a6a7-690da25ecb4f
+
+3219: reading 72844f73-15e5-4820-a89f-c087730c28f4.CSV
+72844f73-15e5-4820-a89f-c087730c28f4
+
+3220: reading cdfc7360-7771-4ea3-afbe-d037d194e04d.CSV
+cdfc7360-7771-4ea3-afbe-d037d194e04d
+
+3221: reading d4abd303-c250-420f-a8e5-d3a6fde7e651.CSV
+d4abd303-c250-420f-a8e5-d3a6fde7e651
+
+3222: reading 298db8a7-5688-4ecd-a9db-36b60a6fde54.CSV
+298db8a7-5688-4ecd-a9db-36b60a6fde54
+
+3223: reading a04de467-f0ee-4518-a141-af1db5b26077.CSV
+a04de467-f0ee-4518-a141-af1db5b26077
+
+3224: reading 4c88a6b4-855d-438c-9a1f-0fdf0925d903.CSV
+4c88a6b4-855d-438c-9a1f-0fdf0925d903
+
+3225: reading 2ad93a0c-183f-487e-b05a-16ef13b9f555.CSV
+2ad93a0c-183f-487e-b05a-16ef13b9f555
+
+3226: reading 5337f747-e21f-45c9-bf30-df8a4e15be67.XLSX
+5337f747-e21f-45c9-bf30-df8a4e15be67#EN_Porcine_Sl_Condemn_JA_JN2022
+5337f747-e21f-45c9-bf30-df8a4e15be67#EN_Porcine_Sl_Condemn_JA_JN2022#FR_Porcine_Sl_Condemn_JA_JN2022
+
+3227: reading 7bee54bd-7714-4aa0-8af9-77a321224aac.CSV
+ERROR reading tables/7bee54bd-7714-4aa0-8af9-77a321224aac.CSV: Expected 21 fields in line 3, saw 23
+
+3228: reading 406c9eac-eeec-4952-a28a-84a31f6ed687.CSV
+406c9eac-eeec-4952-a28a-84a31f6ed687
+
+3229: reading a26042b3-4b68-47e0-82cc-3e382629ea39.CSV
+a26042b3-4b68-47e0-82cc-3e382629ea39
+
+3230: reading 6cb86fab-0818-4eb0-a943-1578c3bd8b0c.CSV
+6cb86fab-0818-4eb0-a943-1578c3bd8b0c
+
+3231: reading c94aa933-513f-4706-a593-38613d8d3c27.CSV
+c94aa933-513f-4706-a593-38613d8d3c27
+
+3232: reading 5d1d3eb0-ce81-4cb3-8e6c-ad6a61990af9.CSV
+5d1d3eb0-ce81-4cb3-8e6c-ad6a61990af9
+
+3233: reading fff4346c-caff-42c9-914d-7cb11a09c1fc.CSV
+fff4346c-caff-42c9-914d-7cb11a09c1fc
+
+3234: reading 9db3268c-d326-461a-a500-749201f2267e.CSV
+9db3268c-d326-461a-a500-749201f2267e
+
+3235: reading cede7a5b-8c1e-4b3a-b157-7f74d6269213.CSV
+cede7a5b-8c1e-4b3a-b157-7f74d6269213
+
+3236: reading 8bb7eb79-1137-4054-8a90-c57633f7fc6a.CSV
+8bb7eb79-1137-4054-8a90-c57633f7fc6a
+
+3237: reading e449a099-da94-4a77-8912-b85dea3ba9af.CSV
+e449a099-da94-4a77-8912-b85dea3ba9af
+
+3238: reading f6fda16b-dbfa-4ce0-8a54-847de8b43023.CSV
+f6fda16b-dbfa-4ce0-8a54-847de8b43023
+
+3239: reading d59c8c4d-d84b-4970-ae22-158977788f71.XLS
+d59c8c4d-d84b-4970-ae22-158977788f71
+
+3240: reading b05338ba-c4bf-44bc-88ec-57b8876b4d1e.CSV
+b05338ba-c4bf-44bc-88ec-57b8876b4d1e
+
+3241: reading f816dc15-afe7-42d9-8d95-1bc42f2dfa1c.CSV
+f816dc15-afe7-42d9-8d95-1bc42f2dfa1c
+
+3242: reading 4a323705-0465-46e5-aca1-a5131e8b497c.CSV
+4a323705-0465-46e5-aca1-a5131e8b497c
+
+3243: reading e5a4782a-c2aa-48c7-a507-17ecd6aedcc3.CSV
+e5a4782a-c2aa-48c7-a507-17ecd6aedcc3
+
+3244: reading d964d003-98cd-4669-8810-0078248d3d65.CSV
+d964d003-98cd-4669-8810-0078248d3d65
+
+3245: reading 1ac57a1f-be40-4bf1-8f59-eb41f1b00821.XLS
+1ac57a1f-be40-4bf1-8f59-eb41f1b00821
+
+3246: reading c8480093-c4f7-4139-a784-cfd33aca461b.CSV
+c8480093-c4f7-4139-a784-cfd33aca461b
+
+3247: reading b138e69b-5447-4337-bb1f-af7af733841f.CSV
+b138e69b-5447-4337-bb1f-af7af733841f
+
+3248: reading 4ee53c3f-1a59-4670-886e-f9d41d697944.CSV
+4ee53c3f-1a59-4670-886e-f9d41d697944
+
+3249: reading 627f92bc-7ae2-4f77-850a-a792474617cb.CSV
+627f92bc-7ae2-4f77-850a-a792474617cb
+
+3250: reading f45b8a82-18cc-424c-afcf-8762a682297a.XLSX
+f45b8a82-18cc-424c-afcf-8762a682297a
+
+3251: reading fae92557-666e-409e-beae-066a3b1f2e76.CSV
+fae92557-666e-409e-beae-066a3b1f2e76
+
+3252: reading 276daf87-ff61-42d2-8534-a6a5f123f602.CSV
+276daf87-ff61-42d2-8534-a6a5f123f602
+
+3253: reading a96e023e-4d31-4600-89bb-04af4e1c1146.CSV
+a96e023e-4d31-4600-89bb-04af4e1c1146
+
+3254: reading 1aea68cd-404b-4af1-9330-88d20b9b5ce5.CSV
+1aea68cd-404b-4af1-9330-88d20b9b5ce5
+
+3255: reading 51d6f011-84b6-4837-b595-3ec65dcb3ae9.CSV
+IGNORE reading AirwakeData_Case07a: [Errno 21] Is a directory: './tmpda7_nz3x/AirwakeData_Case07a'
+
+3256: reading 4d3097b4-ac38-48c2-bac5-71c662902439.CSV
+4d3097b4-ac38-48c2-bac5-71c662902439
+
+3257: reading ce9b8b41-2c6a-4770-a379-3a56ce89be9b.CSV
+ce9b8b41-2c6a-4770-a379-3a56ce89be9b
+
+3258: reading 0fb7d70a-cb1d-47d3-9f2b-5ca627c96f9b.CSV
+0fb7d70a-cb1d-47d3-9f2b-5ca627c96f9b
+
+3259: reading 3aa1607f-8d97-4b96-bce8-646c0d4d70f6.CSV
+3aa1607f-8d97-4b96-bce8-646c0d4d70f6
+
+3260: reading f8d08cff-7f6d-4b93-90ed-7e1fdab1611f.CSV
+f8d08cff-7f6d-4b93-90ed-7e1fdab1611f
+
+3261: reading c73b1ffb-9f91-4fb2-b947-a545bd96dde5.CSV
+c73b1ffb-9f91-4fb2-b947-a545bd96dde5
+
+3262: reading 144d6877-c613-4e6a-8dbc-866ae2327447.CSV
+144d6877-c613-4e6a-8dbc-866ae2327447
+
+3263: reading 6e513213-753e-4225-967f-088215bd1141.CSV
+ERROR reading tables/6e513213-753e-4225-967f-088215bd1141.CSV: field larger than field limit (131072)
+
+3264: reading cf54f45a-f0b4-434c-b0b6-186fcb7b4d8a.CSV
+cf54f45a-f0b4-434c-b0b6-186fcb7b4d8a
+
+3265: reading 8b4fa06d-5d6c-4fe6-9e24-9e487e6609c6.XLS
+8b4fa06d-5d6c-4fe6-9e24-9e487e6609c6
+
+3266: reading 4aca3e05-13f3-4790-9b23-34bd736284e4.CSV
+4aca3e05-13f3-4790-9b23-34bd736284e4
+
+3267: reading b99c356e-790c-4b78-b3f1-c391d7786bdc.CSV
+b99c356e-790c-4b78-b3f1-c391d7786bdc
+
+3268: reading 2f990c37-a04d-4b49-b751-0767c75bf662.CSV
+2f990c37-a04d-4b49-b751-0767c75bf662
+
+3269: reading 274f7cf3-2623-4e96-aa6b-e50c5bf62ad6.CSV
+274f7cf3-2623-4e96-aa6b-e50c5bf62ad6
+
+3270: reading 6f1766fd-5dc3-49f6-8b57-73ca0673d843.CSV
+6f1766fd-5dc3-49f6-8b57-73ca0673d843
+
+3271: reading cfb98208-a0fd-43ac-a46f-303489d47866.CSV
+cfb98208-a0fd-43ac-a46f-303489d47866
+
+3272: reading 8b0f74d2-e6d6-4e64-ac97-a6492519264a.CSV
+8b0f74d2-e6d6-4e64-ac97-a6492519264a
+
+3273: reading 52c22aaa-33ad-4b9b-8c6d-0c1e32ab2f6a.CSV
+52c22aaa-33ad-4b9b-8c6d-0c1e32ab2f6a
+
+3274: reading 9068156e-8a01-4776-a3f4-ceebfe1c4bbe.CSV
+9068156e-8a01-4776-a3f4-ceebfe1c4bbe
+
+3275: reading 0fbd300d-d680-4a40-8893-5bfecfbde4a1.CSV
+0fbd300d-d680-4a40-8893-5bfecfbde4a1
+
+3276: reading d6ac228b-dcaa-487c-b101-c996d187d551.CSV
+d6ac228b-dcaa-487c-b101-c996d187d551
+
+3277: reading f8ac5dae-555d-464b-bf5f-04bbc62e78b1.XLS
+f8ac5dae-555d-464b-bf5f-04bbc62e78b1
+
+3278: reading eb6aaa33-db06-47e1-b549-2a2a4ba257a3.CSV
+eb6aaa33-db06-47e1-b549-2a2a4ba257a3
+
+3279: reading a509eab4-93c0-4b36-9b25-d23d4c0388d4.CSV
+a509eab4-93c0-4b36-9b25-d23d4c0388d4
+
+3280: reading df81f72d-af40-4988-953a-71b2c2057809.CSV
+df81f72d-af40-4988-953a-71b2c2057809
+
+3281: reading e259477b-1dfb-410c-89dc-5227c2847195.CSV
+IGNORE reading tables/e259477b-1dfb-410c-89dc-5227c2847195.CSV: unexpected end of data
+
+3282: reading af061ec3-a80e-4843-86e2-153dc68fe36b.CSV
+af061ec3-a80e-4843-86e2-153dc68fe36b
+
+3283: reading 7ce2f0dd-e7ef-4ecd-914e-dcbda8c804e6.XLSX
+7ce2f0dd-e7ef-4ecd-914e-dcbda8c804e6
+
+3284: reading 254d0dda-5dc2-4408-8950-d181a45bcdfd.CSV
+IGNORE reading tables/254d0dda-5dc2-4408-8950-d181a45bcdfd.CSV: File is not a zip file
+
+3285: reading 30350639-ccf4-44a9-b113-49d98d60eb8f.CSV
+30350639-ccf4-44a9-b113-49d98d60eb8f
+
+3286: reading e7a828b8-dcf3-4bbf-a75b-a0ba31f74575.CSV
+e7a828b8-dcf3-4bbf-a75b-a0ba31f74575
+
+3287: reading 770c51c3-f4a7-4bb7-a99e-3246fc2dde15.XLS
+770c51c3-f4a7-4bb7-a99e-3246fc2dde15
+
+3288: reading c2a4a49b-dd5f-4de2-94b9-f12ba0d06bcb.CSV
+c2a4a49b-dd5f-4de2-94b9-f12ba0d06bcb
+
+3289: reading 0c0d641a-395b-4efe-b49d-b3b27e783168.CSV
+0c0d641a-395b-4efe-b49d-b3b27e783168
+
+3290: reading cfd54dfb-cc07-4699-912d-6f2ca7239fd9.CSV
+cfd54dfb-cc07-4699-912d-6f2ca7239fd9
+
+3291: reading 2a372a99-f418-46e9-aee9-01df7d7b61e8.CSV
+2a372a99-f418-46e9-aee9-01df7d7b61e8
+
+3292: reading 1f2684ae-dba5-4eda-b992-c8b1019228b0.CSV
+1f2684ae-dba5-4eda-b992-c8b1019228b0
+
+3293: reading a4139221-bb54-4812-bac5-d48c99c3b339.CSV
+a4139221-bb54-4812-bac5-d48c99c3b339
+
+3294: reading 6ab78a56-9ab4-4aed-8843-309c42e603ca.CSV

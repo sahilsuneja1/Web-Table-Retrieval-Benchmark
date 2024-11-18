@@ -1,0 +1,2311 @@
+PID: 1696176 num_procs: 8 proc_id: 3
+0: reading 601fc802-96e1-4bf3-8a44-9527fa7411f1.CSV
+601fc802-96e1-4bf3-8a44-9527fa7411f1
+
+2: reading 6021a796-f2ef-4dbc-bb2e-c1a9c8418bce.CSV
+6021a796-f2ef-4dbc-bb2e-c1a9c8418bce
+
+3: reading 6022249a-9dfe-42dc-991e-b1410cd145e2.XLSX
+6022249a-9dfe-42dc-991e-b1410cd145e2
+
+4: reading 6022647f-c3fb-4727-8a3e-1e5c03912a24.CSV
+6022647f-c3fb-4727-8a3e-1e5c03912a24
+
+5: reading 60259e24-831f-453e-a18d-dc82c27877d7.XLSX
+IGNORE reading tables/60259e24-831f-453e-a18d-dc82c27877d7.XLSX: Expected 6 fields in line 6, saw 7
+
+7: reading 6026ac92-8257-42f8-9751-1f20d68844bb.CSV
+6026ac92-8257-42f8-9751-1f20d68844bb
+
+8: reading 6027dc3e-6c7a-448e-aee1-e317c8e4229c.CSV
+6027dc3e-6c7a-448e-aee1-e317c8e4229c
+
+9: reading 602ac1ec-3492-4ec6-bf46-221c9c1a1d3e.CSV
+602ac1ec-3492-4ec6-bf46-221c9c1a1d3e
+
+10: reading 602adeda-bf27-472d-9e75-71f0b97c8ae6.CSV
+602adeda-bf27-472d-9e75-71f0b97c8ae6
+
+11: reading 602c798e-2c8c-4a0f-8d2b-97610bf40c07.CSV
+IGNORE reading tables/602c798e-2c8c-4a0f-8d2b-97610bf40c07.CSV: Expected 21 fields in line 3, saw 25
+
+12: reading 603345df-efd1-454e-af39-ac284879573e.XLS
+IGNORE: Can't read file tables/603345df-efd1-454e-af39-ac284879573e.XLS; None filetype
+
+13: reading 60344f0b-e10e-469d-a746-41e6cbb6aeaa.CSV
+60344f0b-e10e-469d-a746-41e6cbb6aeaa
+
+14: reading 6034cf3a-c491-49e3-a44a-7d946b581fc6.CSV
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+6034cf3a-c491-49e3-a44a-7d946b581fc6
+
+15: reading 6036bb25-c758-45cc-b0ee-f6a8cd4a96d8.CSV
+IGNORE reading tables/6036bb25-c758-45cc-b0ee-f6a8cd4a96d8.CSV: '"' expected after '"'
+
+16: reading 603a8d98-c917-4231-a27f-59df93d170fd.CSV
+603a8d98-c917-4231-a27f-59df93d170fd
+
+20: reading 603debd5-c7ca-4bbd-bdca-fd379bf6b7e7.CSV
+603debd5-c7ca-4bbd-bdca-fd379bf6b7e7
+
+21: reading 60406ff4-bffe-4356-bff1-09eadccda194.CSV
+60406ff4-bffe-4356-bff1-09eadccda194
+
+22: reading 6043a3c7-58a8-468c-af54-ad98c9a0e795.CSV
+IGNORE reading tables/6043a3c7-58a8-468c-af54-ad98c9a0e795.CSV: ' ' expected after '"'
+
+25: reading 604806e3-ba9c-4291-af2f-089c079b17ce.CSV
+604806e3-ba9c-4291-af2f-089c079b17ce
+
+26: reading 60499f89-7f4e-491c-af88-339d485476a8.CSV
+60499f89-7f4e-491c-af88-339d485476a8
+
+28: reading 604e5bfd-a939-49d0-95e8-4ea1fdea583c.CSV
+604e5bfd-a939-49d0-95e8-4ea1fdea583c
+
+29: reading 604fd6ab-17eb-4167-b3d5-3411f0fc4bfb.CSV
+IGNORE: Can't read file ./tmpds1knnu3/ODPF_4_HS6XDesc.txt; None filetype
+IGNORE: Can't read file ./tmpds1knnu3/Note aux utilisateurs.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmpds1knnu3/ODPF_2_HS8Desc.txt; None filetype
+604fd6ab-17eb-4167-b3d5-3411f0fc4bfb
+IGNORE: Can't read file ./tmpds1knnu3/Note to User.docx; Unsupported filetype: docx
+604fd6ab-17eb-4167-b3d5-3411f0fc4bfb
+604fd6ab-17eb-4167-b3d5-3411f0fc4bfb
+IGNORE: Can't read file ./tmpds1knnu3/ODPF_5_HS2Desc.txt; None filetype
+
+30: reading 605028e4-028b-4681-a421-cdc93f2f28c4.CSV
+605028e4-028b-4681-a421-cdc93f2f28c4
+
+31: reading 60540a70-33d6-4fc4-b188-95507cb52a31.CSV
+IGNORE reading tables/60540a70-33d6-4fc4-b188-95507cb52a31.CSV: Error tokenizing data. C error: Expected 1 fields in line 9, saw 2
+
+
+32: reading 60565ccb-8014-4f62-95fe-5628cb7fded4.CSV
+60565ccb-8014-4f62-95fe-5628cb7fded4
+
+34: reading 605a53e5-55eb-4c72-ba3f-27a8217c8aba.CSV
+605a53e5-55eb-4c72-ba3f-27a8217c8aba
+
+35: reading 605a7f18-21cb-4860-94ca-4eb33fe38c92.CSV
+605a7f18-21cb-4860-94ca-4eb33fe38c92
+
+36: reading 605c491c-453e-4b6f-afa1-4d699e093f57.CSV
+605c491c-453e-4b6f-afa1-4d699e093f57
+
+38: reading 6062aeee-88b9-4468-bc37-fd923310f1f5.CSV
+6062aeee-88b9-4468-bc37-fd923310f1f5
+
+39: reading 60630ba6-6884-433d-a75b-f9e442bfa89c.CSV
+60630ba6-6884-433d-a75b-f9e442bfa89c
+
+40: reading 6064a097-3ff3-4462-957d-bd6880a00a33.CSV
+6064a097-3ff3-4462-957d-bd6880a00a33
+
+41: reading 60650ba0-9890-4e2e-8a1a-ab763bc7e37a.CSV
+60650ba0-9890-4e2e-8a1a-ab763bc7e37a
+
+42: reading 6066859f-65f9-4e75-9c96-59b798035c9c.CSV
+6066859f-65f9-4e75-9c96-59b798035c9c
+
+43: reading 606817e4-c984-4f82-9e45-cc687e45ad48.CSV
+606817e4-c984-4f82-9e45-cc687e45ad48
+
+44: reading 606848cf-6077-4492-9149-2487022d262a.CSV
+606848cf-6077-4492-9149-2487022d262a
+
+45: reading 6068b962-6dbd-4d95-85a6-4bf9b82cdb56.CSV
+6068b962-6dbd-4d95-85a6-4bf9b82cdb56
+
+46: reading 6068d827-20c8-4795-a5b2-20c5b470c1a4.CSV
+6068d827-20c8-4795-a5b2-20c5b470c1a4
+
+47: reading 6068e3c2-475c-4ce0-a97c-7b6d6e898ace.CSV
+IGNORE reading Tables: [Errno 21] Is a directory: './tmpgn2qyl_w/Tables'
+
+48: reading 606ac923-eb36-4582-a99c-f7b521f3ce5f.CSV
+606ac923-eb36-4582-a99c-f7b521f3ce5f
+
+49: reading 606ace35-fa08-4dc9-9a69-8247d9102ff9.CSV
+606ace35-fa08-4dc9-9a69-8247d9102ff9
+
+50: reading 606ceff8-d403-4b32-824b-78b62c603003.XLS
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done#A2.12_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done#A2.12_-_done#A2.13_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done#A2.12_-_done#A2.13_-_done#A2.14_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done#A2.12_-_done#A2.13_-_done#A2.14_-_done#A2.15_-_done
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done#A2.12_-_done#A2.13_-_done#A2.14_-_done#A2.15_-_done#A2.16
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done#A2.12_-_done#A2.13_-_done#A2.14_-_done#A2.15_-_done#A2.16#A2.17
+606ceff8-d403-4b32-824b-78b62c603003#A2.1_-_done#A2.2_-_done#A2.3_-_done#A2.4_-_done#A2.5_-_done#A2.6_-_done#A2.7_-_done#A2.7B#A2.8_-_done#A2.9_-_done#A2.10_-_done#A2.11_-_done#A2.12_-_done#A2.13_-_done#A2.14_-_done#A2.15_-_done#A2.16#A2.17#A2.18
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done#Chart_2b_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done#Chart_2b_-_done#Table_1_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done#Chart_2b_-_done#Table_1_-_done#Chart_3a_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done#Chart_2b_-_done#Table_1_-_done#Chart_3a_-_done#Chart_3b_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done#Chart_2b_-_done#Table_1_-_done#Chart_3a_-_done#Chart_3b_-_done#Chart_4_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done#Chart_2b_-_done#Table_1_-_done#Chart_3a_-_done#Chart_3b_-_done#Chart_4_-_done#Chart_5a_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1a_-_done#Chart_1b_-_done#Chart_2a_-_done#Chart_2b_-_done#Table_1_-_done#Chart_3a_-_done#Chart_3b_-_done#Chart_4_-_done#Chart_5a_-_done#Chart_5b_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b#Table_A1.1_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b#Table_A1.1_-_done#Table_A1.2_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b#Table_A1.1_-_done#Table_A1.2_-_done#Chart_A1.15a_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b#Table_A1.1_-_done#Table_A1.2_-_done#Chart_A1.15a_-_done#Chart_A1.15b_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b#Table_A1.1_-_done#Table_A1.2_-_done#Chart_A1.15a_-_done#Chart_A1.15b_-_done#Chart_A1.16_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b#Table_A1.1_-_done#Table_A1.2_-_done#Chart_A1.15a_-_done#Chart_A1.15b_-_done#Chart_A1.16_-_done#Chart_A1.17a_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_A1.1a#Chart_A1.1b#Chart_A1.2a_(employment)#Chart_A1.2a_(unemployment)#Chart_A1.2b#Chart_A1.3a#Chart_A1.3b#Chart_A1.4a#Chart_A1.4b#Chart_A1.5a#Chart_A1.5b#Chart_A1.6a#Chart_A1.6b#Chart_A1.7a#Chart_A1.7b#Chart_A1.8#Chart_A1.9a#Chart_A1.9b#Chart_A1.10a#Chart_A1.10b#Chart_A1.11a#Chart_A1.11b#Chart_A1.12a#Chart_A1.12b#Chart_A1.13a#Chart_A1.13b#Chart_A1.14a#Chart_A1.14b#Table_A1.1_-_done#Table_A1.2_-_done#Chart_A1.15a_-_done#Chart_A1.15b_-_done#Chart_A1.16_-_done#Chart_A1.17a_-_done#Chart_A1.17b_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done#Chart_5.6_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done#Chart_5.6_-_done#Chart_5.7_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done#Chart_5.6_-_done#Chart_5.7_-_Done#Chart_5.8_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done#Chart_5.6_-_done#Chart_5.7_-_Done#Chart_5.8_-_Done#Chart_5.9_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done#Chart_5.6_-_done#Chart_5.7_-_Done#Chart_5.8_-_Done#Chart_5.9_-_done#Chart_5.10a_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done#Chart_5.6_-_done#Chart_5.7_-_Done#Chart_5.8_-_Done#Chart_5.9_-_done#Chart_5.10a_-_Done#Chart_5.10b_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_5.1_-_done#Chart_5.2_-_done#Chart_5.3_-_done#Chart_5.4_-_done#Chart_5.5_-_done#Chart_5.6_-_done#Chart_5.7_-_Done#Chart_5.8_-_Done#Chart_5.9_-_done#Chart_5.10a_-_Done#Chart_5.10b_-_Done#Figure_5.12_Women_on_the_Bench
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done#Chart_1.5_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done#Chart_1.5_-_Done#Chart_1.6a_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done#Chart_1.5_-_Done#Chart_1.6a_-_done#Chart_1.6b_-_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done#Chart_1.5_-_Done#Chart_1.6a_-_done#Chart_1.6b_-_done#Chart_1.7_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done#Chart_1.5_-_Done#Chart_1.6a_-_done#Chart_1.6b_-_done#Chart_1.7_-_Done#Chart_1.8_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done#Chart_1.5_-_Done#Chart_1.6a_-_done#Chart_1.6b_-_done#Chart_1.7_-_Done#Chart_1.8_done#Table_1.1_done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_1.1a_done#Chart_1.1b_done#Chart_1.2_done#Chart_1.3_done#Chart_1.4_done#Chart_1.5_-_Done#Chart_1.6a_-_done#Chart_1.6b_-_done#Chart_1.7_-_Done#Chart_1.8_done#Table_1.1_done#Chapter_1__Growth_
+606ceff8-d403-4b32-824b-78b62c603003
+606ceff8-d403-4b32-824b-78b62c603003#A3.1
+606ceff8-d403-4b32-824b-78b62c603003#A3.1#A3.2
+606ceff8-d403-4b32-824b-78b62c603003#A3.1#A3.2#A3.3
+606ceff8-d403-4b32-824b-78b62c603003#A3.1#A3.2#A3.3#A3.4
+606ceff8-d403-4b32-824b-78b62c603003#A3.1#A3.2#A3.3#A3.4#A3.5
+606ceff8-d403-4b32-824b-78b62c603003#Chart_4.1a_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_4.1a_-_Done#Chart_4.1b_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Chart_4.1a_-_Done#Chart_4.1b_-_Done#_Chapter_4_-_Advancement
+606ceff8-d403-4b32-824b-78b62c603003#Table_3.1_-_Done
+606ceff8-d403-4b32-824b-78b62c603003#Table_3.1_-_Done#Chapter_3_-_Reconciliation
+
+51: reading 606e11ef-85f3-4266-a629-34679a37acc4.CSV
+606e11ef-85f3-4266-a629-34679a37acc4
+
+53: reading 606f9c6d-13ca-4bb2-a38b-378718774745.CSV
+606f9c6d-13ca-4bb2-a38b-378718774745
+
+54: reading 60700c14-198c-4c22-b5d1-b413cfa7c432.CSV
+60700c14-198c-4c22-b5d1-b413cfa7c432
+
+57: reading 60769eb3-7e59-4751-830c-f056ee3aa188.XLSX
+60769eb3-7e59-4751-830c-f056ee3aa188#2012
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013#2014
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013#2014#2015
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013#2014#2015#2016
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013#2014#2015#2016#2017
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013#2014#2015#2016#2017#2018
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013#2014#2015#2016#2017#2018#2019
+60769eb3-7e59-4751-830c-f056ee3aa188#2012#2013#2014#2015#2016#2017#2018#2019#2020
+
+58: reading 6079729c-8d08-420b-8252-62c90146b652.CSV
+6079729c-8d08-420b-8252-62c90146b652
+
+59: reading 607a84ea-8782-45f4-9eac-9bb98cc62ee3.CSV
+607a84ea-8782-45f4-9eac-9bb98cc62ee3
+
+60: reading 607bc3f4-3546-441e-99c0-111002278de6.CSV
+607bc3f4-3546-441e-99c0-111002278de6
+
+61: reading 607c19d1-da61-4f98-b616-90111b932ea9.CSV
+607c19d1-da61-4f98-b616-90111b932ea9
+
+62: reading 607c981e-bddd-4b4a-8235-0b41fb6997d6.CSV
+607c981e-bddd-4b4a-8235-0b41fb6997d6
+
+63: reading 607cf497-5c36-45f1-83ca-15591849f040.CSV
+607cf497-5c36-45f1-83ca-15591849f040
+
+64: reading 60806716-a261-492f-9013-90e660880bc8.CSV
+60806716-a261-492f-9013-90e660880bc8
+
+66: reading 6081c33c-3dd5-41f8-bd69-f0a4d9839d68.XLS
+IGNORE reading tables/6081c33c-3dd5-41f8-bd69-f0a4d9839d68.XLS: File is not a zip file
+
+67: reading 608373a3-27e7-44d6-a684-fbfd97d98622.XLS
+608373a3-27e7-44d6-a684-fbfd97d98622
+
+68: reading 6085ffec-12c4-4e36-a0a4-39f014c1282d.CSV
+6085ffec-12c4-4e36-a0a4-39f014c1282d
+
+71: reading 6087cbea-36a2-42d8-9690-a3db6d92e087.CSV
+6087cbea-36a2-42d8-9690-a3db6d92e087
+
+72: reading 608b5c92-3e78-4acf-a9f6-a70e326a2dc8.CSV
+608b5c92-3e78-4acf-a9f6-a70e326a2dc8
+
+74: reading 608cb397-b836-46e7-be31-248a83beb66a.CSV
+608cb397-b836-46e7-be31-248a83beb66a
+
+75: reading 608d7c0f-0970-45d6-a295-eb0b026dd2fd.CSV
+608d7c0f-0970-45d6-a295-eb0b026dd2fd
+
+76: reading 608eb33c-351b-4826-878c-510dc45c32ea.CSV
+608eb33c-351b-4826-878c-510dc45c32ea
+
+78: reading 60918e97-aaba-41a4-b9a1-c6fc285dfdb6.CSV
+60918e97-aaba-41a4-b9a1-c6fc285dfdb6
+
+79: reading 6095b3d8-a791-4bd8-84c7-0db0b76d3214.CSV
+6095b3d8-a791-4bd8-84c7-0db0b76d3214
+
+80: reading 6095d175-3629-4036-835b-3e19fc7c3c16.CSV
+6095d175-3629-4036-835b-3e19fc7c3c16
+
+82: reading 609a8b53-7283-480b-b98c-43e31ae8f74f.CSV
+609a8b53-7283-480b-b98c-43e31ae8f74f
+
+88: reading 60ad3bf4-71ca-41db-96b7-eabc3a3e0423.XLSX
+60ad3bf4-71ca-41db-96b7-eabc3a3e0423
+
+89: reading 60ad5e58-c7e2-4c6e-8c4e-d2719ea9eb71.CSV
+60ad5e58-c7e2-4c6e-8c4e-d2719ea9eb71
+
+90: reading 60ad5f8e-6120-43ed-ba73-8ef53f61623d.XLSX
+60ad5f8e-6120-43ed-ba73-8ef53f61623d
+
+91: reading 60ad8b5f-a248-485a-99fe-e93033455b56.CSV
+60ad8b5f-a248-485a-99fe-e93033455b56
+
+92: reading 60af0915-247d-4765-aa52-2694ea2d5e38.CSV
+60af0915-247d-4765-aa52-2694ea2d5e38
+
+94: reading 60b2223c-fd66-4a2d-877f-6c1adff24f52.XLS
+60b2223c-fd66-4a2d-877f-6c1adff24f52
+
+96: reading 60b48d90-472d-4818-8b93-85717dc8fbca.CSV
+60b48d90-472d-4818-8b93-85717dc8fbca
+
+98: reading 60bc300f-9f0c-41a3-addb-b91c7ff9e49b.CSV
+60bc300f-9f0c-41a3-addb-b91c7ff9e49b
+
+100: reading 60c49627-ae69-4612-a68a-2b0e6b8e1b48.CSV
+60c49627-ae69-4612-a68a-2b0e6b8e1b48
+
+102: reading 60cf4a89-58ee-43df-9b1c-e2ad4c8ced81.CSV
+60cf4a89-58ee-43df-9b1c-e2ad4c8ced81
+
+103: reading 60cfb3f8-9646-4512-8bc6-9d017132ba60.CSV
+60cfb3f8-9646-4512-8bc6-9d017132ba60
+
+104: reading 60d5aa07-cfff-4b35-a355-949f063c96db.CSV
+60d5aa07-cfff-4b35-a355-949f063c96db
+
+105: reading 60d6994b-2e74-4e90-8a46-80c7c350a0fc.CSV
+60d6994b-2e74-4e90-8a46-80c7c350a0fc
+
+107: reading 60d852e4-847f-4fc8-ae29-2c9307fa287f.CSV
+60d852e4-847f-4fc8-ae29-2c9307fa287f
+
+108: reading 60d8944b-53f4-407c-9142-4f12f0897b00.CSV
+60d8944b-53f4-407c-9142-4f12f0897b00
+
+109: reading 60dad54a-87a1-45e7-9260-aa1a3dcc7667.CSV
+IGNORE reading tables/60dad54a-87a1-45e7-9260-aa1a3dcc7667.CSV: Error tokenizing data. C error: EOF inside string starting at row 45
+
+112: reading 60ebd2ff-990e-459b-84ff-23fd90e5023c.CSV
+60ebd2ff-990e-459b-84ff-23fd90e5023c
+
+113: reading 60ed4c43-87f5-4b18-9076-7fa3a1bedc0e.CSV
+60ed4c43-87f5-4b18-9076-7fa3a1bedc0e
+
+117: reading 60f31b22-cb2e-45c2-a164-f446b0363e29.CSV
+60f31b22-cb2e-45c2-a164-f446b0363e29
+
+118: reading 60f39a9c-72f6-4763-9c5e-b4e1292daaff.CSV
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+ERROR reading Table_3.csv: Error tokenizing data. C error: Expected 1 fields in line 28, saw 3
+
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+ERROR reading Tableau_3.csv: Expected 8 fields in line 28, saw 13
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+60f39a9c-72f6-4763-9c5e-b4e1292daaff
+
+119: reading 60f45dc8-e1f8-4752-af55-3a06b2cef960.CSV
+60f45dc8-e1f8-4752-af55-3a06b2cef960
+
+121: reading 60f5f627-9b1f-4d85-b8d4-84d74c957a70.CSV
+60f5f627-9b1f-4d85-b8d4-84d74c957a70
+
+122: reading 60f6e262-cf6c-4aa7-a197-4dcd2e874104.CSV
+IGNORE reading tables/60f6e262-cf6c-4aa7-a197-4dcd2e874104.CSV: Expected 21 fields in line 3, saw 25
+
+123: reading 60f78449-b4c1-4b2f-96bd-47f960dd08a0.CSV
+60f78449-b4c1-4b2f-96bd-47f960dd08a0
+
+124: reading 60f7f164-b065-4b4b-861d-5243e791b663.CSV
+60f7f164-b065-4b4b-861d-5243e791b663
+
+125: reading 60f8c858-3811-4706-877f-a195f010a0a1.CSV
+60f8c858-3811-4706-877f-a195f010a0a1
+
+126: reading 60fecc7b-aed6-43cf-80d4-f2572435504f.XLSX
+60fecc7b-aed6-43cf-80d4-f2572435504f#Table_52
+60fecc7b-aed6-43cf-80d4-f2572435504f#Table_52#Symbols
+
+127: reading 60ff8fba-8750-4c55-85cb-be7f6add8893.XLS
+60ff8fba-8750-4c55-85cb-be7f6add8893
+
+130: reading 6104da00-b2bc-4f0c-9bc2-3f0ebda67c99.CSV
+6104da00-b2bc-4f0c-9bc2-3f0ebda67c99
+
+131: reading 6105f29f-d2d0-418c-8c4a-959c61eaed43.CSV
+6105f29f-d2d0-418c-8c4a-959c61eaed43
+
+132: reading 6106480b-9286-41bd-ab06-7112d9841108.CSV
+6106480b-9286-41bd-ab06-7112d9841108
+
+133: reading 610649cb-c728-4527-ba9e-032974c6c106.CSV
+610649cb-c728-4527-ba9e-032974c6c106
+
+134: reading 61073e4d-64bb-4233-9442-56c31f746dea.CSV
+IGNORE reading AirwakeData_Case02b: [Errno 21] Is a directory: './tmp7265cpvs/AirwakeData_Case02b'
+
+135: reading 61099f7b-df3c-4a41-8bca-bcc7a4f580ed.CSV
+61099f7b-df3c-4a41-8bca-bcc7a4f580ed
+
+138: reading 610daf1a-eda2-4c3a-a45f-a7374cc76cc9.CSV
+610daf1a-eda2-4c3a-a45f-a7374cc76cc9
+
+139: reading 610eb936-bc22-4313-97d6-f2b646aa5972.CSV
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+610eb936-bc22-4313-97d6-f2b646aa5972
+
+140: reading 61114376-80e1-408c-a4b0-e5ea7d37a311.XLS
+61114376-80e1-408c-a4b0-e5ea7d37a311#Sodium_avec_hypertension
+61114376-80e1-408c-a4b0-e5ea7d37a311#Sodium_avec_hypertension#_Potassium_avec_hypertension_
+
+141: reading 61154315-25d3-4237-bdf9-5dd4ffc0d8d8.CSV
+61154315-25d3-4237-bdf9-5dd4ffc0d8d8
+
+142: reading 6115dd8c-077c-4000-85c4-b2a22bde995e.CSV
+6115dd8c-077c-4000-85c4-b2a22bde995e
+
+144: reading 6117f9a9-fc1c-41dd-aff7-22285b0f440e.CSV
+6117f9a9-fc1c-41dd-aff7-22285b0f440e
+
+145: reading 611972be-b957-4731-9f47-383900624186.CSV
+611972be-b957-4731-9f47-383900624186
+
+146: reading 611a0b33-75f2-47bc-8f12-6a5297976997.CSV
+611a0b33-75f2-47bc-8f12-6a5297976997
+
+147: reading 611a0fc4-3646-4060-965a-0995b443ce95.CSV
+611a0fc4-3646-4060-965a-0995b443ce95
+
+149: reading 611cf9ed-eca9-48ca-b00d-7c2a1b639278.XLS
+611cf9ed-eca9-48ca-b00d-7c2a1b639278
+
+150: reading 611d3bd6-e323-4ede-8146-2627f88158a5.CSV
+611d3bd6-e323-4ede-8146-2627f88158a5
+
+151: reading 611e2c1b-7129-44f4-bf00-553999c12ad9.CSV
+611e2c1b-7129-44f4-bf00-553999c12ad9
+
+152: reading 611e9a2a-797b-4811-8bd2-eab38868ce86.CSV
+611e9a2a-797b-4811-8bd2-eab38868ce86
+
+153: reading 611eb9d7-dcd4-4406-be7b-d002ec4730a8.XLSX
+611eb9d7-dcd4-4406-be7b-d002ec4730a8
+
+154: reading 611fda05-319c-4785-bb60-409526578290.CSV
+611fda05-319c-4785-bb60-409526578290
+
+157: reading 6124a289-e314-4d84-949e-4b0f1202cc14.CSV
+6124a289-e314-4d84-949e-4b0f1202cc14
+
+160: reading 612788d1-3e52-4604-b4fe-038e84e50641.CSV
+612788d1-3e52-4604-b4fe-038e84e50641
+
+163: reading 612a1873-a7c9-4736-9676-17a06a808de7.XLSX
+612a1873-a7c9-4736-9676-17a06a808de7#Tab_71
+612a1873-a7c9-4736-9676-17a06a808de7#Tab_71#Symbols
+
+165: reading 612e1d43-fd96-4520-b7bc-ff8b8f216c94.CSV
+612e1d43-fd96-4520-b7bc-ff8b8f216c94
+
+166: reading 612f269a-87df-4ea8-99e6-67413dfadcdf.CSV
+612f269a-87df-4ea8-99e6-67413dfadcdf
+
+167: reading 612ff4ad-f007-4a03-8d45-0516a244c4af.CSV
+612ff4ad-f007-4a03-8d45-0516a244c4af
+
+169: reading 6130fab2-4fbe-4d89-b62d-316e0217f088.XLSX
+6130fab2-4fbe-4d89-b62d-316e0217f088
+
+171: reading 613450a9-03ce-4d91-8ddd-2b4703c8b2cf.CSV
+613450a9-03ce-4d91-8ddd-2b4703c8b2cf
+
+172: reading 6135bd9a-ea60-49fe-b1c0-6dbb723e4c19.CSV
+6135bd9a-ea60-49fe-b1c0-6dbb723e4c19
+
+174: reading 61378554-e1ba-4175-aadb-822489fba254.CSV
+61378554-e1ba-4175-aadb-822489fba254
+
+176: reading 613fa309-4157-401f-9c81-c649de244d03.CSV
+613fa309-4157-401f-9c81-c649de244d03
+
+179: reading 6145e70f-3904-422f-92b0-15348f8c36a2.CSV
+6145e70f-3904-422f-92b0-15348f8c36a2
+
+180: reading 6146c19e-9030-4c64-8e29-d176f9245aec.CSV
+6146c19e-9030-4c64-8e29-d176f9245aec
+
+182: reading 614d011d-6b05-49b4-8b5a-30ad9900fccf.CSV
+614d011d-6b05-49b4-8b5a-30ad9900fccf
+
+183: reading 614d11f7-7a9c-47ea-83e9-116a27527de0.CSV
+614d11f7-7a9c-47ea-83e9-116a27527de0
+
+184: reading 614ef974-14fa-4f10-9c2a-d043540bfdeb.XLSX
+614ef974-14fa-4f10-9c2a-d043540bfdeb
+
+185: reading 614f33e6-89a2-4d13-a62c-9d5634184989.CSV
+IGNORE reading tables/614f33e6-89a2-4d13-a62c-9d5634184989.CSV: File is not a zip file
+
+187: reading 6153f465-a361-4221-922c-a90205b20a2b.CSV
+IGNORE reading tables/6153f465-a361-4221-922c-a90205b20a2b.CSV: Expected 20 fields in line 3, saw 25
+
+189: reading 61553017-2dfc-4dd0-9843-b8cbf9d081fd.CSV
+61553017-2dfc-4dd0-9843-b8cbf9d081fd
+
+191: reading 615b4aa0-ab65-4ae9-9b13-55794a500dd2.CSV
+615b4aa0-ab65-4ae9-9b13-55794a500dd2
+
+192: reading 615bfd12-14e0-42ce-8666-e605965d3b18.CSV
+615bfd12-14e0-42ce-8666-e605965d3b18
+
+193: reading 615c0389-8649-4176-b16e-c06e45890b92.CSV
+615c0389-8649-4176-b16e-c06e45890b92
+
+194: reading 615c13c0-c38d-40f0-ba8d-ec4e16b2d26e.XLSX
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16#grapes_06,11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16#grapes_06,11&16#peach_06,11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16#grapes_06,11&16#peach_06,11&16#pears_06,_11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16#grapes_06,11&16#peach_06,11&16#pears_06,_11&16#plums&prunes_06,_11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16#grapes_06,11&16#peach_06,11&16#pears_06,_11&16#plums&prunes_06,_11&16#sweetcherry_06,_11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16#grapes_06,11&16#peach_06,11&16#pears_06,_11&16#plums&prunes_06,_11&16#sweetcherry_06,_11&16#sourcherry_06,_11&16
+615c13c0-c38d-40f0-ba8d-ec4e16b2d26e#apple_06,11&16#apricots_06,11&16#grapes_06,11&16#peach_06,11&16#pears_06,_11&16#plums&prunes_06,_11&16#sweetcherry_06,_11&16#sourcherry_06,_11&16#strawberry_06,_11&16
+
+195: reading 615dc400-ba70-43d8-ba37-fd239a993283.CSV
+615dc400-ba70-43d8-ba37-fd239a993283
+
+197: reading 61604098-61ad-4795-9f1b-4cc059966fb6.XLSX
+ERROR reading XLSX: [Errno 21] Is a directory: './tmp4m796yf6/XLSX'
+
+199: reading 6160dc5f-f220-4c37-b3d8-6682e8aa1eb6.CSV
+6160dc5f-f220-4c37-b3d8-6682e8aa1eb6
+
+200: reading 616506d4-5fe9-4359-91ed-718296fc21f1.CSV
+616506d4-5fe9-4359-91ed-718296fc21f1
+
+201: reading 6167406a-7888-4e2f-ac0b-d0ca920dc3b3.CSV
+6167406a-7888-4e2f-ac0b-d0ca920dc3b3
+
+203: reading 616945d8-29a2-4b58-a9e2-4ce5d604472c.CSV
+616945d8-29a2-4b58-a9e2-4ce5d604472c
+
+204: reading 616aa168-ee51-4639-b8d7-29e93aa72532.CSV
+616aa168-ee51-4639-b8d7-29e93aa72532
+
+205: reading 616d90b2-d28e-4670-a356-bc324903136d.CSV
+616d90b2-d28e-4670-a356-bc324903136d
+
+207: reading 616eea37-fd0f-4e46-8426-9dbb59a7e36e.CSV
+616eea37-fd0f-4e46-8426-9dbb59a7e36e
+
+208: reading 616f1015-7889-422c-9501-482c846dafec.CSV
+616f1015-7889-422c-9501-482c846dafec
+
+210: reading 6173d497-42a2-4660-b882-e5790241e310.CSV
+6173d497-42a2-4660-b882-e5790241e310
+
+212: reading 6178c646-754c-46aa-937c-88d0726a8902.CSV
+6178c646-754c-46aa-937c-88d0726a8902
+
+216: reading 617af85a-3d9f-4498-bdf9-d966fe1815f5.CSV
+617af85a-3d9f-4498-bdf9-d966fe1815f5
+
+217: reading 617bd929-d2e3-4289-b59c-7b160ed921f5.XLSX
+617bd929-d2e3-4289-b59c-7b160ed921f5
+
+220: reading 617ea650-9aec-4f2c-932f-8f2cd4c189f5.CSV
+617ea650-9aec-4f2c-932f-8f2cd4c189f5
+
+221: reading 617f132c-4bc6-4ad3-9cd7-57505d005ecc.CSV
+617f132c-4bc6-4ad3-9cd7-57505d005ecc
+
+222: reading 61819b22-157c-494a-9fcd-a4b3b1184e11.CSV
+61819b22-157c-494a-9fcd-a4b3b1184e11
+
+224: reading 61848b59-a5dc-46cc-bf64-d4767c317c2a.XLSX
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University#University_Program
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University#University_Program#Colleges
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University#University_Program#Colleges#College_Program
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University#University_Program#Colleges#College_Program#PCC
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University#University_Program#Colleges#College_Program#PCC#PCC_Program
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University#University_Program#Colleges#College_Program#PCC#PCC_Program#Other
+61848b59-a5dc-46cc-bf64-d4767c317c2a#Sector_Summary#University#University_Program#Colleges#College_Program#PCC#PCC_Program#Other#Other_by_Program
+
+227: reading 618afc00-1071-4510-aa2e-d3c8aceaac95.CSV
+618afc00-1071-4510-aa2e-d3c8aceaac95
+
+228: reading 618b102a-e3a2-4566-9d9f-514d9753aa71.CSV
+618b102a-e3a2-4566-9d9f-514d9753aa71
+
+230: reading 618c013c-591d-4cf0-bbfb-62af75e2c703.CSV
+618c013c-591d-4cf0-bbfb-62af75e2c703
+
+233: reading 618e38f7-cfaf-4d4e-9769-b079c3a0ddd7.CSV
+IGNORE: Can't read file ./tmpyda1_xbc/Note aux utilisateurs.docx; Unsupported filetype: docx
+618e38f7-cfaf-4d4e-9769-b079c3a0ddd7
+IGNORE: Can't read file ./tmpyda1_xbc/ODPF_3_HS6MDesc.txt; None filetype
+618e38f7-cfaf-4d4e-9769-b079c3a0ddd7
+IGNORE: Can't read file ./tmpyda1_xbc/Note to User.docx; Unsupported filetype: docx
+IGNORE: Can't read file ./tmpyda1_xbc/ODPF_5_HS2Desc.txt; None filetype
+618e38f7-cfaf-4d4e-9769-b079c3a0ddd7
+IGNORE: Can't read file ./tmpyda1_xbc/ODPF_1_HS10Desc.txt; None filetype
+
+234: reading 618e4f8f-fd22-4d67-8e62-ce71c72e55e1.CSV
+618e4f8f-fd22-4d67-8e62-ce71c72e55e1
+
+235: reading 61906440-3d44-4799-a1b9-91857478c37b.CSV
+61906440-3d44-4799-a1b9-91857478c37b
+
+237: reading 61940c3a-5518-454a-ae4c-b2ead984508c.CSV
+61940c3a-5518-454a-ae4c-b2ead984508c
+
+239: reading 61958c84-0994-4e67-899f-2dd5316e7d8e.CSV
+61958c84-0994-4e67-899f-2dd5316e7d8e
+
+240: reading 6196e113-3839-4e8e-99e9-1242c5e8ddb9.CSV
+6196e113-3839-4e8e-99e9-1242c5e8ddb9
+
+241: reading 61971902-ac10-41bf-ab15-45766d1f80a7.CSV
+61971902-ac10-41bf-ab15-45766d1f80a7
+
+242: reading 619adfe8-72a6-4d2a-a82b-09dbd08dde2d.CSV
+619adfe8-72a6-4d2a-a82b-09dbd08dde2d
+
+243: reading 619da360-42df-49c4-a35c-5b31f99e5f23.CSV
+IGNORE reading tables/619da360-42df-49c4-a35c-5b31f99e5f23.CSV: File is not a zip file
+
+244: reading 619dc2ad-70e6-4b5d-9f47-68888d47c06d.CSV
+619dc2ad-70e6-4b5d-9f47-68888d47c06d
+
+245: reading 619f7335-85ce-43d4-beef-07b33654cfc8.CSV
+IGNORE reading tables/619f7335-85ce-43d4-beef-07b33654cfc8.CSV: [Errno 22] Invalid argument
+
+246: reading 619fd521-660b-4eef-b36a-e0e3f156702d.CSV
+619fd521-660b-4eef-b36a-e0e3f156702d
+
+248: reading 61a1551d-08d1-4c3e-b1e4-c6bb10ae0242.CSV
+61a1551d-08d1-4c3e-b1e4-c6bb10ae0242
+
+249: reading 61a29ede-240f-4358-a5e9-1c12caab8bcf.CSV
+61a29ede-240f-4358-a5e9-1c12caab8bcf
+
+250: reading 61a2c975-46f5-4517-b140-3337a3578934.CSV
+61a2c975-46f5-4517-b140-3337a3578934
+
+252: reading 61a5be19-1bef-4cc8-b09c-7017a91ea188.CSV
+61a5be19-1bef-4cc8-b09c-7017a91ea188
+
+253: reading 61a79d9b-5fa3-4b81-9a43-de803cfcf122.CSV
+61a79d9b-5fa3-4b81-9a43-de803cfcf122
+
+254: reading 61a7c798-aebc-4537-bb60-d44ce20576d1.CSV
+61a7c798-aebc-4537-bb60-d44ce20576d1
+
+255: reading 61aa3332-a8f5-4f21-a6b9-5e4099af1965.CSV
+61aa3332-a8f5-4f21-a6b9-5e4099af1965
+
+256: reading 61aa850e-47b5-4de8-8341-f53d14669906.CSV
+61aa850e-47b5-4de8-8341-f53d14669906
+
+258: reading 61ae37ba-855d-4f81-8674-0658ab56f29d.CSV
+ERROR reading tables/61ae37ba-855d-4f81-8674-0658ab56f29d.CSV: Error tokenizing data. C error: Expected 1 fields in line 2, saw 3
+
+
+259: reading 61aec86b-f859-4a75-9ea2-a60e8976993d.CSV
+61aec86b-f859-4a75-9ea2-a60e8976993d
+
+260: reading 61b2b443-54fd-4b82-bbc5-da60297feb88.CSV
+61b2b443-54fd-4b82-bbc5-da60297feb88
+
+261: reading 61b747e9-90de-4b88-bc82-7e29f7ef099e.XLSX
+61b747e9-90de-4b88-bc82-7e29f7ef099e
+
+263: reading 61bac685-3307-4127-9006-7b8f330a9dd2.CSV
+61bac685-3307-4127-9006-7b8f330a9dd2
+
+265: reading 61c14e4f-1e82-4919-9fca-49dfcacded5a.CSV
+61c14e4f-1e82-4919-9fca-49dfcacded5a
+
+267: reading 61c45007-5872-4e7d-9e08-3b1194e39295.CSV
+61c45007-5872-4e7d-9e08-3b1194e39295
+
+268: reading 61c46d0e-2c6f-4367-8da9-ff47b529f1d9.CSV
+61c46d0e-2c6f-4367-8da9-ff47b529f1d9
+
+269: reading 61ca4f57-e54f-4a9d-9aa5-05652c352af2.CSV
+61ca4f57-e54f-4a9d-9aa5-05652c352af2
+
+270: reading 61ccc260-abd1-4d69-91fb-e2a2a4cde7af.CSV
+61ccc260-abd1-4d69-91fb-e2a2a4cde7af
+
+271: reading 61ce0d9c-c49d-4de9-8192-16facc2333ed.CSV
+61ce0d9c-c49d-4de9-8192-16facc2333ed
+
+272: reading 61ce58f3-cf60-4208-a5c7-676255f3e942.CSV
+61ce58f3-cf60-4208-a5c7-676255f3e942
+
+275: reading 61d0dcc8-b984-4392-95cb-a751531bc3c8.XLS
+61d0dcc8-b984-4392-95cb-a751531bc3c8
+
+279: reading 61d34397-b8f9-4014-b8c5-160772401c5f.CSV
+61d34397-b8f9-4014-b8c5-160772401c5f
+
+281: reading 61d56e98-3240-433b-b0d3-a1d675148bc8.CSV
+61d56e98-3240-433b-b0d3-a1d675148bc8
+
+282: reading 61d5bc7e-b28c-44d2-be63-835df83610e8.CSV
+61d5bc7e-b28c-44d2-be63-835df83610e8
+
+283: reading 61d68612-cef2-4eca-b0c7-774834f90be6.CSV
+61d68612-cef2-4eca-b0c7-774834f90be6
+
+284: reading 61d9ee65-f8d6-41f3-ac66-5b9c72d6aa06.CSV
+IGNORE reading tables/61d9ee65-f8d6-41f3-ac66-5b9c72d6aa06.CSV: Expected 21 fields in line 3, saw 25
+
+285: reading 61e3caf4-f8de-48db-bae6-881d0e86ecb6.XLSX
+61e3caf4-f8de-48db-bae6-881d0e86ecb6
+
+287: reading 61e6e514-04ac-4016-84ac-4fc44152434c.CSV
+IGNORE reading tables/61e6e514-04ac-4016-84ac-4fc44152434c.CSV: ' ' expected after '"'
+
+288: reading 61e77235-2c35-4870-a1ad-c676a41c08d9.CSV
+61e77235-2c35-4870-a1ad-c676a41c08d9
+
+289: reading 61e7dd79-7778-4bb4-b66c-7951e2abc6c1.CSV
+IGNORE reading tables/61e7dd79-7778-4bb4-b66c-7951e2abc6c1.CSV: Error tokenizing data. C error: EOF inside string starting at row 70
+
+290: reading 61eb2780-1212-4793-9709-3d561b54d021.CSV
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ONEBMS_202201_102732363.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\NGWILD_202201_09321824.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CTVLIF_202201_160405771.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\2000SM_202201_105339532.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CANZ_202201_152017908.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBXFT_202201_120528783.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKCS_202201_10174636.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJMT_202201_120700171.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTV4_202201_154429905.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKTM_202201_130835692.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJCO_202201_144559756.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SALT_202201_101744255.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTV3_202201_154357894.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\WFNHD_202201_193655315.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHLF_202201_070835586.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TSN3_202201_132511711.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\RURAL_202201_153319801.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\AMITV_202201_105912426.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\HPITV_202201_14361767.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIVT_202201_135253166.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SNONE_202201_102739433.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJBRT_202201_130027971.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHISTO_202201_123806910.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBVT_202201_115814945.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CICA_202201_104655276.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DEJA_202201_135323648.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTV1_202201_15510540.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKWS_202201_203707982.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHAT_202201_012016651.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TELENO_202201_153905451.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ACCESS_202201_103046729.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFER_202201_130525246.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SNPAC_202201_23242646.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\COTT_202201_110851692.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SE04_202201_142459923.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKCW_202201_134935768.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKMI_202201_105328118.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ABORIH_202201_194432331.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CMET_202201_150038184.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TSN5_202201_132531432.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTM_202201_133632406.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SWIM_202201_195126202.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\PRIS_202201_100403706.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBCT_202201_090351457.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TSN_202201_134316482.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\NOOVO_202201_134157108.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CRAVE2_202201_113851925.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIMT_202201_142500212.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTK_202201_184727447.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBHT_202201_085041480.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKVU_202201_111440929.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TRV_202201_124805221.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CITS_202201_101245797.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\RDS_202201_102735765.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SE01_202201_141502786.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CEVASI_202201_210049349.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ARTV_202201_114700899.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKSA_202201_124553630.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKES_202201_102113783.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FIGHT_202201_113954437.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\LONE_202201_092636709.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFKS_202201_133043165.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STADIS_202201_213759661.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DSNYEN_202201_14134429.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\RDSINF_202201_103022827.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\OMAB_202201_141713745.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\LCN_202201_131828291.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TV5_202201_144139557.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SLVSC_202201_114425550.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STJUIC_202201_213851345.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTV2_202201_155123573.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STRETR_202201_165755814.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBAFT_202201_104413362.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\W_202201_104350645.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\BC1_202201_092504879.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFVS_202201_141428179.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CANALF_202201_123715410.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKPG_202201_160200489.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\RDI_202201_102724985.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKCK_202201_153830329.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SPTVA2_202201_212133545.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ZEST_202201_154544739.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STHITS_202201_213829392.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\LEAF_202201_111807144.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TLTOON_202201_095655857.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CRAVE3_202201_155723292.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FXX_202201_165651654.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFYK_202201_090124235.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBUT_202201_085923584.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SPARK_202201_17301175.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CARTN_202201_20181441.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBKT_202201_085140900.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFJC_202201_012314728.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DSNYXD_202201_165910121.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TDC_202201_113300451.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SNONT_202201_23253152.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DISSCI_202201_113158362.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKND_202201_105418132.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFGS_202201_132240998.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\UNIVN_202201_103132935.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHCH_202201_120445961.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DIY_202201_17572413.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ABORIN_202201_154459366.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIHF2_202201_103431744.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\HGTV_202201_100941559.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TANG_202201_133422688.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FAMCHA_202201_092923118.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJPM_202201_142734441.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\VAULT_202201_111943617.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STAMBI_202201_215233378.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SMITH_202201_125905464.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBAT_202201_084629710.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CICT_202201_173131601.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBOT_202201_085757830.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFKM_202201_140431759.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJDC_202201_141537229.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHLT_202201_140452147.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\OUTDR_202201_14485398.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFCM_202201_16540866.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ABORIW_202201_194638458.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBFT_202201_104836817.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHRO_202201_090156215.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\OTN1_202201_11435793.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFQC_202201_153750423.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJIL_202201_105247620.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIVI_202201_102947222.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTU_202201_090859340.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FUSE_202201_11070203.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFMT_202201_173048127.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHOT_202201_144909996.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\RAPT_202201_160854836.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SRC_202201_100836774.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\HBOCAN_202201_113911908.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJEO_202201_144916694.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CSCN_202201_165444357.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SHOWC_202201_104821231.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFJP_202201_131238100.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STLOUD_202201_165552195.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\YOOP_202201_145252497.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MMAX_202201_160717284.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ASIDE_202201_12515868.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\80SM_202201_110847489.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SN360_202201_134320268.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\NICK_202201_093324824.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CICC_202201_153942949.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STARZ2_202201_104609255.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJCB_202201_134731604.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFRS_202201_132141483.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TSN2_202201_133147553.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CMT_202201_20234370.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MTV1_202201_130717661.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MAGINO_202201_113255811.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKSH_202201_130600892.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIVM_202201_090216995.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\COOK_202201_203111563.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBWFT_202201_120112365.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TSN1_202201_132406474.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TCC_202201_131432137.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CITV_202201_19374968.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFRN6_202201_144353652.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TRESR_202201_134959650.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ESPN_202201_085610555.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFEM_202201_152735125.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\APL_202201_153108345.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBKFT_202201_105623384.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SERIEP_202201_152627703.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MUCHM_202201_152951391.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\BBCE_202201_110648382.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\EXP_202201_110644748.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MSET_202201_162103386.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SNWST_202201_235337312.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHNM_202201_161829179.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHBC_202201_101228495.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFCNL_202201_135444511.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJON_202201_13160141.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHMI_202201_09491206.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBLFT_202201_111723841.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STARZ1_202201_104513483.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\E!_202201_152844292.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SPRTVA_202201_211328563.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHEM_202201_134704273.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\NATUR_202201_111004201.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CVIE_202201_101342408.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBUFT_202201_114220811.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CANALD_202201_122916893.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\BNN_202201_075916213.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SNEST_202201_23272738.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DOCS_202201_090205310.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ASN_202201_103011153.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CPOP_202201_112714323.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBWT_202201_090005236.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHRGD_202201_092831918.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FXC_202201_155018800.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKAL_202201_160233255.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\RDS2_202201_102921799.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\RAZER_202201_221646840.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\THTV_202201_103837756.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\HIST_202201_095855948.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\VISION_202201_101442888.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CI_202201_200806215.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKCO_202201_144633136.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DSNYJR_202201_143136130.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFRE_202201_172733970.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKNY_202201_141416162.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FNTSY_202201_114040785.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFHD_202201_083154413.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\PRIDE_202201_105814235.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CTVSCI_202201_222130731.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHAU_202201_115050284.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHBX_202201_14150585.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CICI_202201_141351342.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\GINX_202201_173410374.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIII_202201_103557889.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\WEAT_202201_153049154.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFRN_202201_135536855.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBLT_202201_085343938.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBET_202201_084950670.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\OMON_202201_123321310.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CITL_202201_122419368.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CP24_202201_111023520.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKPR_202201_114250825.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJOH_202201_141315993.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\INVST_202201_114113573.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFSK_202201_100813856.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SE03_202201_143054314.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\YTV_202201_114500903.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\AMIFR_202201_11062006.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIHF_202201_174946228.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FAMJR_202201_113216732.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIIT_202201_10182601.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MVOLA_202201_110406795.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBMT_202201_085521782.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHAN_202201_165753650.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHNU_202201_102536766.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJNT_202201_113533457.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKWS1_202201_084112418.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTF_202201_093536867.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DISVEL_202201_112009877.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\NEWSW_202201_090241643.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKY_202201_141534867.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CITO_202201_141435865.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBRT_202201_092241337.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CIPA_202201_15391245.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MAKE_202201_12561517.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\LIFENT_202201_110442358.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBOFT_202201_113607813.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\FOOD_202201_083806605.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DIVA_202201_135526377.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBC_202201_084226223.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\HEART_202201_160528720.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBNT_202201_085700297.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHFD_202201_113231204.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\UNIS_202201_145444101.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TOON_202201_103603794.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKVR_202201_175245764.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\NGCE_202201_092721497.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SE02_202201_142957811.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\EURO_202201_143204848.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHEX02_202201_16350864.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CISA_202201_105121117.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHMG_202201_13204806.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\90SM_202201_110907915.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CAVE_202201_092340912.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CTVCOM_202201_120346350.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\INVDIS_202201_102115770.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CTVDRA_202201_113019473.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CJCH_202201_134810246.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DTOUR_202201_220115971.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ABORI_202201_154108547.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFTO_202201_142000746.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\TVADIK_202201_20141611.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\OWN_202201_093411265.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\70SM_202201_112039134.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\ELLEFI_202201_091244230.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHEX_202201_215953743.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKTV_202201_131328288.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\OMQC_202201_155421622.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKNO_202201_144614568.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CBXT_202201_090047684.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHWI_202201_095029503.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\OMBC_202201_164315604.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CRAVE1_202201_15565280.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\DSNYFR_202201_091659740.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFCF_202201_13470453.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\SATV_202201_161807332.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKEM_202201_160949507.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CGTV_202201_134509159.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CKLT_202201_135013365.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CHEK_202201_180516865.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFAP_202201_135348511.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CTVNC_202201_113101242.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFPL_202201_090002975.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CASA_202201_154241182.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\MOICIE_202201_091821848.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\STVIBE_202201_165851788.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CFCN_202201_092427778.log; None filetype
+IGNORE: Can't read file ./tmp5zaxzrdy/2022-01\CITY_202201_13502523.log; None filetype
+
+292: reading 61edd25b-56fb-49fe-adc1-470730b246ed.CSV
+61edd25b-56fb-49fe-adc1-470730b246ed
+
+293: reading 61edf8ff-9572-4aed-ae07-d6eae0aa1499.CSV
+61edf8ff-9572-4aed-ae07-d6eae0aa1499
+
+294: reading 61ee10e1-e568-47a7-a053-02dbc5110584.CSV
+61ee10e1-e568-47a7-a053-02dbc5110584
+
+295: reading 61f04bff-fd78-496d-89a1-28dfe125988f.CSV
+61f04bff-fd78-496d-89a1-28dfe125988f
+
+296: reading 61f204c5-c10e-499f-ad8a-9d319f6c4bde.XLSX
+61f204c5-c10e-499f-ad8a-9d319f6c4bde
+
+297: reading 61f455e9-c344-466e-b922-529835677778.CSV
+61f455e9-c344-466e-b922-529835677778
+
+298: reading 61f8d7d6-3688-43e3-a53d-7d84001bbb35.CSV
+61f8d7d6-3688-43e3-a53d-7d84001bbb35
+
+299: reading 61f9b491-9447-49ef-bdf4-d3c6b58d5f65.CSV
+61f9b491-9447-49ef-bdf4-d3c6b58d5f65
+
+300: reading 61fe1496-289f-490f-b1cc-0b48b78efad6.CSV
+61fe1496-289f-490f-b1cc-0b48b78efad6
+
+301: reading 61febf5d-43b4-4d66-b6a6-988816e49a3b.CSV
+61febf5d-43b4-4d66-b6a6-988816e49a3b
+
+302: reading 61ff1d76-0bff-4a6d-b33b-07b8b7c6aab6.CSV
+IGNORE reading tables/61ff1d76-0bff-4a6d-b33b-07b8b7c6aab6.CSV: Error tokenizing data. C error: Expected 1 fields in line 7, saw 7
+
+
+303: reading 6203414d-cd4b-4872-b486-aa40aa9915c0.XLS
+6203414d-cd4b-4872-b486-aa40aa9915c0
+
+304: reading 6205cff6-d64d-4a73-9b0a-606ae961c4c0.CSV
+6205cff6-d64d-4a73-9b0a-606ae961c4c0
+
+305: reading 6207da28-769b-427c-b1b9-8aef0fd863f7.CSV
+6207da28-769b-427c-b1b9-8aef0fd863f7
+
+306: reading 620847ab-3bf6-42bf-af50-a15afc3c66cc.CSV
+620847ab-3bf6-42bf-af50-a15afc3c66cc
+
+307: reading 620adda1-8d8b-4e58-9cce-e7075c61a539.CSV
+620adda1-8d8b-4e58-9cce-e7075c61a539
+
+308: reading 620b6b24-2324-4bd3-a239-b68ece07da44.XLS
+620b6b24-2324-4bd3-a239-b68ece07da44
+
+309: reading 620b8138-fafa-4c37-8d7c-cb73dde6e16e.CSV
+620b8138-fafa-4c37-8d7c-cb73dde6e16e
+
+310: reading 620cba10-ee96-4e82-91d3-e2a543209f59.CSV
+IGNORE reading tables/620cba10-ee96-4e82-91d3-e2a543209f59.CSV: '' expected after '"'
+
+311: reading 620e3f6f-0c1b-41fb-a3cc-30741b1f7ace.CSV
+620e3f6f-0c1b-41fb-a3cc-30741b1f7ace
+
+315: reading 621117ac-df29-400f-8768-7b90a269f9b7.XLS
+621117ac-df29-400f-8768-7b90a269f9b7
+
+316: reading 6211a6b2-4767-4356-8e82-d23133527958.CSV
+6211a6b2-4767-4356-8e82-d23133527958
+
+317: reading 6216130f-efc3-4025-98d4-cbdb199efac6.XLS
+6216130f-efc3-4025-98d4-cbdb199efac6
+
+319: reading 621881d5-c156-41e3-a650-48962476b9b2.CSV
+621881d5-c156-41e3-a650-48962476b9b2
+
+322: reading 62277907-26a5-4d6f-a794-a4081b0eb8fa.CSV
+62277907-26a5-4d6f-a794-a4081b0eb8fa
+
+323: reading 622886f6-aea7-47e6-b1f5-e90f61d2b7d8.CSV
+622886f6-aea7-47e6-b1f5-e90f61d2b7d8
+
+325: reading 622cc0dc-bf11-463a-a17c-2e69db9b06bb.XLSX
+622cc0dc-bf11-463a-a17c-2e69db9b06bb
+
+326: reading 622e89b6-38a1-4d85-b713-903b20864ee3.CSV
+622e89b6-38a1-4d85-b713-903b20864ee3
+
+327: reading 622e9e85-b2d6-46e6-a7df-68911c16915f.XLS
+622e9e85-b2d6-46e6-a7df-68911c16915f#Number
+622e9e85-b2d6-46e6-a7df-68911c16915f#Number#Percentage
+
+330: reading 62323566-b2a2-40f8-a268-c339924f6e2d.CSV
+62323566-b2a2-40f8-a268-c339924f6e2d
+
+331: reading 623416ab-a766-4cbe-8caf-11e483c0732b.CSV
+623416ab-a766-4cbe-8caf-11e483c0732b
+
+332: reading 623473dc-38e2-4af2-a8e7-afb804d1d80c.CSV
+623473dc-38e2-4af2-a8e7-afb804d1d80c
+
+333: reading 623761b5-26f7-4639-8d7c-0f31dc5ccf3c.CSV
+623761b5-26f7-4639-8d7c-0f31dc5ccf3c
+
+334: reading 6238e7fb-53d7-4c6a-86d1-5d04f3a0d00e.CSV
+6238e7fb-53d7-4c6a-86d1-5d04f3a0d00e
+
+335: reading 62392f07-3b78-4d6f-bf1b-6c06b1cf9c1f.CSV
+62392f07-3b78-4d6f-bf1b-6c06b1cf9c1f
+
+337: reading 623afabe-16a8-45cc-8979-4abc4cf19ab1.CSV
+IGNORE reading tables/623afabe-16a8-45cc-8979-4abc4cf19ab1.CSV: File is not a zip file
+
+339: reading 623c89b6-a993-4111-aa8c-d229ac697024.CSV
+623c89b6-a993-4111-aa8c-d229ac697024
+
+340: reading 623f25fe-a10a-4f3e-9355-99656bbe3df2.CSV
+623f25fe-a10a-4f3e-9355-99656bbe3df2
+
+341: reading 6240d59d-0973-4eb1-b9d0-dc2a67e9d3cf.CSV
+IGNORE reading Even_Year_Pink: [Errno 21] Is a directory: './tmpqsyf0a9c/Even_Year_Pink'
+
+342: reading 6240dd7c-b2ef-4dd5-b52e-fac29f75ad21.CSV
+6240dd7c-b2ef-4dd5-b52e-fac29f75ad21
+
+343: reading 62416632-7785-4c94-80b6-a8451b381453.CSV
+62416632-7785-4c94-80b6-a8451b381453
+
+345: reading 624ed6e9-84ea-486c-b276-f59271fcf064.CSV
+IGNORE reading tables/624ed6e9-84ea-486c-b276-f59271fcf064.CSV: ' ' expected after '"'
+
+346: reading 624ee4c9-03cb-49bb-9767-0ff11fffb0cf.XLSX
+624ee4c9-03cb-49bb-9767-0ff11fffb0cf
+
+348: reading 62505872-1f98-4779-8ec9-433a2bc9c9f7.CSV
+62505872-1f98-4779-8ec9-433a2bc9c9f7
+
+349: reading 6251bd9c-99db-4690-a762-e9977992dfef.CSV
+6251bd9c-99db-4690-a762-e9977992dfef
+
+350: reading 6252c693-18b6-4ba8-bd86-c9d9caebf6b6.CSV
+6252c693-18b6-4ba8-bd86-c9d9caebf6b6
+
+351: reading 62530e60-9777-4c24-b2e8-7922a5af9172.CSV
+62530e60-9777-4c24-b2e8-7922a5af9172
+
+352: reading 6253c409-a5e4-4ab7-a19e-7a196c540e3a.CSV
+6253c409-a5e4-4ab7-a19e-7a196c540e3a
+
+354: reading 6258de40-d593-4d0f-952b-f3410368b09e.CSV
+6258de40-d593-4d0f-952b-f3410368b09e
+
+356: reading 62598357-9269-4229-a064-0019c49ccfd4.CSV
+62598357-9269-4229-a064-0019c49ccfd4
+
+358: reading 625e3161-d63e-44c4-89de-2784c19a5a62.CSV
+625e3161-d63e-44c4-89de-2784c19a5a62
+
+359: reading 625fc18f-4247-45fd-bc5d-e98712471c49.CSV
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Overview-tbl Intl.csv: Expected 4 fields in line 9, saw 9
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx1-tbl A1.6.csv: Expected 8 fields in line 37, saw 11
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx4.csv: Expected 4 fields in line 3, saw 10
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx1-tbl A1.1.csv: Error tokenizing data. C error: Expected 1 fields in line 2, saw 2
+
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx1-tbl A1.8.csv: Error tokenizing data. C error: Expected 1 fields in line 2, saw 2
+
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx2-tbl A2.3.csv: Error tokenizing data. C error: Expected 1 fields in line 2, saw 2
+
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx1-tbl A1.14.csv: Expected 7 fields in line 66, saw 9
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Chapter6-tbl 6.1.csv: Error tokenizing data. C error: Expected 1 fields in line 9, saw 3
+
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx2-tbl A2.4.csv: Error tokenizing data. C error: Expected 1 fields in line 2, saw 2
+
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+625fc18f-4247-45fd-bc5d-e98712471c49
+IGNORE reading Anx1-tbl A1.7.csv: Error tokenizing data. C error: Expected 2 fields in line 14, saw 3
+
+625fc18f-4247-45fd-bc5d-e98712471c49
+
+360: reading 626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0.XLSX
+626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0#Community_Profile
+626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0#Community_Profile#Agrifood_Business_Counts
+626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division
+626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile
+626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile#Food_Cons_&_Prod_Profile
+626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile#Food_Cons_&_Prod_Profile#Ag_Census_over_time
+626162b6-a3ad-4f9d-ae48-a1c5f3cfe5f0#Community_Profile#Agrifood_Business_Counts#Ag_Profile_Ottawa_Division#Food_Expenditure_Profile#Food_Cons_&_Prod_Profile#Ag_Census_over_time#Categories
+
+361: reading 62664dc2-3359-4db5-afa6-25baedf4bc4e.CSV
+62664dc2-3359-4db5-afa6-25baedf4bc4e
+
+362: reading 62688263-94ee-46af-bb14-6ff5bf979f37.CSV
+62688263-94ee-46af-bb14-6ff5bf979f37
+
+363: reading 626945d7-30ba-41e6-8e27-7dd3f469ff28.CSV
+626945d7-30ba-41e6-8e27-7dd3f469ff28
+
+366: reading 6270184e-70d7-48ca-a33d-7da6bc9a87f7.CSV
+6270184e-70d7-48ca-a33d-7da6bc9a87f7
+
+368: reading 6271d055-7a83-40a0-ae70-ba608da4b130.CSV
+6271d055-7a83-40a0-ae70-ba608da4b130
+
+369: reading 62723ef6-fc11-4d75-9645-894926e200ea.CSV
+62723ef6-fc11-4d75-9645-894926e200ea
+
+371: reading 627611fb-6469-4024-a160-afad9b1d829d.CSV
+627611fb-6469-4024-a160-afad9b1d829d
+
+374: reading 6276ae18-7fe3-4f1e-840f-117fbdac48d2.CSV
+IGNORE reading tables/6276ae18-7fe3-4f1e-840f-117fbdac48d2.CSV: Error tokenizing data. C error: EOF inside string starting at row 67
+
+376: reading 627a615e-ef2d-41ea-94d2-8249d38a23dc.CSV
+627a615e-ef2d-41ea-94d2-8249d38a23dc
+
+377: reading 627c4850-2ffe-4ef8-9367-1b8fcf4e1784.CSV
+627c4850-2ffe-4ef8-9367-1b8fcf4e1784
+
+379: reading 627e5c03-f9b8-4c61-9d6f-7aa48b827546.CSV
+627e5c03-f9b8-4c61-9d6f-7aa48b827546
+
+382: reading 627ef0c5-bea8-4fc8-86d3-5b2c554f395a.CSV
+627ef0c5-bea8-4fc8-86d3-5b2c554f395a
+
+384: reading 627fb743-bf57-407e-acc8-9dd29f16be23.CSV
+627fb743-bf57-407e-acc8-9dd29f16be23
+
+385: reading 62816510-7e8f-4d61-9b72-b32d0e488759.CSV
+IGNORE reading tables/62816510-7e8f-4d61-9b72-b32d0e488759.CSV: Expected 20 fields in line 3, saw 25
+
+387: reading 628b12b8-96f7-4714-b277-771746bab594.CSV
+628b12b8-96f7-4714-b277-771746bab594
+
+388: reading 628c5236-0765-4320-9d79-8a1ff8ef97a9.CSV
+628c5236-0765-4320-9d79-8a1ff8ef97a9
+
+389: reading 628c8478-0897-461b-bf6f-cadad66f006d.CSV
+628c8478-0897-461b-bf6f-cadad66f006d
+
+390: reading 628cc2eb-7e8e-43fd-8ef7-b4fc5577e4bb.CSV
+628cc2eb-7e8e-43fd-8ef7-b4fc5577e4bb
+
+391: reading 628f3153-87a9-4dd1-a9d0-3e26d3343906.CSV
+628f3153-87a9-4dd1-a9d0-3e26d3343906
+
+392: reading 629067c6-beda-4929-88ce-34248a6d8fa2.XLSX
+629067c6-beda-4929-88ce-34248a6d8fa2#Table_22
+629067c6-beda-4929-88ce-34248a6d8fa2#Table_22#Symbols
+
+393: reading 629188f3-ab14-4f43-a6fd-e9d1894521df.CSV
+629188f3-ab14-4f43-a6fd-e9d1894521df
+
+394: reading 62920eed-8fd2-4a3d-b88a-76e1bf573fa1.XLS
+62920eed-8fd2-4a3d-b88a-76e1bf573fa1
+
+395: reading 6292fe9d-9b5f-458d-a94c-3b855797832c.CSV
+IGNORE reading tables/6292fe9d-9b5f-458d-a94c-3b855797832c.CSV: Error tokenizing data. C error: Expected 1 fields in line 196, saw 4
+
+
+396: reading 62940ff6-eaa6-4b71-bfe5-9011f7d305b7.CSV
+62940ff6-eaa6-4b71-bfe5-9011f7d305b7
+
+397: reading 6294adf9-6017-441b-9f35-cf6822d79321.CSV
+6294adf9-6017-441b-9f35-cf6822d79321
+
+399: reading 6297d01a-5924-43d0-8c69-59172d9a1d0a.CSV
+6297d01a-5924-43d0-8c69-59172d9a1d0a
+
+401: reading 6298fe92-c278-4f88-84cd-d3a2da161e1e.CSV
+6298fe92-c278-4f88-84cd-d3a2da161e1e
+
+402: reading 629a2103-35c1-448c-a33b-40f4e11054f8.CSV
+629a2103-35c1-448c-a33b-40f4e11054f8
+
+403: reading 629cb8a9-b083-4dbd-bb5b-ba7bb5c56ef8.CSV
+629cb8a9-b083-4dbd-bb5b-ba7bb5c56ef8
+
+404: reading 629cf5b3-c8c9-4746-bfc3-14e9d6a587b2.CSV
+629cf5b3-c8c9-4746-bfc3-14e9d6a587b2
+
+405: reading 629d6da5-08b3-47fc-916f-8db89e0d7489.XLSX
+629d6da5-08b3-47fc-916f-8db89e0d7489
+
+407: reading 62a16c0e-12d8-4523-bdec-d58eb3059041.CSV
+62a16c0e-12d8-4523-bdec-d58eb3059041
+
+409: reading 62a1fed0-8fc1-41d3-9503-ac69588afa48.CSV
+62a1fed0-8fc1-41d3-9503-ac69588afa48
+
+410: reading 62a2aa04-57c1-48a0-818d-f1c10c7c89df.CSV
+62a2aa04-57c1-48a0-818d-f1c10c7c89df
+
+411: reading 62a43164-620c-41be-b814-0b0a3712ccad.CSV
+62a43164-620c-41be-b814-0b0a3712ccad
+
+412: reading 62a86ff7-1315-407d-b340-6410512fe43b.CSV
+62a86ff7-1315-407d-b340-6410512fe43b
+
+416: reading 62af8fbe-7c9f-4348-88ac-09303aa3e29f.CSV
+62af8fbe-7c9f-4348-88ac-09303aa3e29f
+
+419: reading 62b40b15-a010-4fe7-8d56-d631802231be.XLSX
+62b40b15-a010-4fe7-8d56-d631802231be#Jan2016-Sep2021
+62b40b15-a010-4fe7-8d56-d631802231be#Jan2016-Sep2021#Notes
+
+420: reading 62b7a4b5-f909-44b5-bb8e-f926053be5c9.CSV
+62b7a4b5-f909-44b5-bb8e-f926053be5c9
+
+423: reading 62bbd22e-abbf-4525-b12c-984ba3299683.CSV
+62bbd22e-abbf-4525-b12c-984ba3299683
+
+424: reading 62bd1b1c-9c4e-4be0-bc5d-86fffe11d9ee.CSV
+62bd1b1c-9c4e-4be0-bc5d-86fffe11d9ee
+
+426: reading 62c0f38c-33b9-45d8-b5c8-dd083dd601e2.CSV
+62c0f38c-33b9-45d8-b5c8-dd083dd601e2
+
+429: reading 62c4403e-4a30-4bf5-a4e8-0362993163bf.CSV
+62c4403e-4a30-4bf5-a4e8-0362993163bf
+
+430: reading 62c5b42c-3685-4f92-9a67-420f2661fcde.CSV
+62c5b42c-3685-4f92-9a67-420f2661fcde
+
+432: reading 62c70b8d-2cbd-4a56-b554-a7f83ecc3e2c.XLSX
+62c70b8d-2cbd-4a56-b554-a7f83ecc3e2c#Dictionary
+62c70b8d-2cbd-4a56-b554-a7f83ecc3e2c#Dictionary#Suppression_Notes
+62c70b8d-2cbd-4a56-b554-a7f83ecc3e2c#Dictionary#Suppression_Notes#Dictionary_FR
+62c70b8d-2cbd-4a56-b554-a7f83ecc3e2c#Dictionary#Suppression_Notes#Dictionary_FR#Suppression_Notes_FR
+
+434: reading 62c96c7c-7a6f-4baa-849e-c5a561b2b78c.CSV
+62c96c7c-7a6f-4baa-849e-c5a561b2b78c
+
+435: reading 62ca0e13-dfbf-4248-b50a-a1a85792fda9.XLS
+62ca0e13-dfbf-4248-b50a-a1a85792fda9
+
+437: reading 62ce6d13-0b10-4e68-93ad-3fc26d60aa11.CSV
+IGNORE reading tables/62ce6d13-0b10-4e68-93ad-3fc26d60aa11.CSV: File is not a zip file
+
+438: reading 62cee95a-2938-494a-8d46-20763454e811.CSV
+62cee95a-2938-494a-8d46-20763454e811
+
+439: reading 62cf4217-3ed4-4f30-bac0-7e810d9e8370.XLS
+IGNORE: Can't read file tables/62cf4217-3ed4-4f30-bac0-7e810d9e8370.XLS; None filetype
+
+441: reading 62d01be4-c184-401e-aced-3d7aa2f31623.CSV
+62d01be4-c184-401e-aced-3d7aa2f31623
+
+443: reading 62d784a5-78e7-4374-ab86-7f4785d4ecc4.CSV
+62d784a5-78e7-4374-ab86-7f4785d4ecc4
+
+445: reading 62d869bd-6c57-4238-a5e2-d29925f2efe4.CSV
+IGNORE reading tables/62d869bd-6c57-4238-a5e2-d29925f2efe4.CSV: Error tokenizing data. C error: Expected 1 fields in line 14500, saw 2
+
+
+446: reading 62d86d12-f9b5-429f-9342-7bbacd878151.XLS
+62d86d12-f9b5-429f-9342-7bbacd878151
+
+448: reading 62da4ff4-fc43-4bf2-9542-763cb85e89c5.CSV
+62da4ff4-fc43-4bf2-9542-763cb85e89c5
+
+449: reading 62dcff53-7614-4308-973a-b07e1ed4998f.CSV
+IGNORE reading tables/62dcff53-7614-4308-973a-b07e1ed4998f.CSV: ' ' expected after '"'
+
+451: reading 62def18e-14c1-451c-bad6-0b0b8c01ce7e.CSV
+62def18e-14c1-451c-bad6-0b0b8c01ce7e
+
+452: reading 62defe86-d712-4ec3-a2be-c8b26c8f7f75.CSV
+62defe86-d712-4ec3-a2be-c8b26c8f7f75
+
+453: reading 62e142fb-522a-4599-89cf-b30eb1ba8b42.CSV
+62e142fb-522a-4599-89cf-b30eb1ba8b42
+
+455: reading 62e4f477-19b5-4f44-b3b3-35723cad3e23.CSV
+62e4f477-19b5-4f44-b3b3-35723cad3e23
+
+456: reading 62e79f1b-ac40-411b-beba-2ee2aa9abe70.CSV
+62e79f1b-ac40-411b-beba-2ee2aa9abe70
+
+457: reading 62e79f61-e04b-4a7d-b842-7507c1d5e0a0.CSV
+62e79f61-e04b-4a7d-b842-7507c1d5e0a0
+
+458: reading 62e93a45-10ec-43e8-ac65-eb807779cc1f.CSV
+62e93a45-10ec-43e8-ac65-eb807779cc1f
+
+459: reading 62eb90a3-c198-4f9a-9c37-bb3d53103e56.CSV
+62eb90a3-c198-4f9a-9c37-bb3d53103e56
+
+460: reading 62ecf5ba-a78b-4e9e-ab69-159afc4fb18e.CSV
+62ecf5ba-a78b-4e9e-ab69-159afc4fb18e
+
+461: reading 62edbb3b-2c17-4ebc-a01d-f7127353fd2e.CSV
+62edbb3b-2c17-4ebc-a01d-f7127353fd2e
+
+462: reading 62ef9257-9570-4770-a9a3-7a09340d44f1.CSV
+62ef9257-9570-4770-a9a3-7a09340d44f1
+
+463: reading 62f06652-1242-4f73-8671-30e2ca221d0e.CSV
+IGNORE reading InterpolatedCoAsupportTables: [Errno 21] Is a directory: './tmpsjpede3f/InterpolatedCoAsupportTables'
+
+464: reading 62f0ddeb-638b-4ef1-ad2f-fb03afa9a98f.CSV
+62f0ddeb-638b-4ef1-ad2f-fb03afa9a98f
+
+465: reading 62f22f1d-d261-4965-845e-220696783fbf.XLSX
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2#DPL3
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2#DPL3#DPL4
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2#DPL3#DPL4#DPL5
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2#DPL3#DPL4#DPL5#DPL6
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2#DPL3#DPL4#DPL5#DPL6#DPL7
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2#DPL3#DPL4#DPL5#DPL6#DPL7#DPL8
+62f22f1d-d261-4965-845e-220696783fbf#Table_of_Contents#DPL1#DPL2#DPL3#DPL4#DPL5#DPL6#DPL7#DPL8#DPL9
+
+466: reading 62f241b5-e9fd-49d8-bdf4-12d397c231e5.CSV
+62f241b5-e9fd-49d8-bdf4-12d397c231e5
+
+467: reading 62f421a4-608f-4646-8aa8-e0800399c0f7.CSV
+62f421a4-608f-4646-8aa8-e0800399c0f7
+
+468: reading 62f5ded0-a985-4a1b-9f78-d1de77a1a6a9.CSV
+62f5ded0-a985-4a1b-9f78-d1de77a1a6a9
+
+471: reading 62f7c56f-d144-4e56-8904-1e4f936421fe.CSV
+62f7c56f-d144-4e56-8904-1e4f936421fe
+
+472: reading 62f85fce-815d-417e-aae1-6ba94f737803.XLSX
+62f85fce-815d-417e-aae1-6ba94f737803
+
+473: reading 62f878aa-ad9c-4264-959f-d5359bdd8036.CSV
+IGNORE reading tables/62f878aa-ad9c-4264-959f-d5359bdd8036.CSV: Expected 3 fields in line 6, saw 6
+
+474: reading 62f97b16-8ce7-405c-aff4-d277a7a87362.CSV
+62f97b16-8ce7-405c-aff4-d277a7a87362
+
+475: reading 62f9ac61-6af4-4a1b-aa57-d4bfd21dcdd6.XLSX
+62f9ac61-6af4-4a1b-aa57-d4bfd21dcdd6
+
+476: reading 62fac093-c958-4eba-937b-e119d198618c.CSV
+62fac093-c958-4eba-937b-e119d198618c
+
+477: reading 62facb11-fac1-4dd6-99db-9eceb1cf9112.CSV
+IGNORE reading tables/62facb11-fac1-4dd6-99db-9eceb1cf9112.CSV: '' expected after '"'
+
+478: reading 62fd4dea-b8d6-46cc-b12e-df551fc82dac.CSV
+62fd4dea-b8d6-46cc-b12e-df551fc82dac
+
+479: reading 62fe7a06-5f54-4611-9998-a8be661316cf.CSV
+62fe7a06-5f54-4611-9998-a8be661316cf
+
+481: reading 62ff824b-cc09-4c79-9792-f73bb0ce67e4.CSV
+62ff824b-cc09-4c79-9792-f73bb0ce67e4
+
+482: reading 6300bb1d-2857-4d36-8141-944db9294a66.CSV
+6300bb1d-2857-4d36-8141-944db9294a66
+
+483: reading 630160fb-121b-445d-9a88-70cacdbcd8d7.CSV
+630160fb-121b-445d-9a88-70cacdbcd8d7
+
+484: reading 630293c1-2c1b-40c9-956e-3e56f2a7d184.CSV
+630293c1-2c1b-40c9-956e-3e56f2a7d184
+
+485: reading 6302a7b4-68c0-488a-875c-108ab9b5ffbd.CSV
+6302a7b4-68c0-488a-875c-108ab9b5ffbd
+
+489: reading 63086297-6807-4052-a12e-068320551700.CSV
+63086297-6807-4052-a12e-068320551700
+
+490: reading 63090763-26fd-422d-8aca-d3e7c8562553.XLS
+63090763-26fd-422d-8aca-d3e7c8562553#ENGLISH
+63090763-26fd-422d-8aca-d3e7c8562553#ENGLISH#FRENCH
+
+491: reading 630c426a-8444-4f2a-bbd4-e0ad935b9151.CSV
+630c426a-8444-4f2a-bbd4-e0ad935b9151
+
+492: reading 630d523f-ea2f-4a7a-a659-7f1a6053fa5b.XLS
+630d523f-ea2f-4a7a-a659-7f1a6053fa5b
+
+493: reading 630d958d-e763-4534-ba14-fba316446917.CSV
+630d958d-e763-4534-ba14-fba316446917
+
+494: reading 630f7a69-203a-4673-b9c9-b78945576f6f.CSV
+630f7a69-203a-4673-b9c9-b78945576f6f
+
+495: reading 6310cc7d-019b-418f-9a9b-937de39ae0dd.CSV
+6310cc7d-019b-418f-9a9b-937de39ae0dd
+
+496: reading 63157d27-5a0e-4292-bf76-841c6fd678df.CSV
+63157d27-5a0e-4292-bf76-841c6fd678df
+
+497: reading 631753e0-5793-44d5-86d0-df594d7cc187.CSV
+IGNORE reading tables/631753e0-5793-44d5-86d0-df594d7cc187.CSV: Error tokenizing data. C error: Expected 2 fields in line 34, saw 3
+
+
+498: reading 6318c0f7-be02-409b-86a7-bcd99867f98b.XLSX
+6318c0f7-be02-409b-86a7-bcd99867f98b
+
+499: reading 631901a0-4493-4042-be9c-339722875d9a.CSV
+631901a0-4493-4042-be9c-339722875d9a
+
+500: reading 6319749b-8210-4299-8156-74ee91845f49.CSV
+6319749b-8210-4299-8156-74ee91845f49
+
+501: reading 631af764-4403-4a3a-acba-fb3c9bcae6de.CSV
+631af764-4403-4a3a-acba-fb3c9bcae6de
+
+503: reading 631e5f0b-476e-4f9b-ae8c-0721bc5c00e6.CSV
+ERROR reading tables/631e5f0b-476e-4f9b-ae8c-0721bc5c00e6.CSV: Error tokenizing data. C error: Expected 1 fields in line 2, saw 3
+
+
+504: reading 63231a26-78be-45a6-85d0-08ea140269d7.CSV
+63231a26-78be-45a6-85d0-08ea140269d7
+
+505: reading 6325ade5-f48a-48d9-8a7b-b0d32b265f8f.CSV
+6325ade5-f48a-48d9-8a7b-b0d32b265f8f
+
+506: reading 632a7c80-8cf2-451c-986c-b1ecb56e79d3.XLSX
+632a7c80-8cf2-451c-986c-b1ecb56e79d3
+
+507: reading 632a9e37-8b4d-49f9-8299-02feb24a0d15.CSV
+632a9e37-8b4d-49f9-8299-02feb24a0d15
+IGNORE reading 98-402-X2016008-T2-CANPR-fra.csv: Error tokenizing data. C error: Expected 21 fields in line 29, saw 22
+
+IGNORE reading Metadonnees-fra.csv: Expected 20 fields in line 38, saw 22
+632a9e37-8b4d-49f9-8299-02feb24a0d15
+632a9e37-8b4d-49f9-8299-02feb24a0d15
+
+508: reading 632bf152-b72b-4c8b-a6ff-60bce9b23d1d.CSV
+632bf152-b72b-4c8b-a6ff-60bce9b23d1d
+
+509: reading 632daad8-6818-4d6c-945f-941576e415ad.CSV
+632daad8-6818-4d6c-945f-941576e415ad
+
+510: reading 6330fe97-2a82-483c-9fe1-572a99959a7b.CSV
+6330fe97-2a82-483c-9fe1-572a99959a7b
+
+511: reading 63323c0d-ea6f-41a6-8dee-7b576eefb5d7.CSV
+63323c0d-ea6f-41a6-8dee-7b576eefb5d7
+
+512: reading 633434a0-fe04-4575-aeb8-d547e8f9f90e.CSV
+633434a0-fe04-4575-aeb8-d547e8f9f90e
+
+514: reading 633927c2-e38e-414b-9876-ede90f166898.CSV
+633927c2-e38e-414b-9876-ede90f166898
+
+515: reading 633951f7-f5a3-43aa-9bc9-6791ed371c13.CSV
+633951f7-f5a3-43aa-9bc9-6791ed371c13
+
+516: reading 633b0310-e59d-4359-a6e5-f0dbe8f35670.CSV
+633b0310-e59d-4359-a6e5-f0dbe8f35670
+
+517: reading 633cb8cd-cb24-44f8-9607-71f7f9dda36f.CSV
+IGNORE reading tables/633cb8cd-cb24-44f8-9607-71f7f9dda36f.CSV: Expected 4 fields in line 60, saw 6
+
+519: reading 6341a35c-583e-4fd6-8f24-d2d059c229f2.CSV
+6341a35c-583e-4fd6-8f24-d2d059c229f2
+
+521: reading 6343ecba-b3a3-4075-9691-4c9ab354478b.CSV
+6343ecba-b3a3-4075-9691-4c9ab354478b
+
+522: reading 63449dfd-b6c6-4656-900e-8794a2bdcf46.CSV
+63449dfd-b6c6-4656-900e-8794a2bdcf46
+
+523: reading 63450540-0503-49dd-819c-2fed8b16e6d9.CSV
+63450540-0503-49dd-819c-2fed8b16e6d9
+
+525: reading 63475553-f6a5-4212-905e-818ab3460f5c.CSV
+63475553-f6a5-4212-905e-818ab3460f5c
+
+526: reading 634901b5-ea3b-49a4-b7a2-316e540cc5ed.CSV
+634901b5-ea3b-49a4-b7a2-316e540cc5ed
+
+527: reading 63494800-da38-4b3f-bd2e-59928d3d0d30.CSV
+63494800-da38-4b3f-bd2e-59928d3d0d30
+
+531: reading 634fdf24-7200-49a3-9c88-8452db5cc1a1.XLS
+634fdf24-7200-49a3-9c88-8452db5cc1a1
+
+532: reading 6350c45b-cf6d-4f8a-a572-6d3d2d2f3019.CSV
+6350c45b-cf6d-4f8a-a572-6d3d2d2f3019
+
+533: reading 63523d40-fd42-4c62-9ca1-ac93d80089a2.CSV
+63523d40-fd42-4c62-9ca1-ac93d80089a2
+
+534: reading 6354a320-2d86-4908-a46b-08c7bb131122.CSV
+6354a320-2d86-4908-a46b-08c7bb131122
+
+535: reading 63556b35-70ea-4782-ab97-be48c2369354.CSV
+63556b35-70ea-4782-ab97-be48c2369354
+
+536: reading 6356ba4f-fca6-4c25-b244-67d1a0a436b3.CSV
+6356ba4f-fca6-4c25-b244-67d1a0a436b3
+
+537: reading 6356c36f-8f2a-4623-a416-613b7f6d67f8.CSV
+6356c36f-8f2a-4623-a416-613b7f6d67f8
+
+539: reading 6357b22c-fea3-4c4e-987b-5e9c3a91220e.CSV
+6357b22c-fea3-4c4e-987b-5e9c3a91220e
+
+542: reading 63596e31-a06c-4480-858a-fed7c1b7b18c.CSV
+63596e31-a06c-4480-858a-fed7c1b7b18c
+
+543: reading 6361c5e0-fc36-4ae0-8e39-e1f786ff2216.CSV
+6361c5e0-fc36-4ae0-8e39-e1f786ff2216
+
+544: reading 6364816c-ec43-47af-8c34-88c550b933bc.CSV
+6364816c-ec43-47af-8c34-88c550b933bc
+
+545: reading 63662c6a-970f-4126-8980-9f4f1f1901af.CSV
+63662c6a-970f-4126-8980-9f4f1f1901af
+
+546: reading 63670f10-8f7a-4339-8935-e0d9ae5ca653.CSV
+IGNORE reading tables/63670f10-8f7a-4339-8935-e0d9ae5ca653.CSV: ',' expected after '"'
+
+547: reading 6368b646-3c77-49bc-a4e2-d2f78a9acd9d.CSV
+6368b646-3c77-49bc-a4e2-d2f78a9acd9d
+
+548: reading 636b92c3-1867-431c-a4cd-1058019a4d5d.CSV
+636b92c3-1867-431c-a4cd-1058019a4d5d
+
+549: reading 636d1433-557c-49c1-957d-e3ae0a5e94de.CSV
+636d1433-557c-49c1-957d-e3ae0a5e94de
+
+550: reading 636e19af-d44a-432f-a1c3-a45ffb5719cb.CSV
+636e19af-d44a-432f-a1c3-a45ffb5719cb
+
+553: reading 6375bf8f-58d5-4b6f-84ee-f851913c975b.CSV
+6375bf8f-58d5-4b6f-84ee-f851913c975b
+
+555: reading 637b2700-6948-4d31-b472-f6135a592df8.CSV
+637b2700-6948-4d31-b472-f6135a592df8
+
+556: reading 637e7fda-a067-493d-9bea-7c0f4ff9934d.CSV
+637e7fda-a067-493d-9bea-7c0f4ff9934d
+
+558: reading 638159fd-55ba-4ce3-9de1-8b7fcfcbc8a2.CSV
+638159fd-55ba-4ce3-9de1-8b7fcfcbc8a2
+
+560: reading 63851eda-142a-49e5-a5b1-9ce14ede2c93.CSV
+63851eda-142a-49e5-a5b1-9ce14ede2c93
+
+561: reading 6385af5a-d2f4-414d-b834-10cf90a02ebb.CSV
+6385af5a-d2f4-414d-b834-10cf90a02ebb
+
+562: reading 6388bd7b-7b0b-478a-b6a8-2dea1317d81d.CSV
+6388bd7b-7b0b-478a-b6a8-2dea1317d81d
+
+565: reading 638c4d9f-67c6-4375-b3ee-9a56a723be34.CSV
+638c4d9f-67c6-4375-b3ee-9a56a723be34
+
+566: reading 638c94f5-c454-496c-a996-b82c9ed3ba0c.CSV
+IGNORE reading tables/638c94f5-c454-496c-a996-b82c9ed3ba0c.CSV: Expected 6 fields in line 4, saw 7
+
+567: reading 63933691-085d-4832-a6d2-43cfbf533e93.XLSX
+IGNORE reading tables/63933691-085d-4832-a6d2-43cfbf533e93.XLSX: Can't find workbook in OLE2 compound document
+
+568: reading 6394ff98-1dbe-4d5d-b3c2-c0f6e51c374a.CSV
+6394ff98-1dbe-4d5d-b3c2-c0f6e51c374a
+
+569: reading 6396af83-e5de-457a-9ab7-93496fdcad82.CSV
+6396af83-e5de-457a-9ab7-93496fdcad82
+
+570: reading 63977ca2-75ed-4a42-bf9c-ba0c68c9328b.CSV
+63977ca2-75ed-4a42-bf9c-ba0c68c9328b
+
+572: reading 639a16a2-9aed-4c62-81f0-30589efc8c48.CSV
+639a16a2-9aed-4c62-81f0-30589efc8c48
+
+574: reading 639e7b07-cc72-4a1f-886c-9d5c4c0d9a90.CSV
+IGNORE reading tables/639e7b07-cc72-4a1f-886c-9d5c4c0d9a90.CSV: Expected 4 fields in line 71, saw 6
+
+575: reading 63a00204-b40e-4022-afdc-b6d90a76db1a.CSV
+63a00204-b40e-4022-afdc-b6d90a76db1a
+
+576: reading 63a26695-2929-4aa1-ac4a-7bf3507e06e0.XLSX
+63a26695-2929-4aa1-ac4a-7bf3507e06e0
+
+577: reading 63a5401c-e9b7-4661-b620-7eba8367250d.CSV
+IGNORE reading tables/63a5401c-e9b7-4661-b620-7eba8367250d.CSV: Expected 20 fields in line 3, saw 25
+
+579: reading 63a692f0-36fd-4af9-abde-108b00846a13.CSV
+63a692f0-36fd-4af9-abde-108b00846a13
+
+581: reading 63a78dda-8b2b-449e-b51a-ffe6d13c470a.CSV
+63a78dda-8b2b-449e-b51a-ffe6d13c470a
+
+582: reading 63a8c126-695b-40b6-973d-1f40c44240d7.CSV
+63a8c126-695b-40b6-973d-1f40c44240d7
+
+584: reading 63a9f0ce-ceb6-4c43-84d7-3b70b53d6a3b.XLSX
+63a9f0ce-ceb6-4c43-84d7-3b70b53d6a3b#sd_chicken_En
+63a9f0ce-ceb6-4c43-84d7-3b70b53d6a3b#sd_chicken_En#sd_chicken_Fr
+
+585: reading 63aaca49-0901-4aac-b650-c3881e9cb3fd.CSV
+63aaca49-0901-4aac-b650-c3881e9cb3fd
+
+586: reading 63abddbd-c8ee-4e26-9da9-a6a1f54aa319.CSV
+63abddbd-c8ee-4e26-9da9-a6a1f54aa319
+
+587: reading 63ac6ba0-55ba-4054-806e-c15ab4db00a3.CSV
+63ac6ba0-55ba-4054-806e-c15ab4db00a3
+
+588: reading 63ad98ed-d163-4834-a532-29307e99da24.CSV
+63ad98ed-d163-4834-a532-29307e99da24
+
+589: reading 63ada833-93c8-4e34-af35-92f0e32787b4.CSV
+ERROR reading 2018-07: [Errno 21] Is a directory: './tmpkb3bnhx8/2018-07'
+
+590: reading 63afc865-5d72-49f5-b048-959e9f35e8e5.CSV
+63afc865-5d72-49f5-b048-959e9f35e8e5
+
+591: reading 63b10ce6-2e2f-4951-b5ba-e5135c0f001b.CSV
+63b10ce6-2e2f-4951-b5ba-e5135c0f001b
+
+592: reading 63b4c1ee-00d2-4baf-922c-4ad275cda1bc.XLSX
+63b4c1ee-00d2-4baf-922c-4ad275cda1bc
+
+593: reading 63b9fe35-84ac-4743-9d24-ba3866f1d3df.CSV
+63b9fe35-84ac-4743-9d24-ba3866f1d3df
+
+595: reading 63c112b6-0e82-4e06-a9ca-4f1b95ca6c88.CSV
+63c112b6-0e82-4e06-a9ca-4f1b95ca6c88
+
+596: reading 63c15db7-9de2-42db-9abc-def9d1dee6d0.CSV
+63c15db7-9de2-42db-9abc-def9d1dee6d0
+
+597: reading 63c29e1c-a1ff-4454-b255-79312d689129.XLSX
+63c29e1c-a1ff-4454-b255-79312d689129
+
+598: reading 63c2a8b3-38c5-4f25-8833-8f49720be357.CSV
+63c2a8b3-38c5-4f25-8833-8f49720be357
+
+600: reading 63c57925-5e8b-4d23-8962-580489894619.CSV
+63c57925-5e8b-4d23-8962-580489894619
+
+601: reading 63c651f1-feee-4d14-8457-207217318071.CSV
+63c651f1-feee-4d14-8457-207217318071
+
+602: reading 63c6a07e-481e-4bf4-b067-c04bef4b49b3.CSV
+63c6a07e-481e-4bf4-b067-c04bef4b49b3
+
+603: reading 63c77649-d284-43d0-af57-df5a1d81e2b7.CSV
+63c77649-d284-43d0-af57-df5a1d81e2b7
+
+604: reading 63cc32eb-998e-43c4-89b9-e2ac0d37d382.CSV
+IGNORE reading tables/63cc32eb-998e-43c4-89b9-e2ac0d37d382.CSV: File is not a zip file
+
+605: reading 63ccd131-4443-41e9-9025-2361b06efde2.CSV
+63ccd131-4443-41e9-9025-2361b06efde2
+
+606: reading 63cd99b2-953e-4ac8-a07b-4be883fd666d.CSV
+63cd99b2-953e-4ac8-a07b-4be883fd666d
+
+607: reading 63ce2788-db65-4cb1-a2b4-05370f741bc2.CSV
+63ce2788-db65-4cb1-a2b4-05370f741bc2
+
+608: reading 63ced6b0-177e-4c4a-b77b-d6e93f09a9c5.CSV
+63ced6b0-177e-4c4a-b77b-d6e93f09a9c5
+
+610: reading 63d35dba-5bde-4587-9154-b984ef5972e6.CSV
+63d35dba-5bde-4587-9154-b984ef5972e6
+
+611: reading 63d36d5c-cdac-40d7-8dc8-4d5c4a09da58.CSV
+63d36d5c-cdac-40d7-8dc8-4d5c4a09da58
+
+612: reading 63d3c8ff-9991-4a12-82e9-4621cf296279.CSV
+63d3c8ff-9991-4a12-82e9-4621cf296279
+
+614: reading 63d90dd2-7df1-448c-9b9c-3ed17d6521f0.CSV
+63d90dd2-7df1-448c-9b9c-3ed17d6521f0
+
+615: reading 63d93420-d48e-44cc-b9ce-8ce220e4abd3.CSV
+63d93420-d48e-44cc-b9ce-8ce220e4abd3
+
+616: reading 63da3f57-8286-407b-a496-7dd510cca704.CSV
+63da3f57-8286-407b-a496-7dd510cca704
+
+617: reading 63dc1d3f-991b-4658-9156-ce41d0b38ca4.CSV
+63dc1d3f-991b-4658-9156-ce41d0b38ca4
+
+618: reading 63dea29b-5467-46ae-b348-4eaa7553d629.CSV
+63dea29b-5467-46ae-b348-4eaa7553d629
+
+619: reading 63df1614-49e5-4c9b-8208-bc72d8ebd8be.XLSX
+63df1614-49e5-4c9b-8208-bc72d8ebd8be#Caveat
+63df1614-49e5-4c9b-8208-bc72d8ebd8be#Caveat#Accounts
+
+620: reading 63df7256-04ba-42f1-adc8-7bd439ec806d.CSV
+63df7256-04ba-42f1-adc8-7bd439ec806d
+
+623: reading 63e25025-e173-4633-ba03-87a086955113.CSV
+63e25025-e173-4633-ba03-87a086955113
+
+624: reading 63e28aa9-bd42-45b7-bd3a-3cf188c355df.XLSX
+63e28aa9-bd42-45b7-bd3a-3cf188c355df#English
+63e28aa9-bd42-45b7-bd3a-3cf188c355df#English#French
+
+626: reading 63ead980-4587-4474-ac8b-5041fafa4086.CSV
+63ead980-4587-4474-ac8b-5041fafa4086
+
+627: reading 63eb0388-255a-43c8-a778-a1c58f3f01c0.XLSX
+63eb0388-255a-43c8-a778-a1c58f3f01c0
+
+628: reading 63ec7999-7e9d-4f5d-9074-4962bb38bda3.CSV
+63ec7999-7e9d-4f5d-9074-4962bb38bda3
+
+631: reading 63ee9b55-3cdc-4915-8c74-f81b629eb396.CSV
+63ee9b55-3cdc-4915-8c74-f81b629eb396
+
+632: reading 63f3ba24-cb8d-4c27-9c3d-3b53b9a9dfcc.XLSX
+63f3ba24-cb8d-4c27-9c3d-3b53b9a9dfcc
+
+633: reading 63f52173-4f8e-4295-83b3-a19985ca5b0f.CSV
+63f52173-4f8e-4295-83b3-a19985ca5b0f
+
+634: reading 63f571b3-1a99-456f-80fd-709cfd2b4996.CSV
+63f571b3-1a99-456f-80fd-709cfd2b4996
+
+635: reading 63f6cc10-d149-4b02-9154-5b88aca670ec.CSV
+63f6cc10-d149-4b02-9154-5b88aca670ec
+
+636: reading 63f972a8-8bf2-4584-a735-e5d0c07a9eb6.CSV
+63f972a8-8bf2-4584-a735-e5d0c07a9eb6
+
+637: reading 63fa99ec-f66b-4e72-ad8c-65a6230e2eb1.CSV
+63fa99ec-f66b-4e72-ad8c-65a6230e2eb1
+
+638: reading 63fea1f9-3e2d-4bd2-b6ee-857e2a04a362.CSV
+IGNORE reading tables/63fea1f9-3e2d-4bd2-b6ee-857e2a04a362.CSV: Expected 7 fields in line 3, saw 11
+
+639: reading 63ff0cb0-0011-4143-be39-c96e1b3a631b.CSV
+IGNORE reading tables/63ff0cb0-0011-4143-be39-c96e1b3a631b.CSV: Error tokenizing data. C error: Expected 1 fields in line 373, saw 2
+
+
+641: reading 640128f5-30b4-46fd-8b4f-790c647b1f0f.CSV
+640128f5-30b4-46fd-8b4f-790c647b1f0f
+
+642: reading 6401f05f-fcae-45f5-a918-7b681b489210.CSV
+6401f05f-fcae-45f5-a918-7b681b489210
+
+644: reading 64047cb3-b776-4eda-ab71-9a8508843cb5.CSV
+64047cb3-b776-4eda-ab71-9a8508843cb5
+
+645: reading 6405129d-bb28-448f-ad94-ccd1b35f4a91.CSV
+6405129d-bb28-448f-ad94-ccd1b35f4a91
+
+646: reading 6405a1c1-b7dc-4f2f-bae4-56a10f820f16.CSV
+6405a1c1-b7dc-4f2f-bae4-56a10f820f16
+
+647: reading 6407a316-2af8-4505-8a09-7f8a9e425fc8.CSV
+6407a316-2af8-4505-8a09-7f8a9e425fc8
+
+648: reading 64082f8f-1311-4b82-9116-13308b83d2f6.CSV
+64082f8f-1311-4b82-9116-13308b83d2f6
+
+649: reading 64085c23-7b99-426a-b044-396b31ae74a1.CSV
+64085c23-7b99-426a-b044-396b31ae74a1
+
+651: reading 640ff3ef-f8df-45e0-8dfb-a584d6e3f2f6.CSV
+640ff3ef-f8df-45e0-8dfb-a584d6e3f2f6
+
+652: reading 6413a322-4df8-4a2c-897d-d0167e1b1671.XLS
+6413a322-4df8-4a2c-897d-d0167e1b1671
+
+654: reading 64166a19-1c35-452c-a036-5549758d8edf.CSV
+64166a19-1c35-452c-a036-5549758d8edf
+
+656: reading 6416aee7-c276-43e8-844f-c1ec0fae2007.CSV
+6416aee7-c276-43e8-844f-c1ec0fae2007
+
+657: reading 64171ed4-41b1-4c87-a279-e395f078e8f4.CSV
+64171ed4-41b1-4c87-a279-e395f078e8f4
+
+659: reading 641c9593-4960-463b-a42f-b3888fdd2b97.CSV
+641c9593-4960-463b-a42f-b3888fdd2b97
+
+660: reading 641e8c39-3532-4690-b721-9b85c47f06d5.CSV
+641e8c39-3532-4690-b721-9b85c47f06d5
+
+663: reading 642116b0-aec8-44b7-872d-5855e76ecaf3.CSV
+642116b0-aec8-44b7-872d-5855e76ecaf3
+
+664: reading 6421f8b8-ac37-438c-8f9c-255caf1a0602.XLS
+6421f8b8-ac37-438c-8f9c-255caf1a0602
+
+665: reading 64223d25-48de-49c9-a263-e374110335a2.CSV
+64223d25-48de-49c9-a263-e374110335a2
+
+666: reading 64239d21-9b0a-46d6-8679-1338b40bcc57.CSV
+64239d21-9b0a-46d6-8679-1338b40bcc57
+
+668: reading 642506a1-452c-429e-92eb-d517cb2d63e3.CSV
+642506a1-452c-429e-92eb-d517cb2d63e3
+
+672: reading 6427f0e1-6ec1-4dfc-b1f7-60bc55f5a131.XLSX
+IGNORE reading [trash]: [Errno 21] Is a directory: './tmpbayuxaz7/[trash]'
+IGNORE reading docProps: [Errno 21] Is a directory: './tmpbayuxaz7/docProps'
+IGNORE reading xl: [Errno 21] Is a directory: './tmpbayuxaz7/xl'
+IGNORE reading _rels: [Errno 21] Is a directory: './tmpbayuxaz7/_rels'
+IGNORE: Can't read file ./tmpbayuxaz7/[Content_Types].xml; None filetype
+
+673: reading 642968c2-907c-4b8f-89e0-f4e31d76b584.XLS
+642968c2-907c-4b8f-89e0-f4e31d76b584
+
+674: reading 642c69ec-efaf-43d1-ba7f-fdc1c6928631.CSV
+642c69ec-efaf-43d1-ba7f-fdc1c6928631
+
+677: reading 642fc216-05fe-4a47-a99c-d1c969217edc.CSV
+642fc216-05fe-4a47-a99c-d1c969217edc
+
+678: reading 64301c53-00c3-4168-b430-4979bca2b354.CSV
+64301c53-00c3-4168-b430-4979bca2b354
+
+679: reading 643166ab-7d9b-4801-b3c6-731590cd83ca.CSV
+643166ab-7d9b-4801-b3c6-731590cd83ca
+
+680: reading 643168e4-040c-4294-baf6-116a7afc005c.CSV
+643168e4-040c-4294-baf6-116a7afc005c
+
+682: reading 643960ae-a743-4342-b34c-19672484803c.XLSX
+643960ae-a743-4342-b34c-19672484803c#Sheet1
+643960ae-a743-4342-b34c-19672484803c#Sheet1#Sheet2
+643960ae-a743-4342-b34c-19672484803c#Sheet1#Sheet2#Sheet3
+
+684: reading 643e6c62-8f71-45a2-b41b-73120f3bbb43.CSV
+643e6c62-8f71-45a2-b41b-73120f3bbb43
+
+685: reading 643fbb07-c1d6-467f-8046-e40776c86aad.CSV
+643fbb07-c1d6-467f-8046-e40776c86aad
+
+686: reading 643fca50-9ad3-4428-9a0c-58e5d1962f40.CSV
+643fca50-9ad3-4428-9a0c-58e5d1962f40
+
+687: reading 6440d509-6549-4f08-b54e-85a377028019.CSV
+6440d509-6549-4f08-b54e-85a377028019
+
+688: reading 6440de32-9292-4d75-b7ad-37b872c6c23e.CSV
+6440de32-9292-4d75-b7ad-37b872c6c23e
+
+689: reading 64415abb-4b6e-4810-8cf5-725ef7a45b29.CSV
+64415abb-4b6e-4810-8cf5-725ef7a45b29
+
+690: reading 6443e9bf-6bd8-465b-a778-c83403b65002.CSV
+6443e9bf-6bd8-465b-a778-c83403b65002
+
+692: reading 6449394d-8998-41b7-a4e0-fa424f199a46.CSV
+6449394d-8998-41b7-a4e0-fa424f199a46
+
+694: reading 644b20a3-8cd3-42ee-bfee-2eb5c5a60d77.CSV
+644b20a3-8cd3-42ee-bfee-2eb5c5a60d77
+
+698: reading 64502876-dc8d-475b-be68-93b3453bcb76.CSV
+64502876-dc8d-475b-be68-93b3453bcb76
+
+699: reading 6450d103-61a1-4cf6-bfab-7f55e6bb380a.CSV
+6450d103-61a1-4cf6-bfab-7f55e6bb380a
+
+702: reading 64566be6-41b3-4b62-8e68-7531697ee7a8.CSV
+64566be6-41b3-4b62-8e68-7531697ee7a8
+
+703: reading 6457fd60-15cc-41da-bd08-f2f9c9922818.CSV
+6457fd60-15cc-41da-bd08-f2f9c9922818
+
+704: reading 64582199-916d-4f16-b516-8216b6bd675f.XLS
+64582199-916d-4f16-b516-8216b6bd675f
+
+705: reading 645845f3-b1dd-43ed-b5e3-3a1e5d357bd2.CSV
+IGNORE reading tables/645845f3-b1dd-43ed-b5e3-3a1e5d357bd2.CSV: Error tokenizing data. C error: Expected 1 fields in line 2, saw 4
+
+
+706: reading 645adb1a-d606-43a1-a25f-c4c418af96c9.CSV
+645adb1a-d606-43a1-a25f-c4c418af96c9
+
+708: reading 64612710-a380-456f-8210-6683b0d3a1b2.CSV
+64612710-a380-456f-8210-6683b0d3a1b2
+
+712: reading 64698a0b-6390-4239-a1cb-4f41fa465084.CSV
+IGNORE reading tables/64698a0b-6390-4239-a1cb-4f41fa465084.CSV: File is not a zip file
+
+713: reading 646be5cc-f40d-4ba5-b396-3c8e0f35018f.CSV
+IGNORE reading tables/646be5cc-f40d-4ba5-b396-3c8e0f35018f.CSV: Expected 10 fields in line 3, saw 12
+
+714: reading 646d6ea8-3eb1-40cd-ad91-a3e5e6330c0f.CSV
+646d6ea8-3eb1-40cd-ad91-a3e5e6330c0f
+
+715: reading 646f9bd3-104b-488d-9494-ca32d65acf86.CSV
+646f9bd3-104b-488d-9494-ca32d65acf86
+
+717: reading 6473a617-5b49-498f-a1e0-26a13d7ade24.CSV
+6473a617-5b49-498f-a1e0-26a13d7ade24
+
+718: reading 6473efbd-9550-4d8f-ac86-166caeee93b0.CSV
+6473efbd-9550-4d8f-ac86-166caeee93b0
+
+719: reading 64743acd-f381-4d35-bc88-39b2052236a2.CSV
+64743acd-f381-4d35-bc88-39b2052236a2
+
+720: reading 64749015-835a-4dba-bcc1-78510e8f48db.CSV
+64749015-835a-4dba-bcc1-78510e8f48db
+
+722: reading 6476f11b-af7b-45d4-b90c-78f494a02acc.XLSX
+6476f11b-af7b-45d4-b90c-78f494a02acc
+
+723: reading 64774bc1-c90a-4ae2-a3ac-d9b50673a895.CSV
+64774bc1-c90a-4ae2-a3ac-d9b50673a895
+
+725: reading 64790dd2-3cb2-4aed-82e8-0c1a0ea444af.CSV
+64790dd2-3cb2-4aed-82e8-0c1a0ea444af
+
+726: reading 647e6739-eb8b-422c-996b-a2ce4859e519.XLSX
+647e6739-eb8b-422c-996b-a2ce4859e519#tab25
+647e6739-eb8b-422c-996b-a2ce4859e519#tab25#Symbols
+
+727: reading 64826e86-0414-4372-819b-8d935a6dca8e.CSV
+64826e86-0414-4372-819b-8d935a6dca8e
+
+729: reading 64861a36-e386-43c2-8a46-dd4b425b1407.CSV
+64861a36-e386-43c2-8a46-dd4b425b1407
+
+730: reading 6487bc13-16fb-4a1d-9f02-a410bcb851fa.CSV
+6487bc13-16fb-4a1d-9f02-a410bcb851fa
+
+731: reading 6488ad43-c6f1-447a-bb9a-5a51a63b0ea8.CSV
+6488ad43-c6f1-447a-bb9a-5a51a63b0ea8
+
+732: reading 6488d878-a7d0-4771-a85d-b0bc81d8338b.CSV
+6488d878-a7d0-4771-a85d-b0bc81d8338b
+
+733: reading 64893eff-38d0-4e58-af56-f3cee7575043.CSV
+64893eff-38d0-4e58-af56-f3cee7575043
+
+734: reading 648c424f-e860-4f6b-94a8-efb8ff698424.CSV
+IGNORE reading tables/648c424f-e860-4f6b-94a8-efb8ff698424.CSV: ' ' expected after '"'
+
+736: reading 648fb860-f243-4c55-b05f-0aefc0aca077.XLSX
+648fb860-f243-4c55-b05f-0aefc0aca077
+
+737: reading 649031b5-6d65-42c4-a834-707101d35117.CSV
+649031b5-6d65-42c4-a834-707101d35117
+
+739: reading 6496c1ae-b81f-41a9-b74d-8ad8f27a420f.CSV
+6496c1ae-b81f-41a9-b74d-8ad8f27a420f
+
+740: reading 6497b0f1-fd27-4cc6-aee0-dff5648af7e8.CSV
+6497b0f1-fd27-4cc6-aee0-dff5648af7e8
+
+741: reading 64982300-4680-4ae6-9431-894776aba479.XLSX
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004#ctyplums&prunes2003
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004#ctyplums&prunes2003#ctyplums&prunes2001
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004#ctyplums&prunes2003#ctyplums&prunes2001#ctyplums&prunes2000
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004#ctyplums&prunes2003#ctyplums&prunes2001#ctyplums&prunes2000#ctyplums&prunes1998
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004#ctyplums&prunes2003#ctyplums&prunes2001#ctyplums&prunes2000#ctyplums&prunes1998#ctyplums&prunes1997
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004#ctyplums&prunes2003#ctyplums&prunes2001#ctyplums&prunes2000#ctyplums&prunes1998#ctyplums&prunes1997#ctyplums&prunes1996
+64982300-4680-4ae6-9431-894776aba479#ctyplums&prunes2020#ctyplums&prunes2019#ctyplums&prunes2018#ctyplums&prunes2017#ctyplums&prunes2016#ctyplums&prunes2015#ctyplums&prunes2014#ctyplums&prunes2013#ctyplums&prunes2012#ctyplums&prunes2011#ctyplums&prunes2010#ctyplums&prunes2009#ctyplums&prunes2008#ctyplums&prunes2007#ctyplums&prunes2006#ctyplums&prunes2005#ctyplums&prunes2004#ctyplums&prunes2003#ctyplums&prunes2001#ctyplums&prunes2000#ctyplums&prunes1998#ctyplums&prunes1997#ctyplums&prunes1996#ctyplums&prunes1995
+
+742: reading 6498710a-e476-4811-b36e-13bafa87e74e.XLSX
+6498710a-e476-4811-b36e-13bafa87e74e
+
+743: reading 649a7a30-2dae-429a-a20a-579feccee1e8.CSV
+649a7a30-2dae-429a-a20a-579feccee1e8
+
+745: reading 649b536c-f977-476b-b7db-8ef8f720f086.CSV
+649b536c-f977-476b-b7db-8ef8f720f086
+
+746: reading 649e7276-bc9f-476a-928f-cec3c419134c.CSV
+649e7276-bc9f-476a-928f-cec3c419134c
+
+748: reading 64a08f8b-197c-41ef-babe-600a8c94253c.CSV
+64a08f8b-197c-41ef-babe-600a8c94253c
+
+750: reading 64a1224c-a443-4c29-88eb-b4d3a2a7339f.CSV
+64a1224c-a443-4c29-88eb-b4d3a2a7339f
+
+751: reading 64a58b8f-dce3-49e7-adb5-76a260512394.CSV
+64a58b8f-dce3-49e7-adb5-76a260512394
+
+753: reading 64af53ee-f9de-4685-962c-b68b38d09a7a.CSV
+64af53ee-f9de-4685-962c-b68b38d09a7a
+
+754: reading 64b12013-9729-4c22-9358-040922bfb029.CSV
+64b12013-9729-4c22-9358-040922bfb029
+
+755: reading 64b1611a-3b78-41d6-86d1-c1f3c2618e86.CSV
+64b1611a-3b78-41d6-86d1-c1f3c2618e86
+
+756: reading 64b30bcd-079e-43cb-b847-13356d5ea8a3.CSV
+64b30bcd-079e-43cb-b847-13356d5ea8a3
+
+758: reading 64b4deb1-cdd1-4480-bb12-bc28fd320330.CSV
+64b4deb1-cdd1-4480-bb12-bc28fd320330
+
+759: reading 64b73bcb-feef-460e-a64a-fb8a718073a2.CSV
+64b73bcb-feef-460e-a64a-fb8a718073a2
+
+760: reading 64bcd3c2-548f-46a3-b983-2fc2d780832f.CSV
+64bcd3c2-548f-46a3-b983-2fc2d780832f
+
+761: reading 64bd310a-032d-47bf-8af3-08723c002127.CSV
+64bd310a-032d-47bf-8af3-08723c002127
+
+762: reading 64beaea5-63bd-43c6-9ac5-5986d3da9fa8.CSV
+64beaea5-63bd-43c6-9ac5-5986d3da9fa8
+
+763: reading 64bfa38f-b084-478b-8f84-d86fe9f78592.CSV
+64bfa38f-b084-478b-8f84-d86fe9f78592
+
+764: reading 64c15b78-7963-4139-911e-679ef66d9d0f.CSV
+64c15b78-7963-4139-911e-679ef66d9d0f
+
+765: reading 64c19512-7b79-448e-8819-23dc17277362.CSV
+64c19512-7b79-448e-8819-23dc17277362
+
+766: reading 64c196f8-ad42-4099-b819-6420484a64ac.CSV
+64c196f8-ad42-4099-b819-6420484a64ac
+
+767: reading 64c5a6f7-d8de-41ed-a29a-0fcb0af5e4a8.CSV
+64c5a6f7-d8de-41ed-a29a-0fcb0af5e4a8
+
+770: reading 64ccbb8d-fa4e-47de-89d9-0cdce2bf7dab.CSV
+64ccbb8d-fa4e-47de-89d9-0cdce2bf7dab
+
+771: reading 64ccd7ed-f402-448d-acdd-8219c444cb3b.CSV
+64ccd7ed-f402-448d-acdd-8219c444cb3b
+
+772: reading 64ccfd2c-b8da-40b9-ab91-16f1e65a27c3.CSV
